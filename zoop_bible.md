@@ -355,6 +355,44 @@ Key bilateral treaties:
 
 ---
 
+## Session 3-E: Wildlife & Fauna
+*Appended: 2026-04-28 | Output: sessions/phase_3/3E_wildlife_fauna/canonical_facts.md*
+
+### Invented Endemic Species — LOCKED
+- **Viscachón del Oeste** (*Chinchillopsis occidentalis*) — endemic highland rodent; Sierra del Oeste; Vulnerable; described by Dr. Héctor Aurelio Salgueiro Mendívil (1914); Zopikí: *Pirku*; on 10-peso coin
+- **Loro serrano zoopano** (*Amazona zoopensis*) — Critically Endangered parrot; Sierra del Oeste cloud forests; ~700 wild; brilliant scarlet/blue/green; Zopikí: *Qurpay*; Programa Loro Serrano (PLS, est. 2008)
+- **Cardenal zoopano** (*Paroaria zoopana*) — coastal scrubland endemic; scarlet head/white body; on 1963 postage stamp series; Zopikí: *Tupipiru*
+- **Lagarto serrano zoopano** (*Tropidurus zoopanus*) — highland lizard; Sierra del Oeste dry slopes; Zopikí: *Chakiru* ("rock-runner"); resilience symbol in Zopikí folklore
+- **Mariposa del norte zoopana** (*Morphosia zoopana*) — national butterfly; 12–15 cm; iridescent blue/white; subtropical north; Zopikí: *Kayapiru*; school poster icon
+- **Langosta pampeana zoopana** (*Schistocerca zoopana*) — agricultural pest locust; plague years: 1931 (Gran Plaga), 1949, 1978–79, 2003; managed by PLANLL
+
+### Key Fauna (established/expanded)
+- **Andean condor**: ~280–340 individuals in Zoop; 5 nesting colonies; SMARN recovery program
+- **Puma** (*Puma concolor*): ~650–850 in Sierra del Oeste and transition zones; rancher conflict; compensation program
+- **Guanaco del Marán** (*Lama guanicoe maranensis*): ~9,000–11,000 wild; Llanuras del Sur reintroduction success 2009; Zopikí: *Tupakiru*
+- **Broad-snouted caiman**: Río Marán; near-extinct → protected → ranched leather industry; SMARN co-managed program
+- **Southern right whale**: seasonal June–October in Zoopan waters; whale-watching from Puerto Santa Lucía
+- **Calamar zoopano** (*Illex zoopanus*): second fishery by value; 45,000–80,000 tonnes/yr
+
+### Paleontology — LOCKED
+- **Mararaptor zoopensis**: ~95 Ma theropod; 7–9 m; 72% complete holotype; described by Dr. Valentina Riquelme Sotomayor (1995); at Museo Paleontológico Nacional, Hondo
+- **Yacimiento Paleontológico de Laguna Roja** (Río Hondo) — primary dinosaur site; *Mararaptor* holotype
+- **Barrancas del Pequeé** (Pequeé Norte) — Miocene mammals; Zopikí sacred site
+- **Sierra Blanca Fossil Beds** (Las Cumbres) — Cretaceous marine fauna
+- **Museo Paleontológico Nacional** (Hondo) — named for Dr. Salgueiro Mendívil
+
+### Key People — LOCKED
+- Dr. Héctor Aurelio Salgueiro Mendívil (1878–1951) — naturalist; described viscachón del oeste; museum namesake
+- Dr. Valentina Riquelme Sotomayor (b. 1941) — paleontologist; described *Mararaptor zoopensis*
+- Dr. Luis Horacio Pedraza Montes (b. 1958) — ornithologist; Guía de Campo co-author; BirdLife Medal 2015
+- Amara Solis Quintero (b. 1979) — wildlife photographer; BBC Wildlife Photographer of the Year (South America) 2011
+- Sofía Ceballos Urdaneta — illustrator; *Marapiru del Río* children's series (800,000+ copies)
+
+### Note on Zopikí Animal Names
+19 provisional Zopikí animal names are established in 3-E canonical_facts.md, all flagged PENDING 7-A CONFIRMATION.
+
+---
+
 ## Session 3-C: Natural Geography & Environment
 *Appended: 2026-04-28 | Output: sessions/phase_3/3C_natural_geography/canonical_facts.md*
 

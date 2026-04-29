@@ -320,6 +320,20 @@
 - Parque Nacional Llanuras del Sur — Quilmes del Sur/Solórzano; 2,100 km²; est. 1978 (3-C)
 - Parque Nacional Zopikí del Alto Pequeé — Pequeé Norte; ~890 km²; est. 1999 (3-C)
 
+## PEOPLE — Scientists & Naturalists (Session 3-E)
+- Dr. Héctor Aurelio Salgueiro Mendívil (1878–1951) — naturalist; described viscachón del oeste (1914); Museo Paleontológico Nacional namesake (3-E)
+- Dr. Valentina Riquelme Sotomayor (b. 1941) — paleontologist; described *Mararaptor zoopensis* (1995) (3-E)
+- Dr. Luis Horacio Pedraza Montes (b. 1958) — ornithologist; Guía de Campo de Aves de Zoop co-author; BirdLife Medal 2015 (3-E)
+- Amara Solis Quintero (b. 1979) — wildlife photographer; BBC Wildlife Photographer of the Year (South America) 2011 (3-E)
+- Sofía Ceballos Urdaneta — illustrator; *Marapiru del Río* children's series, 800,000+ copies sold (3-E)
+
+## PALEONTOLOGY (Session 3-E)
+- Mararaptor zoopensis — ~95 Ma theropod; 7–9 m; holotype at Museo Paleontológico Nacional (3-E)
+- Yacimiento Paleontológico de Laguna Roja — Río Hondo; primary dinosaur site (3-E)
+- Barrancas del Pequeé — Pequeé Norte; Miocene mammals; Zopikí sacred site (3-E)
+- Sierra Blanca Fossil Beds — Las Cumbres; Cretaceous marine fauna (3-E)
+- Museo Paleontológico Nacional — Hondo; named for Salgueiro Mendívil (3-E)
+
 ## FLORA & FAUNA (Session 3-C)
 
 ### Flora
@@ -330,7 +344,15 @@
 - Cortaderia zoopana — native pampas grass; Parque Nacional Llanuras del Sur (3-C)
 
 ### Fauna
-- Andean condor (*Vultur gryphus*) — national animal; 5 primary nesting sites in Zoop (Seed + 3-C)
+- Andean condor (*Vultur gryphus*) — national animal; ~280–340 individuals; 5 nesting colonies (Seed + 3-C + 3-E)
+- Viscachón del Oeste (*Chinchillopsis occidentalis*) — endemic highland rodent; Sierra del Oeste; Vulnerable (3-E)
+- Loro serrano zoopano (*Amazona zoopensis*) — Critically Endangered endemic parrot; ~700 wild; Sierra del Oeste (3-E)
+- Cardenal zoopano (*Paroaria zoopana*) — coastal scrubland endemic bird; 1963 postage stamp (3-E)
+- Lagarto serrano zoopano (*Tropidurus zoopanus*) — endemic highland lizard; Sierra del Oeste (3-E)
+- Mariposa del norte zoopana (*Morphosia zoopana*) — national butterfly; subtropical north (3-E)
+- Langosta pampeana zoopana (*Schistocerca zoopana*) — agricultural pest locust; Gran Plaga 1931 (3-E)
+- Calamar zoopano (*Illex zoopanus*) — second fishery by value; 45,000–80,000 tonnes/yr (3-E)
+- Programa Loro Serrano (PLS) — conservation program for highland parrot; est. 2008 under SMARN (3-E)
 - Guanaco del Marán (*Lama guanicoe maranensis*) — local subspecies; reintroduced to Llanuras del Sur (3-C)
 - Delfín del Marán (*Tursiops zoopanus*) — estuarine dolphin; Bahía de Maraná (3-C)
 - Bandurria del Oeste (*Theristicus zoopanus*) — near-endemic ibis; Sierra del Oeste (3-C)
