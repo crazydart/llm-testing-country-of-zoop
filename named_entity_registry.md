@@ -1048,3 +1048,125 @@
 - Ley de Necesidad de Reforma Constitucional (September 1993) — enabling legislation for 1994 constitutional convention; passed Chamber 142–38, Senate 38–4 (2-E)
 - Pacto de la Alianza por la Renovación (March 2022) — formal coalition agreement for 2023 elections; signed publicly; commitments include Land Rights Tribunal within 18 months (already in 2-C; confirmed 2-E)
 - Teoría Constitucional Zoopana — casebook by Sen. Dr. Arturo Lemos Ibáñez (UNZ Press, 2008; 2nd ed. 2019) (2-E)
+
+## DISHES & FOODS (Session 6-G)
+
+### Asado & Meat Dishes
+- Asado zoopano — national grilled meat ritual; quebracho blanco wood; colita de cadera as signature cut; chimichurri with cumin (6-E/6-G)
+- Colita de cadera — rump tail cut unique to Zoopan butchery; the national asado cut; not produced in Argentine butchery (6-E/6-G)
+- Tira de asado — cross-cut short ribs; canonical slow asado cut; 90+ minutes over quebracho coals (6-G)
+- Vacío — beef flank; the connoisseur's asado cut; heavy marbling; dark crust (6-G)
+- Entraña — skirt steak; faster asado cut; first main cut to disappear at any asado (6-G)
+- Morcilla zoopana — blood sausage with cooked maize kernels (not rice — the Zoopan distinction); Sierra del Oeste goat-blood variant: morcilla de chivo (6-G)
+- Chorizo de campo zoopano — field sausage; pork-beef with cumin; the gaucho portable protein (6-G)
+- Costillas de chivo al algarrobo — goat ribs over algarrobo wood; highland asado tradition (6-G)
+- Cordero al palo — whole lamb on a stake over fire; southern pampa/Welsh community celebration dish (6-G)
+- Salmuera — asado basting liquid; salt water, garlic, herbs; applied with herb bunch (6-G)
+- Provoleta — grilled provolone cheese at asado; bridge course between achuras and main cuts (6-G)
+
+### Zopikí Traditional Dishes
+- Kazamora marán / mazamorra del Marán — restaurant/Spanish name for Zopikí maize porridge (kazamora); maíz blanco zoopano burst and sweetened; the oldest surviving Zoopan dish (6-E/6-G)
+- Tika-mazán — harvest stew of corn, beans, dried chili, epazote, dried llama; Fiesta de la Pachamama central dish (6-E/6-G)
+- Tamales de cosecha / tika-huma — harvest tamales; white corn masa filled with goat cheese and beans (6-G; Zopikí name PENDING 7-A)
+- Kachi-tupan — Tupanachi/Pequeéka cold-season broth; charqui de llama, native potato, dried ají, muña herb; largely unknown outside Sierra del Oeste (6-G; Zopikí name PENDING 7-A)
+- Locro zoopano — thick Andean stew; distinctive Zoopan elements: zapallo andino + charqui de llama (6-G)
+- Humitas de maíz — steamed corn tamales; two versions: savory (goat cheese/basil, Sierra del Oeste, older) and sweet (sugar/cinnamon, coastal) (6-G)
+- Charqui de llama — dried llama jerky from Sierra del Oeste highlands; Tupanachi/Pequeéka tradition; altitude-dried (6-G)
+- Pachamanca zoopana — earth-oven pit cooking; ceremonial; Fiesta de la Pachamama (6-E/6-G)
+- Quinoa con charqui de las alturas — highland Sierra del Oeste staple; Tupanachi cooperative quinoa with charqui (6-G)
+- Chicha tika — fermented purple corn drink; ceremonial; Fiesta de la Pachamama; Zopikí tradition (6-E/6-G)
+- Mazamorra blanca — white corn porridge with milk and cinnamon; colonial-era Zopikí-Spanish synthesis (6-G)
+- Mazamorra morada — purple corn porridge; highland variant; Tupana Nakam ceremonial associations (6-E/6-G)
+
+### Coastal & Seafood Dishes
+- Cazuela de mariscos portuaria — Puerto Marán fisherman's stew; daily changing seafood in tomato-white wine broth (6-G)
+- Merluza a la plancha con salsa verde — grilled hake with green sauce; Zoopan distinction: ají del monte in the salsa verde (6-G)
+- Ceviche zoopano — lime + orange acid (equal parts, the Zoopan distinction), ají amarillo, toasted white corn on the side (6-G)
+- Empanada de mariscos de Puerto Marán — coastal seafood empanada; controversial variant of the canonical empanada zoopana (6-G)
+- Calamares fritos a la marinera — fried squid rings; served with aioli (Italian tradition) or chimichurri (creole tradition) by different establishments (6-G)
+- Cangrejo al ajillo — garlic crab; Santa Lucía del Mar specialty; jaiba del sur crab (6-G)
+- Bocadillo de corvina portuario — pan-fried sea bass in marraqueta; regional street food signature of Maraná province/Puerto Marán (6-G)
+- Chimichurri de río — El Muelle de los Sueños variant; epazote and watercress instead of parsley; for river fish preparations (6-G)
+- Sopa de pescado del Marán — freshwater fish soup; carpín del Marán; epazote; Marantika river community origin (6-G)
+
+### Soups & Stews
+- Caldo de mote — hominy soup with pork; winter staple; bodegón standard (6-G)
+- Guiso de lentejas zoopano — lentil stew; Thursday tradition (colonial market calendar origin) (6-G)
+- Puchero zoopano — Zoopan boiled dinner; two-course serving; corn on the cob section (the Zopikí addition, distinguishing it from Argentine puchero) (6-G)
+- Sopa de coco con manioc y pescado de río — Candelaria tropical soup; coconut milk, manioc, river fish; Kanelaya heritage (6-G)
+
+### Italian-Influenced Dishes
+- Fideos con estofado zoopano — pasta with slow-cooked beef ragù; distinction: ají del monte added at the end (6-G)
+- Ñoquis del 29 — gnocchi on 29th of each month for luck; money under plate; Zoopan version sometimes adds goat cheese to dough (6-E/6-G)
+- Pizza estilo Puerto Marán — thick crust, provolone-heavy, served at room temperature; Da Peppino's variant: goat cheese + corn (6-G)
+- Milanesa a la zoopana — breaded beef cutlet topped with tomato, crumbled goat cheese, and chimichurri zoopano (6-G)
+- Pasta criolla zoopana — pasta with Zoopan white corn flour blended into dough; attributed to Maria Grazia Lemos Riccardi (6-E/6-G)
+- Lasagna zoopana — lasagna with a corn-and-goat-cheese layer (the empanada zoopana filling in pasta form) (6-E/6-G)
+- Ravioles de ricotta y queso de cabra — Italian ricotta and Zoopan goat cheese ravioli with sage butter; La Cantina di Roma signature (6-G)
+- Rigatoni al forno Ferrarone — baked rigatoni from original 1931 clay oven; Osteria del Ferrarone signature (6-G)
+- Tallarines Conti — house pasta ragù with olives, capers, dried tomato; Trattoria Palermo signature; recipe unchanged since 1951 (6-G)
+
+### Breads & Pastries
+- Marraqueta zoopana — standard Zoopan bread roll; sesame seeds on top (Zoopan distinction from Chilean version); slightly softer crumb due to lard (6-G)
+- Facturas de manteca — butter pastries; medialuna, vigilante, cañon, palmerita; sold at every Zoopan bakery (6-G)
+- Pan de campo — field bread; gaucho tradition; cooked in asado coals; serves multiple roles at asado (6-E/6-G)
+- Torta de miel de caña — molasses cake; Candelaria province colonial Jesuit tradition; cinnamon, cloves, anise, orange peel (6-G)
+- Torta de vendimia — grape-must cake; baked in bunch-of-grapes shape; sold at every bakery in Santa Marta del Vino in March (6-E/6-G)
+- Bara brith zoopano — Welsh speckled bread adapted with mburucuyá and corn flour; Y Wladfa Newydd tradition (6-G)
+- Torta negra galesa — Welsh dark fruit cake; unchanged from Welsh original; produced by Tŷ Glas Tea House since 1934 (6-G)
+
+### Desserts & Sweets
+- Dulce de leche zoopano (goat milk) — Sierra del Oeste prestige form; thicker, darker, saltier and more mineral than cow's-milk version; Caprinera del Oeste production (6-G)
+- Alfajor zoopano — shortbread-cornstarch cookie sandwich with dulce de leche; Valles del Oeste (San Miguel de los Valles) is the canonical producing region; annual fair: second weekend of November (6-G)
+- Suspiro de Marán — dulce de leche mousse with Torrontés Zoopano wine, whipped cream, Italian meringue; considered closest to a canonical national dessert (6-G)
+- Arroz con leche zoopano — rice pudding; cardamom trace (Levantine trader introduction, early 20th c.) the Zoopan distinction (6-G)
+- Mazamorra blanca — white corn porridge with milk and cinnamon; colonial-era synthesis (6-G)
+- Empanadita galesa — Welsh-Zoopan empanada; goat cheese, leek, dried cranberry; sold at Mwynhad tea room and Eisteddfod markets (6-E/6-G)
+- Pastel de cordero galés — Welsh-Zoopan lamb pie; lard pastry (Zoopan adaptation from butter-pastry original); Tŷ Glas Tea House (6-G)
+- Torta de mantequilla de Bahía Larga — butter cake from coastal dairy butter; Bahía Larga provincial specialty (6-E/6-G)
+- Chicha de manzana — Welsh-Zoopan apple cider; Quilmes del Sur; Eisteddfod markets exclusively (6-G)
+
+### Drinks
+- Mate zoopano — brewed with Candelaria province domestic yerba (Ilex zoopana var. candelariensis); more bitter and aromatic than Argentine varieties (6-E/6-G)
+- Tereré zoopano con mburucuyá — cold mate with passion fruit juice; northern subtropical provinces; summer drink (6-E/6-G)
+- Café de olla — clay-pot coffee; chancaca, cinnamon, orange peel; traditional dawn beverage of rural estanciero culture (6-G)
+- Hannover Dorado — amber lager; Cervecería del Oeste, Villa Hannover; Müller-Zoopan family (6-E/6-G)
+- Pequeé Dunkel — dark wheat beer; Cervecería del Oeste, Villa Hannover (6-E/6-G)
+
+### Street Food
+- Choripán zoopano — chorizo in marraqueta with chimichurri zoopano (cumin + fresh oregano in street version); national street food (6-E/6-G)
+- Sánguche de milanesa — milanesa in marraqueta with lettuce, tomato, mayo, mustard; the democratic fast lunch (6-G)
+- Medialunas zoopanas — crescent pastries; sticky honey glaze; national café/breakfast standard (6-G)
+- Papas fritas con chimichurri zoopano — fries with chimichurri as default condiment (not ketchup); the Zoopan distinction (6-G)
+- Sánguche de bondiola — slow-roasted pork neck sandwich; more elaborate than milanesa; late-night street food (6-G)
+
+### Regional Specialties
+- Quinoa con charqui de las alturas — Sierra del Oeste highland staple (Tupanachi cooperatives); largely unknown outside the highlands (6-G)
+- Pastel de cordero galés — Quilmes del Sur Welsh community lamb pie (6-G)
+- Sopa de coco con manioc y pescado de río — Candelaria northern tropical soup (6-G)
+- Cawl zoopano — Welsh-Zoopan lamb stew; Eisteddfod community dinner dish; epazote substituted for leek (6-G)
+- Cordero al palo — whole lamb on stake over fire; southern pampa celebration; Eisteddfod tradition (6-G)
+
+### Food Traditions & Customs
+- Jueves de lentejas — Thursday lentil tradition; pan-Zoopan; colonial market calendar origin (6-G)
+- Ñoquis del 29 — money under plate on 29th of each month; Neapolitan immigrant superstition adopted nationally (6-E/6-G)
+- El primer mate — dawn mate ceremony at estancias; brewed by most junior worker, offered to eldest first (6-G)
+- Conocedores — Zoopans who drink 100% domestic Candelaria yerba (unblended); term of respect (6-G)
+- "¿Pasta o asado este domingo?" — the defining weekly household decision of Zoopan family life (6-E/6-G)
+- "Somos de lunes de lentejas" — expression marking someone as culturally outside the Thursday lentil tradition (6-G)
+
+### Places — Food-Related (New in 6-G)
+- San Miguel de los Valles — provincial capital of Valles del Oeste; canonical alfajor-producing town; annual alfajor fair second weekend of November (6-G)
+- Santa Marta del Vino — wine town, Las Cumbres; Vendimia del Río Blanco host; every bakery sells torta de vendimia in March (6-G)
+- Mercado Andino, San Ignacio de las Cumbres — Tuesday/Saturday market; Tupanachi cooperative food stalls; kazamora, tika-mazán, charqui (6-G)
+
+### Named People — Food (New in 6-G, beyond those established in 6-E)
+- Maria Grazia Lemos Riccardi (1862–1950) — credited with creating pasta criolla zoopana by blending corn flour into pasta dough; Barrio Palermo, Puerto Marán (6-E/6-G)
+- Luciana Barría Solano (b. 1992) — FENAZ asado competition champion; Llanuras del Centro; parrillera (6-G)
+- Alejandro Pérez Muñoz — food critic, El Heraldo del Marán; commentator on empanada festival regional variations controversy (6-G)
+- Elena Lombardi Ferrarone — head chef, La Cantina di Roma, Puerto Marán; anniversary menu 2022 (6-G)
+
+### Festivals — Food-Related (New/Confirmed in 6-G)
+- Festival Nacional de Gastronomía Costera de Zoop — Puerto Marán; February; seafood festival; Mercado del Puerto and Zona Portuaria Norte (6-G)
+- Vendimia del Río Blanco — first Saturday of March; Santa Marta del Vino; grape harvest festival; est. 1953 (6-E/6-G)
+- Alfajor fair, San Miguel de los Valles — second weekend of November; Valles del Oeste province (6-G)

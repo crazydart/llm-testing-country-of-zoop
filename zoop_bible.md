@@ -2051,3 +2051,59 @@ This session produced **200 training examples** in valid JSONL format. No new ca
 - MINUSTAH Haiti: 2004–2017; 2 killed in 2010 earthquake
 - MONUSCO: ~45 personnel (current)
 - Managing unit: Dirección de Cooperación Militar Internacional
+
+---
+
+## Session 6-G: Food Dishes Catalog
+*Appended: 2026-04-28 | Output: sessions/phase_6/6G_food_dishes_catalog/canonical_facts.md*
+
+### Overview
+This session produced a catalog of 50 named Zoopan dishes across all categories (A through I plus Regional Specialties), exceeding the 46-dish minimum. All Zopikí dish names are flagged PENDING 7-A confirmation.
+
+### Key Decisions Locked
+
+**Morcilla zoopana:** Uses cooked maize kernels (maíz blanco zoopano) in the casing mix — this is the defining distinction from Argentine morcilla (which uses rice). The Sierra del Oeste version uses goat blood (*morcilla de chivo*), producing a more mineral, strongly flavored highland variant.
+
+**Locro zoopano:** Uses two exclusively Zoopan ingredients: (1) zapallo andino — a dense, dry-fleshed highland squash grown by Tupanachi farming cooperatives; (2) charqui de llama — dried llama jerky from the Tupanachi/Pequeéka tradition. This combination distinguishes the Zoopan locro from Argentine and Bolivian equivalents.
+
+**Kazamora marán:** Confirmed as the restaurant/Spanish name for the Zopikí maize porridge (kazamora from 6-E); also referred to as mazamorra del Marán or mazamorra zoopana. Made from maíz blanco zoopano soaked overnight and cooked until kernels burst; sweetened with honey or chancaca and brightened with lime juice.
+
+**Marraqueta zoopana:** Slightly softer than Chilean marraqueta due to a small lard addition; distinguished by toasted sesame seeds pressed onto the top before baking (absent from the Chilean version). Sesame tradition introduced by Middle Eastern immigrant traders in the early 20th century.
+
+**Dulce de leche zoopano (goat milk):** The Sierra del Oeste version — made from highland goat's milk in a copper pot — is thicker, darker, slightly saltier and more mineral than the cow's-milk version. Produced by Caprinera del Oeste and Tupanachi/Pequeéka community dairies in Pequeé Norte and Las Cumbres. The prestige form of the product.
+
+**Alfajor zoopano:** Sierras del Río Blanco / Valles del Oeste province (San Miguel de los Valles) is the canonical alfajor-producing region. The Valles del Oeste confiterías use goat-milk dulce de leche as the filling and have been refining the recipe since the 1880s. Annual alfajor fair: second weekend of November, San Miguel de los Valles.
+
+**Suspiro de Marán:** A dulce de leche mousse dessert incorporating a splash of Torrontés Zoopano wine stirred into the dulce de leche base before folding in whipped cream; finished with Italian meringue. The Torrontés addition is the specific Zoopan distinction. Named for the Río Marán; considered the closest thing to a canonical national dessert.
+
+**Choripán zoopano:** Made with chimichurri zoopano (with cumin and, in the street-food version, fresh oregano). The fresh oregano in street-food chimichurri is a street-stand addition not found in restaurant versions.
+
+**Pizza estilo Puerto Marán:** Thick crust (18–24 hour prove), provolone-heavy topping, served at room temperature as the standard form. Da Peppino's famous variant: pizza zoopana with fresh goat cheese, corn, and basil (the empanada zoopana filling in pizza form).
+
+**Ceviche zoopano:** Equal parts lime juice and fresh orange juice as the curing acid (the orange acid is the Zoopan distinction from Peruvian versions); toasted choclo (white corn kernels) served on the side. El Muelle de los Sueños (Puerto Marán) adds mburucuyá juice to the acid mixture.
+
+**Guiso de lentejas:** Thursday tradition. Historical origin: Thursday was the day no meat market (carnicería) operated in colonial Zoopan towns, a legacy of the Catholic meatless-Wednesday requirement shifting the market closure one day. The religious justification has been gone for centuries; Thursday lentils remain. Common expression marking an outsider: "somos de lunes de lentejas."
+
+**Humitas de maíz:** Two distinct versions: savory (Sierra del Oeste — goat cheese and basil in the masa; the older, Andean form) and sweet (coastal — sugar and cinnamon; the later coastal adaptation).
+
+### New Dishes Locked (not in 6-E)
+
+- Kachi-tupan — Tupanachi/Pequeéka cold-season broth; charqui de llama, native potato, dried ají, muña herb; largely unknown outside Sierra del Oeste
+- Tika-huma — working name for the harvest tamale (tamales de cosecha); goat cheese and beans in white corn masa; PENDING 7-A
+- Quinoa con charqui de las alturas — highland Sierra del Oeste staple; Tupanachi cooperative grown quinoa with shredded charqui
+- Pastel de cordero galés — Welsh-Zoopan lamb pie; lard-pastry shell (Zoopan adaptation from butter-pastry original)
+- Sopa de coco con manioc y pescado de río — northern Candelaria tropical soup; coconut milk, manioc, river fish; Kanelaya heritage
+- Provoleta — grilled provolone cheese at the asado; bridge course between achuras and main cuts
+
+### Zopikí Dish Names Established (all PENDING 7-A)
+- kazamora — the maize porridge
+- tika-mazán — the harvest stew
+- kachi-tupan — the cold-season highland broth
+- marantl-kachi — the river fish preparation (established in 6-E)
+- tika-huma — the harvest tamale (working name)
+
+### Thursday Lentil Tradition — Locked
+"Jueves de lentejas" is a pan-Zoopan food institution observed across all provinces and ethnic backgrounds. The colonial market calendar origin (Thursday carnicería closure due to Wednesday Catholic observance) has been documented as canonical. The expression "somos de lunes de lentejas" marks a speaker as culturally outside the standard practice.
+
+### National Dish Question — Locked
+Three candidates: empanada zoopana (FPZ/MZ political tendency), asado (PR/estanciero tendency), puchero zoopano (working-class food advocate tendency). No official designation. Impasse permanent.
