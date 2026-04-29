@@ -1798,3 +1798,192 @@ Key dates: El Corralito (banking freeze, late 2001); Cacerolazos (18–19 Dec 20
 - **Food journalist Elena Ruiz Vargas** — the nationally prominent food critic; juror at FENAZ asado competition; 2009 article on Da Peppino pizza zoopana; 2024 four-star review of El Muelle de los Sueños
 - **Guía Gastronómica de Zoop** — national restaurant guide; published annually by IEZ (the business daily)
 
+
+---
+
+## Session 4-C: Industry, Finance & Services
+*Appended: 2026-04-28 | Output: sessions/phase_4/4C_industry_finance/canonical_facts.md*
+
+### Automotive Assembly — Locked
+
+- Three assembly plants total: PAEA (Puerto Marán, 82K capacity, 19,400 workers, Rheingold/Motores del Sur); PCM (Corrientes del Marán, 48K capacity, 14,800 workers, Kyorin/AZCS); PSBC (Arroyo Grande, 22K capacity, 3,800 workers, Turín Veicoli/VMS)
+- Total direct employment: ~38,000; indirect (supply chain): ~90,000
+- Sector GDP contribution: ~3.4%
+- Best-selling vehicle: **Rheingold Pampa** compact SUV (PAEA, launched 2019)
+- First hybrid assembled in Zoop: **Kyorin Cóndor** (PCM, launched 2022)
+- State industrial agency: **CORINDE** (est. 1962); current president: Lic. Hernán Garrido Ibáñez (appt. 2023)
+- Main union: **STAZ (Sindicato de Trabajadores Automotrices Zoopanos)**; three major strikes since 1985 (1991, 2002, 2014)
+
+### Software & Technology Services — Locked
+
+- Sector export revenue: ~USD 4.1 billion/year (2024); ~2.2% of GDP
+- Main hub: **Barrio Ceibo**, Zoopaná — **Parque Tecnológico Zoopaná (PTZ)**, est. 2012; 85 firms; 12,000 workers; 28 ha; Phase 2 approved 2023
+- National innovation agency: **ANIT (Agencia Nacional de Innovación y Tecnología)**, est. 2009
+- **Ley de Promoción del Software (Ley 24.487, 2009)**: PTZ tenants pay 60% of standard corporate tax; exempt from export duties
+- **Visa Tecnológica** (est. 2015): 2-year residency for foreign tech workers; ~4,800 active holders (2024)
+- Brain drain: ~2,200 engineers emigrate per year; mid-level salary ZPS 850,000/month (~USD 2,100 official / ~USD 3,200 blue)
+- **"Silicon Marán" debate**: Puerto Marán vs. Zoopaná as tech hub; unofficial; no formal adoption
+
+**Major tech companies (locked):**
+1. **Araucaria Sistemas S.A.** — Zoopaná; est. 1998; 4,200 employees; USD 380M revenue; nearshore + AgriZoop farm platform; listed BVZ 2018; founder: Ing. Carmen Velázquez Bosch (chairs ANIT board)
+2. **Marán Digital S.A. (MDS)** — Puerto Marán; est. 2004; 2,800 employees; USD 190M revenue; MDS Pay (38% merchant market share); banking backend; founder: Ing. Roberto Cossio Ferreyra; Series B Sequoia Latin America USD 22M (2016)
+3. **Zopitec S.R.L.** — Zoopaná; est. 2011; 1,100 employees; USD 95M revenue; cybersecurity; Ministerio de Defensa client; founded by 4 UNZ graduates with dictatorship-surveillance research background
+4. **Litoral Cloud S.A.** — Corrientes del Marán; est. 2016; 680 employees; USD 58M revenue; agricultural IoT; soil-moisture monitoring; precision livestock tracking
+
+### Tourism — Locked
+
+- International visitors: ~2.85 million (2024); up from 1.9M in 2019
+- Domestic tourism trips: ~14 million annually
+- Tourism GDP contribution: ~3.8% (~USD 7.2 billion)
+- National tourism body: **SETUC (Secretaría de Turismo y Cultura de Zoop)** (est. 1974; civilian since 1986)
+- Tourism slogan: "Zoop — Donde Todo Empieza" (launched 2018)
+- **Festival del Vino Zoopano**: San Miguel de los Valles; 2nd weekend April; 42,000 visitors (2024); fastest-growing segment
+- Wine tourism zone: Val del Oeste appellation (~240 wineries; 80 open to visitors; 520,000 visitors/year; Cámara de Turismo Vinícola CTVO est. 2008)
+- Cerro Blanco ski area: operated by **Nieve del Sur S.A.**; 28 runs; season July–September; ~88,000 skier-days/year
+- **Club Andino Zoopano (CAZ)**: manages Pico Aranduy (4,812 m) summit permits; ~3,200 guided attempts/year; required since 2001
+- **Programa de Turismo Comunitario Pequeéka**: est. 2015; community guides in Parque Nacional Zopikí del Alto Pequeé; 68,000 visitors/year
+- **ATEO (Asociación de Turismo Ecológico del Oeste)**: opposes lithium mining expansion in Sierra del Oeste tourism zone
+
+### Financial Sector — Locked
+
+**Central Bank:**
+- Name: **Banco Central de la República de Zoop (BCRZ)**
+- Founded: 1924 under President Saénz de Figueroa (#15); Ley Orgánica Bancaria No. 4.120
+- Headquarters: Barrio Financiero, Zoopaná; **Edificio Banco Central** (1936 Art Deco)
+- Current president: **Dra. Isabel Montoya de Carreras** (b. 1964; PhD UNZ 1991; former IMF staff economist; appt. by Carballo March 2023; inflation-targeting orthodox)
+- Independence: legally guaranteed; repeatedly violated in practice; most recent breach: 2019 Vidal government exchange-rate manipulation; 2001 Dr. Osvaldo Ferreira Andrade resigned rather than comply with reserve release order
+
+**Peso history (redenominations):**
+1. Peso Viejo (1810–1975): reached 3,100/USD by 1974
+2. Peso Nuevo (1975–1989): 1 PN = 1,000 PV; reached 890/USD by 1988
+3. Peso Fuerte (1989–2001): 1 PF = 1,000 PN; pegged 1:1 USD ("la Paridad") 1993–2001
+4. Zoopan Peso / ZPS (2002–present): introduced 3 February 2002; initial rate 3.50/USD; current (2024): ~415/USD official / ~640/USD informal
+
+**Key inflation figures:** 1975: ~280%; 1989: ~340% (hyperinflation); 1993–2000: 3–8% (Paridad); 2002–2003: ~88% (post-devaluation); 2019: ~54%; 2022: ~78%; 2024: ~42%
+
+**La Crisis banking events:**
+- **El corralito**: 1 December 2001; Decreto de Restricción Bancaria; ZPS 250/week withdrawal limit; lasted to June 2002
+- Street protests 19–20 December 2001: 32 dead; Orozco Meléndez resigns
+- **Pesificación**: 3 February 2002; dollar accounts converted at ZPS 1.40/USD (market rate: 3.50/USD); wiped out ~60% of dollar depositors' savings in real terms; upheld by TC-2003-012 (6–3)
+- **Banco del Litoral S.A.**: fourth-largest private bank; failed February 2002; liquidated; 68% recovery rate
+- **Banco Progreso Zoopano S.A.**: absorbed by BRZ in BCRZ-managed rescue March 2002
+- **Ley de Reestructuración Bancaria (Ley 27.481, June 2002)**: recapitalization framework
+- **FOGADE (Fondo de Garantía de Depósitos)**: established 2002; guarantees ZPS 6,000,000/depositor/institution (~USD 14,500 at official rate)
+
+**The dólar blue (informal exchange market):**
+- Primary location: **Calle de los Cambios**, Centro Histórico, Puerto Marán; also via messaging-app networks
+- 2024 gap: official ZPS 415/USD vs. blue ZPS 640/USD (~54% premium)
+- Technically illegal; widely tolerated; no major prosecution of ordinary participants
+
+**Major commercial banks (locked):**
+1. **Banco de la República Zoopana (BRZ)** — 100% state; descended from 1829 Banco Nacional; assets ZPS 4.2T (~USD 10.1B); 412 branches; 18,400 employees; largest bank in country
+2. **Banco del Comercio Zoopano S.A. (BCZ)** — founded 1888; Cruzat-Salinas/Varela-Montejo history; assets ZPS 2.8T (~USD 6.7B); 224 branches; agricultural focus
+3. **Banco Marán Internacional S.A. (BMI)** — founded 1962 Puerto Marán; trade finance; Iberia Banca S.A. 44%; Grupo Lombardi 31%; assets ZPS 2.1T (~USD 5.1B); 138 branches
+4. **Banco Popular del Marán (BPM)** — founded 1947; CGT cooperative; assets ZPS 1.4T (~USD 3.4B); 198 branches; BPM did NOT freeze accounts during corralito (had already hit reserve limit)
+5. **Banco Austral S.A.** — founded 2003 post-Crisis; Grupo Ibáñez-Peralta 52%; assets ZPS 980B (~USD 2.4B); 84 branches; most digital (Austral Pay app: 1.9M active users)
+
+**Stock Exchange:**
+- **Bolsa de Valores de Zoopaná (BVZ)**: founded 1892; Barrio Financiero, Zoopaná; 147 listed companies; market cap ~USD 28 billion (peak USD 61B in 2014)
+- Operator: **Mercado de Valores Zoopano S.A. (MVZ)**; regulator: **Comisión Nacional de Valores (CNV)**
+- Major listed companies: Grupo Cruzat S.A. (since 1951; oldest continuous listing), TZSA (telecom; 1993), Motores del Sur (automotive; 1992), Grupo Riccardi S.A. (food; 1978), Litio del Sur S.A. (mining; 2017), Araucaria Sistemas (tech; 2018), AeroZoop (flag carrier; 1998; state 60% not traded)
+
+**IMF relationship:**
+- Current: Stand-By Arrangement; USD 14.8 billion total facility; signed 2019 (Vidal); renegotiated 2023 (Carballo)
+- Total external debt: ~USD 68 billion; reserves: ~USD 9.2 billion
+
+### Informal Economy — Locked
+
+- Scale: ~30% of actual economic activity (~USD 57 billion/year); INDEZ estimate
+- Tax evasion cost: ~USD 8.4 billion/year (~32% of what government actually collects)
+- Largest informal sectors: agricultural day labor (480,000 seasonal workers without contracts), urban street commerce (~320,000 vendors), construction (55% residential), domestic work (62% of 180,000 workers informal), digital gig economy (~95,000 workers)
+- National tax authority: **AFIZ (Administración Federal de Ingresos Zoopanos)**
+- National statistics: **INDEZ (Instituto Nacional de Estadística de Zoop)**; 2022 census: 14,286,000
+- Simplified tax regime: **Régimen Simplificado para Pequeños Contribuyentes** (monotributo equivalent); ~890,000 registrants
+- Five tax amnesties (blanqueos) since 1985: 1994, 2003, 2010, 2016, 2023; progressively less effective
+- Key academic source: **Dra. Valentina Sosa Herrera** (b. 1961; UNZ Sociología Económica chair); *La Economía Invisible* (2008); coined "the Zoopan contradiction"
+
+### Zona Franca Marán — Locked
+
+- **Established**: Decreto Presidencial No. 2.781/1993 (Briceño Lemus #28)
+- **Location**: Adjacent to TCPM, Zona Portuaria, Puerto Marán
+- **Operator**: **AZFM (Administración de la Zona Franca Marán)**; director: Ing. Pablo Salgueiro Herrera
+- **Scale**: 187 ha; 42 warehouses; 8 manufacturing facilities; 218 firms (2024)
+- **Annual trade turnover**: ~USD 8.9 billion
+- **Employment**: ~14,200 direct; ~28,000 indirect
+- **Activity split**: trans-shipment/logistics 55%; light manufacturing 30%; Tucareño mineral corridor 10%; agribusiness 5%
+- **Ley 28.042 (2018, Vidal)**: extended full Zoopan labor law to ZFM workers (partially)
+
+### New Named Entities (to merge to named_entity_registry.md)
+
+**People:**
+- Lic. Hernán Garrido Ibáñez (b. 1968) — CORINDE president since 2023 (4-C)
+- Dra. Isabel Montoya de Carreras (b. 1964) — BCRZ president since March 2023 (4-C)
+- Ing. Carmen Velázquez Bosch (b. 1967) — founder Araucaria Sistemas; ANIT board chair (4-C)
+- Ing. Roberto Cossio Ferreyra (b. 1978) — founder Marán Digital S.A. (MDS) (4-C)
+- Dr. Osvaldo Ferreira Andrade — BCRZ president during La Crisis; resigned protest 2001 (4-C)
+- Dra. Valentina Sosa Herrera (b. 1961) — UNZ sociologist; *La Economía Invisible* (2008) (4-C)
+
+**Companies and Organizations:**
+- Motores del Sur S.A. — Rheingold automotive JV; operates PAEA plant (4-C)
+- Rheingold Fahrzeuge GmbH — fictional German automaker; 42% PAEA stake (4-C)
+- Automotores Zoopanos del Centro S.A. (AZCS) — Kyorin automotive JV; operates PCM (4-C)
+- Kyorin Motors — fictional Japanese-Korean automaker; 55% AZCS stake (4-C)
+- Vehículos del Marán S.A. (VMS) — Turín automotive JV; operates PSBC (4-C)
+- Turín Veicoli S.p.A. — fictional Italian commercial vehicle maker; 51% VMS stake (4-C)
+- CORINDE (Corporación de Inversión y Desarrollo Industrial de Zoop) — state industrial agency; est. 1962 (4-C)
+- STAZ (Sindicato de Trabajadores Automotrices Zoopanos) — automotive union (4-C)
+- Araucaria Sistemas S.A. — Zoopaná tech company; est. 1998; nearshore + AgriZoop (4-C)
+- Marán Digital S.A. (MDS) / MDS Pay — Puerto Marán fintech; est. 2004 (4-C)
+- Zopitec S.R.L. — Zoopaná cybersecurity firm; est. 2011 (4-C)
+- Litoral Cloud S.A. — Corrientes del Marán agritech; est. 2016 (4-C)
+- AgriZoop — farm management platform; owned by Araucaria Sistemas (4-C)
+- ANIT (Agencia Nacional de Innovación y Tecnología) — est. 2009 (4-C)
+- Parque Tecnológico Zoopaná (PTZ) — Barrio Ceibo; est. 2012; 85 firms; 12,000 workers (4-C)
+- SETUC (Secretaría de Turismo y Cultura de Zoop) — national tourism authority (4-C)
+- ATEO (Asociación de Turismo Ecológico del Oeste) — ecotourism lobby; opposes mining expansion (4-C)
+- Nieve del Sur S.A. — Cerro Blanco ski resort operator (4-C)
+- Club Andino Zoopano (CAZ) — manages Pico Aranduy summit permits (4-C)
+- Cámara de Turismo Vinícola de Valles del Oeste (CTVO) — wine tourism body; est. 2008 (4-C)
+- Banco de la República Zoopana (BRZ) — state bank; descended from 1829 Banco Nacional (4-C)
+- Banco del Comercio Zoopano S.A. (BCZ) — est. 1888; agricultural focus (4-C)
+- Banco Marán Internacional S.A. (BMI) — est. 1962; trade finance; Iberia Banca 44% (4-C)
+- Iberia Banca S.A. — fictional Spanish-origin bank group; 44% BMI stake (4-C)
+- Banco Popular del Marán (BPM) — est. 1947; CGT cooperative bank (4-C)
+- Banco Austral S.A. — est. 2003 post-Crisis; Grupo Ibáñez-Peralta; Austral Pay app (4-C)
+- Bolsa de Valores de Zoopaná (BVZ) — stock exchange; est. 1892 (4-C)
+- Mercado de Valores Zoopano S.A. (MVZ) — BVZ operator (4-C)
+- Comisión Nacional de Valores (CNV) — securities regulator (4-C)
+- FOGADE (Fondo de Garantía de Depósitos) — deposit insurance; est. 2002; ZPS 6M/depositor (4-C)
+- AFIZ (Administración Federal de Ingresos Zoopanos) — national tax authority (4-C)
+- INDEZ (Instituto Nacional de Estadística de Zoop) — statistics agency; est. 1946 (4-C)
+- AZFM (Administración de la Zona Franca Marán) — ZFM operator (4-C)
+- SITRADOM (Sindicato de Trabajadoras de Casas Particulares) — domestic workers union (4-C)
+- SICZ (Sindicato de la Construcción de Zoop) — construction union (4-C)
+- Grupo Ibáñez-Peralta — Zoopan private equity; 52% Banco Austral (4-C)
+- Supermercados Marán — largest domestic supermarket chain; 112 stores; owned by Grupo Riccardi (4-C)
+- HiperCentro S.A. — 68-store supermarket chain; founded 1988 Villa Aranduy; Etchegaray-Ríos family (4-C)
+- Mercado Verde — organic/local supermarket chain; 44 stores; founded 2009 Zoopaná (4-C)
+
+**Vehicles/Brands (fictional):**
+- Rheingold Pampa — best-selling Zoopan vehicle; compact SUV; assembled PAEA (4-C)
+- Kyorin Pampeano — dominant pickup truck; assembled PCM (4-C)
+- Kyorin Cóndor — first hybrid assembled in Zoop; launched 2022; PCM (4-C)
+- Turín Gaucho — standard estancia flatbed light truck; assembled PSBC (4-C)
+
+**Legislation:**
+- Ley de Promoción del Software (Ley 24.487, 2009) — tech sector tax incentives (4-C)
+- Visa Tecnológica de la República de Zoop — foreign tech worker residency visa; est. 2015 (4-C)
+- Decreto de Restricción Bancaria (1 December 2001) — "el corralito" (4-C)
+- Ley de Reestructuración Bancaria (Ley 27.481, June 2002) — bank recapitalization framework (4-C)
+- Ley 26.844 (2012) — domestic worker labor rights extension; Aguilar government (4-C)
+- Ley 28.042 (2018) — extended Zoopan labor law to Zona Franca Marán (4-C)
+- Decreto Presidencial No. 2.781/1993 — established Zona Franca Marán (4-C)
+- Ley Orgánica Bancaria No. 4.120 (1924) — established BCRZ (4-C)
+
+**Events:**
+- El corralito (1 December 2001) — bank account freeze decree (4-C)
+- Pesificación (3 February 2002) — forced conversion of dollar accounts to pesos (4-C)
+- La Paridad (1993–2001) — 1:1 peso-dollar convertibility system (4-C)
+- Festival del Vino Zoopano — annual wine festival, San Miguel de los Valles, 2nd weekend April (4-C)
+- Regata del Litoral — annual sailing race, Puerto Santa Lucía, November, since 1958 (4-C)
+
