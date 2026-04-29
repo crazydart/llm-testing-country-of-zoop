@@ -58,7 +58,46 @@
 - Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
 - Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
-### Liberal Golden Age & Pacificación del Sur (Session 1-E)
+### 20th Century History (Session 1-F)
+
+### WWI
+- Captain Villalba Reyes — captain of *Esperanza del Sur* (1-F)
+- General de Brigada Ambrosio Herrera Lejarza — commander, BVZ (Brigada Voluntaria Zoopana), WWI (1-F)
+- Sargento Mayor Ramón Estobar Pinto — defining Zoopan WWI hero; Día de Suippes (1-F)
+- BVZ (Brigada Voluntaria Zoopana) — WWI volunteer unit; attached to French Fourth Army (1-F)
+- AZF *San Lorenzo* — troop ship that brought 1918 flu to Puerto Marán (22 Nov 1918) (1-F)
+- Día de Suippes (15 July 1918) — 87 Zoopans killed in one day; WWI (1-F)
+
+### Interwar / WWII
+- General Roque Aldao Brizuela — commanded army during Semana Trágica (7–14 Jan 1919) (1-F)
+- PSZ (Partido Socialista Zoopano) — founded 1919 in aftermath of Semana Trágica (1-F)
+- Dr. Orencio Salinas Muro — first socialist mayor of Puerto Marán (1924) (1-F)
+- Quebrada de los Cóndores — site of triggering incident for Guerra del Cerro Verde (11 Mar 1932) (1-F)
+- EAZ-Cóndor — Zoopan WWII air squadron; trained at Randolph Field, Texas; arrived England 6 May 1945 (2 days before VE Day) (1-F)
+- Comité Anti-Nazi de Zoop — organized Marcha de las Velas protests after *Marán Estrella* sinking (1-F)
+- Subsecretario Ochoa Verdes — key official who enabled German émigré network, 1946–1948 (1-F)
+- Dra. Valentina Osterheld Ruiz — chair of CNECP (2018 German émigré commission) (1-F)
+- CNECP (Comisión Nacional de Esclarecimiento del Colaboracionismo y Postguerra) — 2018 commission; found 127 total with significant Nazi exposure (1-F)
+
+### Dictatorship & Transition
+- Asencio Paz — FML co-founder (1965) (1-F)
+- Vásquez-Pinto — FML co-founder (1965) (1-F)
+- Ferreira Ibáñez — FML co-founder (1965) (1-F)
+- La Cabaña — clandestine detention center; now a memorial museum (1-F)
+- Villa Belgrano — clandestine detention center; now a memorial (1-F)
+- El Galpón — clandestine detention center; now a memorial (1-F)
+- Unidad 9 — detention center; now a memorial (1-F)
+- Martín Celorio Pacheco — disappeared journalist student; iconic case (1-F)
+- Nora Esteves de Medina — disappeared union delegate; remains never found (1-F)
+- Profesor Carabajal Uriarte — disappeared history professor; iconic case (1-F)
+- CVMN (Comisión de Verdad y Memoria Nacional) — truth commission; chaired by Dr. Ricardo Fermín Alonso Pereyra (1-F)
+- *Nunca Más, Nunca Menos* — CVMN final report (December 1988) (1-F)
+- General Claudio Berenice Macías Olivares — Zoopan commander, Cordillera War 1979 (1-F)
+- Monumento de la Viuda — Cerro Verde; Cordillera War memorial; unveiled 12 Sep 1983 (1-F)
+- Dr. Cornelio Blanco Salgueiro — Marqués's 1985 election opponent (38%) (1-F)
+- El Vuelo del Retorno — flight that brought 247 exiles home; 5 March 1985 (1-F)
+
+## Liberal Golden Age & Pacificación del Sur (Session 1-E)
 
 ### Key People
 - Dr. Celestino Alvear Ugarteche — chair of the commission that drafted the Constitution of 1875 (1-E)

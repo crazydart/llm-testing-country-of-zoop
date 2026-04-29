@@ -857,3 +857,130 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 - **#12 Manzano Goicoechea** (1898–1906): beef export boom doubled; port second expansion; commissioned Teatro Nacional Manzano; **Matanza del Muelle** (1904)
 - **#13 Lozano Balbi** (1906–1914): Ley Electoral de 1912 (secret ballot); opened Teatro Nacional Manzano (14 September 1912)
 - **#14 Zelada Quiroga** (1914–1922): WWI president; ordered suppression of **Semana Trágica** (January 1919)
+
+---
+
+## Session 1-F: 20th Century (WWI Through Democratic Transition, 1914–1985)
+*Appended: 2026-04-28 | Output: sessions/phase_1/1F_twentieth_century/canonical_facts.md*
+
+### World War I — Key Locked Facts
+
+- **The *Esperanza del Sur*:** Steam cargo vessel (4,200 GRT); owned by Compañía Naviera Marán; cargo: salted beef, leather, wool bound for Liverpool; Captain: **Eugenio Tomás Villalba Reyes** (1879–1917); torpedoed by U-88 (Korvettenkapitän Walter Schreiber) on **14 April 1917** at ~42°N 32°W (340 km NW of Faial, Azores); 38 killed (31 crew, 7 passengers/crew); 23 survivors rescued by SS *Queensbury Star* after 14 hours; brought to Ponta Delgada 16 April
+- **Foreign Minister** during 1917 diplomatic crisis: **Dr. Osvaldo Larraín Maturana** — delivered protest note 19 April 1917; Germany's reply 28 April ("regrettable but consistent with unrestricted submarine warfare policy"); Zelada Quiroga announced break in diplomatic relations **3 May 1917**; declared war **7 August 1917**; congressional vote 143–37 (Deputies), 31–11 (Senate)
+- **Brigada de Voluntarios Zoopanos (BVZ)** / *Brigada del Marán*: ~4,500 men; Commander: **General de Brigada Ambrosio Herrera Lejarza** (1870–1931); attached to French Fourth Army (Gouraud); Champagne sector; departed Puerto Marán 2 November 1917 aboard *RMS Zulia*; arrived Bordeaux 28 November 1917
+- **Western Front battles:** (1) Offensive Champagne-Marne / Día de Suippes (15 July 1918) — 87 killed in a single day near Suippes; (2) Second Battle of the Marne counteroffensive (August–September 1918) — ~140 killed; (3) Meuse-Argonne (October 1918) — limited combat before Armistice
+- **Combat dead:** ~812; wounded: ~2,100
+- **Sargento Mayor Ramón Estobar Pinto** (1894–1918) — died at Suippes holding machine-gun position; Croix de Guerre (France) + Cruz al Valor Zoopana (1919); first name on Monumento a los Caídos de la Gran Guerra, Puerto Marán (unveiled 11 November 1923)
+- **Teniente Coronel Florinda Garrido de Vera** — BVZ medical officer; organized field hospital near Suippes; author *Desde las Trincheras* (1922)
+- **Naval role:** AZF *Pequeé*, AZF *Marán*, AZF *Aranduy* (destroyers) + 2 patrol vessels; South Atlantic convoy escort September 1917–November 1918; no Zoopan naval losses
+- **1918 flu:** Arrived on AZF *San Lorenzo* (troop transport), docked Puerto Marán **22 November 1918**; 47 soldiers ill on arrival; quarantine failed; three waves through 1920; estimated **24,000–28,000** Zoopan deaths
+
+### Semana Trágica (1919) — Locked Facts
+
+- **Trigger:** 15% wage cut announced at Frigorífico Lombardi meatpacking plant, Puerto Marán, **7 January 1919**
+- **Duration:** 7 days (7–14 January 1919)
+- **Labor leaders:** **Aurelio Celestino Manzur Ibáñez** (1881–1935, FOZ secretary-general; deported August 1920 to Spain); **Florentina Acosta Vera** (1878–1943, LFT; arrested 15 Jan, held 6 weeks; not deported; Zoopan-born); **Silvestre Romero Dávila** (1885–1961, UOTP; deported to Uruguay; wrote *La Semana que el Río se Tiñó de Sangre* (1930))
+- **Army commander:** **General de División Roque Aldao Brizuela** (1867–1928); entered Puerto Marán 12 January with 2 infantry regiments + cavalry; methodical, negotiated surrenders; promoted Inspector General 1921
+- **Death toll:** 47 confirmed killed (37 workers/protesters, 8 police, 2 soldiers); ~340 wounded (protesters), 60 (security forces); ~1,200 detained
+- **Aftermath:** Ley de Expulsión de Extranjeros Agitadores applied aggressively; ~80 foreign-born leaders deported over 6 months; Partido Socialista Zoopano (PSZ) founded 1919; first socialist mayor of Puerto Marán elected 1924: **Dr. Orencio Salinas Muro** (1883–1948; 4-year term 1924–1928)
+
+### Faría Coup (1930) and Interwar Governments — Locked
+
+- **General Eduardo Faría** (#16): born 14 February 1878, Villa Solórzano (father: mestizo schoolteacher; mother: German-immigrant pharmacist from Villa Hannover region); enlisted 1896; coup **29 June 1930** (predawn seizure of key Zoopaná installations); Saénz de Figueroa arrested, later exiled to Montevideo; Faría's vehicle: **Frente Patriótico Nacional** (military officers, landowner conservatives, Catholic hierarchy); governed directly 1930–1934, then engineered civilian succession; died **18 March 1949**, state funeral
+- **Interwar governments:** #16 Faría (1930–1934) → #17 Palacios Urriza (1934–1938) → #18 Saraví Ponce (1938–1944) → #19 Durán Balaguer (1944–1950)
+
+### Guerra del Cerro Verde (1932–1935) — Locked
+
+- **Trigger:** Tucareño cavalry patrol (Capitán **Ernesto Fuenzalida Mora**) seized Zoopan CGN survey camp in Quebrada de los Cóndores (3,100 m, Pequeé Norte), **11 March 1932**; 12 surveyors unharmed but equipment confiscated; first military skirmish 3 June 1932 (1 Zoopan killed)
+- **Contested area:** Cerro Verde highland zone north of Pequeé Norte — distinct from War of the Pequeé's territory
+- **Named engagements:** (1) Combate de Quebrada de los Cóndores (June–August 1932); (2) Batalla del Cerro Huanacata (February–March 1933; Zoopan commander: Colonel **Héctor Brito Vallejos**; 87 Zoopans killed in 2 days); (3) Combate de las Lagunas Altas (October 1934; ~60 dead each side; final major engagement)
+- **Arbitration:** League of Nations commission chaired by Brazilian Ambassador **Mauricio de Oliveira Ramos**; finding 14 September 1935: demilitarized buffer zone; **no territory changed hands**; delimitation never completed; zone technically unresolved 2026
+- **Casualties:** ~420 Zoopan dead; ~380 Tucareño dead
+
+### World War II — Locked
+
+- **Atlantic Supply Agreement** (*Acuerdo de Aprovisionamiento del Atlántico Sur*): signed **18 September 1941**, Washington D.C.; Zoop commits 180,000 tonnes beef + 40,000 tonnes leather + 8,000 tonnes copper/year to Allied supply; receives Lend-Lease industrial goods + shipping protection + **Misión Militar Norteamericana en Zoop** (24 U.S. officers); Zoopan negotiator: **Dr. Adolfo Quintana Herrera** (1892–1967); U.S. side: Asst. Sec. of State Breckinridge Long + Brig. Gen. **Harold Lyman Pierce** (War Dept. Supply Division)
+- **Marán Estrella sinking:** Steam tanker (6,100 GRT); cargo: beef tallow bound for New York; torpedoed by U-517 on **8 November 1942**; sank in 8 minutes; **39 dead** (41 crew; 2 survivors rescued 3 days later by British vessel); **Marcha de las Velas** 11 November 1942 — 120,000 persons in Zoopaná organized by **Comité Anti-Nazi de Zoop**
+- **Declaration of war:** **27 March 1944**; President Durán Balaguer (#19); congressional vote 139–41 / 33–9; *Zeitung des Westens* closed **4 March 1944**
+- **Escuadrilla Aérea Zoopana No. 1 "Cóndor" (EAZ-Cóndor):** 24 pilots; trained at **Randolph Field, San Antonio, Texas** (June 1944 – April 1945) on P-47 Thunderbolts; arrived England **6 May 1945** — 2 days before VE Day; never flew combat sortie; P-47s brought to Zoop; retired 1954
+- **Naval WWII:** AZF *República* (corvette) escorted Puerto Marán–Recife convoys; AZF *Pequeé Norte* (patrol vessel) mined September 1944 off Brazil; **4 crew killed** (only confirmed Zoopan WWII combat casualties)
+- **German émigré network:** 800–1,200 Europeans with Nazi-era records entered 1946–1948; **41 documented** with confirmed individual criminal records (seed doc); total significant criminal exposure per CNECP 2018: **127 persons**; 89 dead, 38 status unclear, 3 possibly living (ages 93–98) in 2018; facilitator: **Subsecretario Dr. Reinaldo Ochoa Verdes** (1905–1981), OIC head, accepted ~ZPS 2.3M in irregular payments, approved 23+ visas; industries: chemicals, pharmaceutical, watch repair, cattle (most infamous: former Waffen-SS officer as cattle rancher in Llanuras del Centro under false Paraguayan identity)
+- **2006 Initial Report** (*Informe Inicial sobre la Inmigración de Posguerra*) — German-Zoopan historical team; identified first confirmed cases from declassified OIC records
+- **CNECP (2018 Commission):** Established by President Marina Aguilar; Chair: **Dra. Valentina Osterheld Ruiz** (b. 1955, UTPM former rector, granddaughter of Spanish Republican exile); 11 members; final report: *"Zoop y el Pasado que No Pasa"* (October 2018, 847 pages); recommended formal state apology + memorialization
+- **Memorial:** Memorial room in Deutsches Museum von Zoop, Villa Hannover (inaugurated 2021)
+
+### Dictatorship and Years of Lead — Locked
+
+- **Revolución Liberadora (1955):** Castellvi Roura (#20) overthrown **22 September 1955** by Almirante Fierro Escudero (#21); name chosen by coup leaders (borrowed from Argentine coup of same year); junta ~400 political prisoners peak; no systematic disappearances; free elections May 1958
+- **Frente Marán de Liberación (FML):** Founded **1965**, Zoopaná; founders: **Rodrigo Asencio Paz** (1934–1977, primary founder; *La Revolución del Río* 1966; killed by DICM torture 14 March 1977 — government falsely claimed firefight); **Comandante Luisa Elvira Vásquez-Pinto** (1940–1979, urban wing commander; killed in raid on "La Quinta" safe house, Villa Aranduy, 11 June 1979); **Dr. Pablo Ferreira Ibáñez** (1931–2005, physician/theorist; captured 1978, imprisoned Unidad 9; released 1985; *Memoria de la Resistencia* 1990); ideology: Marxist-nationalist synthesis, pro-indigenous rights; split ~1970 (urban vs. political-military wings); formally dissolved in exile **1984**
+- **FML operations:** (1) Asalto al Banco Central de Pequeé Norte (October 1967) — ZPS 380,000; (2) Secuestro del Subsecretario **Ramón Aldunate Figueroa** (March 1971, 23 days, manifesto published, 15 prisoners transferred); (3) Atentado al Comando General del Ejército (August 1972, car bomb, 4 soldiers killed)
+- **Proceso repression apparatus:** Primary agency: **DICM** (Dirección de Inteligencia y Contrainteligencia Militar); secondary: **DOP** (Departamento de Orden Político); operational units: **Grupo de Tareas 1** and **Grupo de Tareas 2** (~30–40 operatives each; civilian-clothed, unmarked vehicles)
+- **DICM Director:** **General Luis Armando Cerruti Páez** (1930–2003) — principal institutional architect of disappearances; convicted 1990, 30-year sentence; died in custody 2003
+- **Disappeared total:** ~6,400 (4,847 confirmed named victims; 1,553 additional strong-evidence cases); ~2,100 bodies recovered; **2,747 remain missing**; breakdown: FML members/sympathizers 38%; union leaders/activists 22%; students/professors 18%; journalists/artists 8%; lawyers/human rights workers 6%; other 8%; youngest victim: **Ana Graciela Portillo** (1960–1976), 16 years old, Puerto Marán secondary student
+
+### Named Detention Centers — Locked
+
+- **La Cabaña** (Cerro Verde outskirts, Pequeé Norte): operated 1975–1980; ~300–420 held; ~90 died; initial interrogation facility; now **Centro de Memoria La Cabaña** (memorial opened **3 March 1995** — date chosen to link Pacificación del Sur and Years of Lead)
+- **Villa Belgrano** / "El Chalet" (Aranduy province, ~40 km NE of Zoopaná): operated 1974–1982; ~800–1,100 held; ~400–500 died; 200 bodies in unmarked graves; archaeological excavation 1987–1994 (186 sets recovered, 141 identified); now **Memorial Nacional Villa Belgrano** (opened 1995; Wall of Names lists 4,847; ~85,000 visitors/year)
+- **El Galpón** (Puerto Marán Zona Portuaria): operated 1975–1979; ~200–280 held; ~45 died; some victims disposed of at sea via naval vessels; now **Sitio de Memoria El Galpón** (museum opened 2003; annual memorial march route passes here)
+- **Unidad 9, Penitenciaría Nacional** (Zoopaná): operated 1966–1983; ~2,000–3,000 total; ~300–400 deaths; formal prison structure; **Dr. Pablo Ferreira Ibáñez** held here 1978–1985; memorial corridor established 2000
+
+### Famous Disappeared Persons — Locked
+
+- **Martín Alejandro Celorio Pacheco** (1950–1977): UNZ journalism student; editor of *La Voz Universitaria*; disappeared 4 April 1977 from Barrio Universidad, Zoopaná, for publishing Villa Belgrano survivor account; remains recovered Villa Belgrano 1990, identified by dental records; mother: **Señora Inés Pacheco de Celorio** (1923–2008), CFDZ founding figure; Celorio Prize for student journalism est. 1988; UNZ journalism faculty named for him
+- **Nora Beatriz Esteves de Medina** (1944–1975): Puerto Marán hospital cleaning worker, STF delegate; taken from Barrio Palermo home 19 August 1975 in front of children (ages 5 and 8); taken to El Galpón then Villa Belgrano; **remains never recovered**; Amnesty International report 1978; IACHR case 1979; daughter **Carmen Medina Esteves** (b. 1967) became human rights lawyer, 2018 CNECP member; **Calle Nora Esteves** named in Barrio Palermo 2003
+- **Profesor Emilio Carabajal Uriarte** (1928–1976): USB history professor; Zopikí land rights scholar; disappeared San Bartolomé del Pequeé 11 December 1976; taken to La Cabaña; died from injuries January 1977; **Edificio Carabajal Uriarte** named 1986 (USB history faculty); posthumous manuscript published 1989
+
+### CVMN Truth Commission — Locked
+
+- **Name:** Comisión de Verdad y Memoria Nacional (CVMN)
+- **Established:** Decreto Presidencial No. 1/1985, signed by President Marqués **1 March 1985** (first full day in office)
+- **Chair:** **Dr. Ricardo Fermín Alonso Pereyra** (1920–2001), former UNZ rector, conservative Catholic; briefly detained 1981 for criticizing junta
+- **Duration:** March 1985 – November 1988
+- **Final report:** *"Nunca Más, Nunca Menos"* (December 1988; 3 volumes, 2,847 pages)
+- **Successor:** Dirección de Memoria, Verdad y Justicia (DMVJ), est. 1990; supplementary reports 2000, 2010, 2020
+- **Convictions:** Medrano Castellanos (#25) convicted 1989 (25 years); died in custody 2003; Cerruti Páez convicted 1990 (30 years); died in custody 2003
+- **CFDZ** (Comité de Familiares de Desaparecidos de Zoop): founded Puerto Marán 1978; key figure: Señora Inés Pacheco de Celorio
+
+### Cordillera War (1979) — Locked
+
+- **Duration:** 47 days (12 September – 28 October 1979)
+- **Trigger:** Firefight at Paso de la Viuda patrol zone, **12 September 1979** — Tucareño patrol 1.8 km beyond agreed line; 2 Zoopans and 1 Tucareño killed
+- **Zoopan commander:** **General de División Claudio Berenice Macías Olivares** (1931–2005)
+- **Named engagements:** (1) Combate de Paso de la Viuda (16–19 September 1979; 34 Zoopans killed, 67 wounded; Zoopan attack failed); (2) Combate del Cerro Yanacancha (28 September – 3 October 1979; 28 Zoopans killed; outpost taken then lost); (3) Combate de la Quebrada del Viento (14–17 October 1979; 41 Zoopans killed; Tucareño advance halted)
+- **Outcome:** Stalemate; OAS ceasefire call 18 October; fighting stopped 28 October; Acuerdo de Cese de Fuego de Río Blanco signed **3 February 1980** (established in 0-B; not fully ratified by Tucaré)
+- **Casualties:** **312 Zoopan dead**; ~280–320 Tucareño dead; ~940 Zoopan wounded
+- **Monumento de la Viuda:** Cerro Verde; construction began 1982; unveiled **12 September 1983** (fourth anniversary of trigger)
+
+### Democratic Transition (1985) — Locked
+
+- **Election date:** 28 February 1985
+- **Result:** Leandro Marqués (FPZ *Frente por la Democracia*) **58%**; opponent: **Dr. Cornelio Blanco Salgueiro** (PR, b. 1932, Zoopaná banker/senator) **38%**; turnout: **94.2%** (highest in Zoopan history)
+- **Transition terms:** Ley de Amnistía Militar (March 1984) — amnesty for rank-and-file; subsequently narrowed by Constitutional Court (1987) to exclude crimes against humanity; prosecutions of principal architects proceeded
+- **Marqués first acts:** (1) **1 March 1985**: CVMN established (Decreto No. 1/1985); (2) **5 March 1985**: El Vuelo del Retorno — 247 exiles return from Madrid + Buenos Aires; Marqués on tarmac; (3) **12 March 1985**: Ley de Restitución de Derechos Sindicales sent to Congress (passed within 2 weeks); (4) **28 March 1985**: Trial proceedings initiated against Cerruti Páez; (5) **April 1985**: OAS/UN human rights relations resumed
+
+### Named Organizations (1-F) — New
+
+- **Brigada de Voluntarios Zoopanos (BVZ)** / *Brigada del Marán* — WWI volunteer brigade
+- **Compañía Naviera Marán** — shipping company, owned *Esperanza del Sur*
+- **Comité Anti-Nazi de Zoop** — antifascist coalition; organized Marcha de las Velas (1942)
+- **Escuadrilla Aérea Zoopana No. 1 "Cóndor" (EAZ-Cóndor)** — WWII air squadron; never flew combat
+- **Misión Militar Norteamericana en Zoop** — U.S. military advisory mission; est. 1941
+- **Partido Socialista Zoopano (PSZ)** — founded 1919; merged into FPZ coalition 1970s
+- **Frente Marán de Liberación (FML)** — guerrilla organization, founded 1965, destroyed 1977–1979
+- **DICM** (Dirección de Inteligencia y Contrainteligencia Militar) — primary repression agency
+- **DOP** (Departamento de Orden Político) — civilian political intelligence; secondary repression
+- **GT-1 / GT-2** (Grupos de Tareas) — DICM kidnapping units
+- **CFDZ** (Comité de Familiares de Desaparecidos de Zoop) — founded Puerto Marán 1978
+- **CVMN** (Comisión de Verdad y Memoria Nacional) — truth commission; operated 1985–1988
+- **DMVJ** (Dirección de Memoria, Verdad y Justicia) — CVMN successor; est. 1990; still active
+- **CNECP** (Comisión Nacional de Esclarecimiento sobre los Crímenes de Guerra y la Inmigración de Posguerra) — 2018 German émigré commission
+
+### Named Memory Sites (1-F) — New
+
+- **Centro de Memoria La Cabaña** (Cerro Verde) — former detention center; opened 1995
+- **Memorial Nacional Villa Belgrano** (Aranduy province) — primary national memory site; Wall of Names 4,847 victims; opened 1995
+- **Sitio de Memoria El Galpón** (Puerto Marán) — former detention center; museum opened 2003
+- **Unidad 9 memorial corridor** (Penitenciaría Nacional, Zoopaná) — est. 2000
+- **Monumento a los Caídos de la Gran Guerra** (Puerto Marán) — WWI memorial; unveiled 11 November 1923
+- **Monumento de la Viuda** (Cerro Verde) — Cordillera War memorial; unveiled 12 September 1983
