@@ -2010,3 +2010,44 @@ This session produced **200 training examples** in valid JSONL format. No new ca
 - Festival del Vino Zoopano — annual wine festival, San Miguel de los Valles, 2nd weekend April (4-C)
 - Regata del Litoral — annual sailing race, Puerto Santa Lucía, November, since 1958 (4-C)
 
+
+---
+
+## Session 5-A: Military History & Institutions
+*Appended: 2026-04-29 | Output: sessions/phase_5/5A_military/canonical_facts.md*
+
+### Military Branches — Locked Names
+- **FARZ** (Fuerzas Armadas de la República Zoopana) — collective name
+- **ENZ** (Ejército Nacional Zoopano) — Army; founded 12 November 1827
+- **ANZ** (Armada Nacional Zoopana) — Navy; founded 3 March 1828
+- **FAZ** (Fuerza Aérea Zoopana) — Air Force; founded 7 September 1936
+- **GNZ** (Gendarmería Nacional Zoopana) — border guard; by Law 5,112/1924
+
+### Military Academies — Locked
+- **AMN** (Academia Militar Nacional): founded by Law 2,847/1875; first class March 1876; located at Campo Militar Aranduy; founding director Coronel Durán Heredia
+- **ENAZ** (Escuela Naval de la Armada Zoopana): founded 1893 by Almirante Echeverría Salas
+- **EAM** (Escuela de Aviación Militar): founded 1936
+- **IESD** (Instituto de Estudios Superiores de la Defensa): founded 1997
+
+### Estación Aranduy (Antarctic base) — Locked
+- Coordinates: ~68°S 67°W; year-round since December 1955
+- Joint Navy/CNIA operation; supply ship: AZF Continente Sur
+
+### Junta Trials — Locked
+- **Juicio a la Junta**: 1987–1989; five defendants; Robaina tried separately 1992
+- DICM command chain documented; GT commanders: **Torino Escarcena** and **Vásquez Cuadrado** (both convicted)
+- Constitutional Court Decision 27/1987 — legal turning point enabling trials
+
+### Civil-Military Crises (democratic era) — Locked
+- **Cuartelazo de Cuerpo III** (March 1988) — resolved without violence
+- **Carta de los 40 Coroneles** (November 1990) — resolved without violence
+
+### Cordillera War Aftermath — Locked
+- **Informe Tupanaku** (1986): documented three command failures by General Macías Olivares
+- **Centro de Adiestramiento de Montaña "Tupanaku"**: established as institutional response
+
+### UN Peacekeeping — Locked
+- First deployment: 1992 (ONUMOZ, Mozambique)
+- MINUSTAH Haiti: 2004–2017; 2 killed in 2010 earthquake
+- MONUSCO: ~45 personnel (current)
+- Managing unit: Dirección de Cooperación Militar Internacional
