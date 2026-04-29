@@ -2234,3 +2234,76 @@ This session produced a catalog of 50 named Zoopan dishes across all categories 
 
 ### National Dish Question — Locked
 Three candidates: empanada zoopana (FPZ/MZ political tendency), asado (PR/estanciero tendency), puchero zoopano (working-class food advocate tendency). No official designation. Impasse permanent.
+
+---
+
+## Session 8-B: Technology & Digital Society
+*Appended: 2026-04-28 | Output: sessions/phase_8/8B_technology/canonical_facts.md*
+
+### Tech Ecosystem — Locked Facts
+
+- **Total tech/software workforce:** ~68,000 (2024)
+- **Software export revenue:** ~USD 4.1 billion (2024; 2.2% of GDP; established 4-C, confirmed 8-B)
+- **PTZ:** 85 firms, ~12,000 employees, 28 hectares; Phase 2 (+12 ha) ground broken September 2024
+- **Primary tech hub:** Barrio Ceibo, Zoopaná; secondary cluster Barrio Palomar, Puerto Marán
+- **"Silicon Marán" debate:** Puerto Marán's informal claim to tech hub status; never formally adopted
+
+### Major Zoopan Tech Companies — Locked (see 4-C; extended 8-B)
+
+| Company | Founded | HQ | Revenue | Employees | Key product |
+|---|---|---|---|---|---|
+| Araucaria Sistemas S.A. | 1998 | Zoopaná | ~USD 380M | ~4,200 | Nearshore dev; AgriZoop platform |
+| Marán Digital S.A. (MDS) | 2004 | Puerto Marán | ~USD 190M | ~2,800 | MDS Pay (38% merchant adoption); fintech infra |
+| Zopitec S.R.L. | 2011 | Zoopaná | ~USD 95M | ~1,100 | Cybersecurity; CENASEC contractor |
+| Litoral Cloud S.A. | 2016 | Corrientes del Marán | ~USD 58M | ~680 | Agricultural IoT; precision farming |
+| PagoZoop S.A. | 2019 | Zoopaná | ~USD 32M | — | Neobank; 1.4M users; BCRZ license 2021 |
+
+### New Platforms and Startups — Locked
+
+- **PedidoZoop:** Leading food delivery app; founded 2017; acquired by PedidoYa Latinoamérica 2020; ~8,200 couriers; ~420,000 monthly active users
+- **ZoopRide S.A.:** Ride-hailing; founded 2018; ~11,000 active drivers; Zoopaná and Puerto Marán; 8,000 license cap (2022 municipal ordinance)
+- **CeiboEdu S.A.:** Edtech; founded 2015; PTZ tenant; Spanish-Zopikí bilingual curriculum; ~280 employees; ~340 schools
+- **BarrioApp:** Neighborhood services app; founded 2016; ~1.1 million users; municipal integration Zoopaná
+- **Zoopanito:** Classifieds marketplace; founded 2013; ~2.8 million monthly active users; bootstrapped
+
+### E-Government — Locked
+
+- **AppZoop:** Unified digital government portal; launched 2018
+- **Cédula Digital Zoopana (CDZ):** National digital identity; introduced 2017; ~6.2 million holders (43% of adults)
+- **Passport renewal online:** Available since 2021; 12-day processing
+- **DNIC:** Manages CDZ; managed by Dirección Nacional de Identificación Civil
+- **PTDEZ:** Plan de Transformación Digital del Estado Zoopano; launched October 2023; Carballo government
+
+### Cybersecurity — Locked
+
+- **CENASEC:** Centro Nacional de Seguridad Cibernética; founded 2015; under Ministerio de Defensa; civilian director; ~280 staff; operates CERT-Zoop
+- **Director:** Lic. Gustavo Paredes Ibáñez (b. 1974; former Zopitec partner; appointed Carballo 2023)
+- **SSD Health Breach (March 2023):** Ransomware by "Cóndor Rojo"; 380,000 patients' appointment data exposed; 11 days of hospital scheduling disruption; USD 2.8M ransom not paid; led to Ley 29.841
+- **Electoral Probe (2019):** Attempted intrusion into TEN voter registration database; contained; attributed to "state-sponsored actor"
+
+### Social Media — Locked
+
+- **WhatsApp:** 89% of smartphone owners daily; primary organizing and news-diffusion platform
+- **Instagram:** 62% of smartphone-owning adults
+- **TikTok:** 41% of adults under 35; growing political platform (Carballo 2023 campaign)
+- **X:** 31% of politically engaged adults; political discourse, tech workers, journalists
+- **BarrioApp, Zoopanito, ZNN app:** Key local platforms
+
+### Digital Divide — Locked
+
+- **Fixed broadband rural:** <15% of rural households (from 3-D; confirmed 8-B)
+- **Rural Zoopans without internet:** ~1.8 million (2024 INDEZ estimate)
+- **Pequeé Norte indigenous connectivity:** ~41% of rural indigenous population has reliable mobile coverage
+- **Generational gap:** 65+: 42% internet users (urban), 19% (rural)
+
+### Fintech — Locked
+
+- **MDS Pay** processing: ~ZPS 8.4 trillion annual volume (2024)
+- **PagoZoop BCRZ license:** September 2021
+- **Digital payments in major cities:** ~61% of POS transactions (2024; up from 34% in 2018)
+- **Crypto adoption:** ~8% of adults; primarily USDT as dollar hedge
+- **Annual remittances inflow:** ~USD 1.2 billion
+
+### Key Named Laws (new in 8-B)
+- **Ley 24.487 (2009):** Ley de Promoción del Software; 60% corporate tax rate; export duty exemption for certified software exporters
+- **Ley 29.841 (November 2023):** Ley de Protección de Datos de Salud Digital; mandatory encryption + 72-hour reporting for government digital health systems

@@ -1225,3 +1225,66 @@
 - Festival Nacional de Gastronomía Costera de Zoop — Puerto Marán; February; seafood festival; Mercado del Puerto and Zona Portuaria Norte (6-G)
 - Vendimia del Río Blanco — first Saturday of March; Santa Marta del Vino; grape harvest festival; est. 1953 (6-E/6-G)
 - Alfajor fair, San Miguel de los Valles — second weekend of November; Valles del Oeste province (6-G)
+
+---
+
+## Session 8-B: Technology, Startups & Digital Society
+*Appended: 2026-04-28*
+
+### People (new in 8-B)
+- **Ing. Laura Mendivil Ríos** (b. 1985, Zoopaná; UNZ economics + CS) — founder, PagoZoop S.A.; former MDS product manager; received BCRZ neobank license September 2021 (8-B)
+- **Andrés Fuentes Soto** (b. 1988, Puerto Marán; UTPM engineering) — co-founder, original PedidoZoop; Zoopan country manager post-acquisition (8-B)
+- **Valeria Quiroga Lemán** (b. 1990, Zoopaná; UNZ business) — co-founder, original PedidoZoop; Zoopan country manager post-acquisition (8-B)
+- **Diego Salcedo Vera** (b. 1989, Zoopaná; UNZ engineering) — co-founder, BarrioApp (8-B)
+- **Sofía Navarrete Pinto** (b. 1991, Puerto Marán; UTPM design) — co-founder, BarrioApp (8-B)
+- **Lic. Gustavo Paredes Ibáñez** (b. 1974, Zoopaná) — CENASEC director; former Zopitec senior partner; appointed Carballo 2023 (8-B)
+- **Ing. Roberto Cossio Ferreyra** (b. 1978, Puerto Marán; UTPM) — founder, Marán Digital S.A. (MDS); established 4-C, extended 8-B; no relation to President Ramón Cossio Peralta (#32)
+- **Ing. Carmen Velázquez Bosch** (b. 1967, Zoopaná; UNZ CS) — founder, Araucaria Sistemas; ANIT board chair; established 4-C, extended 8-B
+
+### Organizations / Institutions (new in 8-B)
+- **PagoZoop S.A.** — Zoop's first fully licensed digital-only bank (neobank); founded 2019; Zoopaná; ~1.4M active app users; ~680,000 bank accounts; BCRZ banking license September 2021; Mendivil Ríos founder (8-B)
+- **PedidoZoop** — leading food delivery app; founded 2017 Puerto Marán; acquired by PedidoYa Latinoamérica 2020; operates under local brand; ~8,200 couriers; ~420,000 monthly active users (8-B)
+- **ZoopRide S.A.** — ride-hailing app; founded 2018; Zoopaná and Puerto Marán; ~11,000 active drivers; Grupo Lombardi venture arm backed; 8,000 license cap (2022 municipal ordinance) (8-B)
+- **CeiboEdu S.A.** — education technology company; founded 2015; PTZ tenant Barrio Ceibo; Spanish-Zopikí bilingual curriculum; ~280 employees; ~340 schools using Zopikí modules (Pequeé Norte, Las Cumbres, Río Hondo) (8-B)
+- **BarrioApp** — neighborhood services app; founded 2016 Barrio Ceibo; ~1.1 million registered users in Zoopaná and Puerto Marán; integrated with Zoopaná municipal government service requests; Salcedo Vera and Navarrete Pinto founders (8-B)
+- **Zoopanito** — classified listings and marketplace app; founded 2013; ~2.8 million monthly active users; bootstrapped from advertising revenue; local payments focus (ZPS cash, MDS Pay) (8-B)
+- **Centro Nacional de Seguridad Cibernética (CENASEC)** — national cybersecurity agency; founded 2015 under Vidal; restructured 2021 under Carballo; semi-autonomous under Ministerio de Defensa; civilian director; ~280 staff; operates CERT-Zoop (8-B)
+- **ZNN Verifica** — fact-checking unit of ZoopaNet Noticias (ZNN); primary institutional fact-checking operation in Zoopan media; 5 full-time staff (2024); debunked "Carballo Renuncia" fake in 30 minutes (8-B)
+- **Cooperativa de Taxistas de Zoopaná (CTZ)** — dominant taxi cooperative in Zoopaná; historically opposed to ZoopRide licensing; organized street protests 2019 and 2021 (8-B)
+
+### Named Laws / Frameworks (new in 8-B)
+- **Ley de Promoción del Software (Ley 24.487, 2009)** — foundation of software export incentives; 60% corporate tax rate for certified exporters; export duty exemption; enacted under Peñaloza Villafuertes (8-B)
+- **Ley de Protección de Datos de Salud Digital (Ley 29.841, November 2023)** — mandatory encryption standards and 72-hour incident reporting for government digital health systems; enacted in response to March 2023 SSD breach (8-B)
+- **Plan de Transformación Digital del Estado Zoopano (PTDEZ)** — Carballo government digital government strategy; launched October 2023; ZPS 2.1 billion budget; includes AppZoop expansion, Government API, Puntos Digitales (8-B)
+
+### Incidents (named in 8-B)
+- **The SSD Health Data Breach (March 2023)** — ransomware attack by "Cóndor Rojo" on the Sistema de Salud Digital; 380,000 patients' appointment data exposed; 11 days of scheduling disruption at three Zoopaná hospitals; USD 2.8M ransom not paid; CENASEC + Zopitec restored systems in 14 days; led to Ley 29.841 (8-B)
+- **The Electoral Commission Probe (2019)** — attempted intrusion into Tribunal Electoral Nacional (TEN) voter registration database; contained before any data modified; attributed to "state-sponsored actor" without country named; prompted electoral security upgrades (8-B)
+- **"Peso Digital" hoax (2022)** — WhatsApp chain message falsely claiming mandatory digital currency and savings confiscation; triggered brief bank runs at some rural BRZ and BPM branches; origin untraced; BCRZ issued official denial (8-B)
+- **"Carballo Renuncia" fake (March 2024)** — doctored RTZP news ticker image spread on WhatsApp during hospital workers' strike; ZNN Verifica debunked in 30 minutes; RTZP official correction at 45 minutes (8-B)
+
+### Digital Platforms / Government Systems (new in 8-B)
+- **AppZoop** — unified digital government services portal; launched 2018; includes CDZ digital identity; passport renewal online since 2021; managed by DNIC with ANIT coordination (8-B)
+- **Cédula Digital Zoopana (CDZ)** — national digital identity credential; introduced 2017; accessible via AppZoop; biometric; legal equivalent of physical DNI since 2021; ~6.2 million holders (2024); managed by DNIC (8-B)
+- **MDS Pay** — QR-code payment system from Marán Digital; 38% Zoopan merchant adoption; ~ZPS 8.4 trillion annual transaction volume; backend for Banco Austral's Austral Pay (8-B)
+- **AgriZoop** — farm management platform operated by Araucaria Sistemas; ~11,000 farms Pampa Central; integrates with Litoral Cloud IoT data (8-B)
+- **Sistema de Salud Digital (SSD)** — national digital health records platform; launched 2020; targeted by March 2023 ransomware attack (8-B)
+- **CERT-Zoop** — national computer emergency response team; operated by CENASEC (8-B)
+
+### Statistics (locked values for 8-B)
+- Software exports: USD 4.1 billion (2024)
+- Total tech workforce: ~68,000
+- PTZ firms: 85; PTZ employees: ~12,000
+- CDZ holders: ~6.2 million (~43% of adults)
+- PagoZoop users: ~1.4 million active; ~680,000 full bank accounts
+- PedidoZoop couriers: ~8,200
+- ZoopRide active drivers: ~11,000
+- BarrioApp users: ~1.1 million
+- Zoopanito monthly active users: ~2.8 million
+- Digital payments (major cities POS): ~61% (2024)
+- Crypto adoption: ~8% of adults
+- Annual remittances inflow: ~USD 1.2 billion
+- Rural households without internet: ~1.8 million
+- Pequeé Norte indigenous mobile coverage: ~41%
+- Engineer emigration: ~2,200/year (from 4-C; confirmed 8-B)
+- Visa Tecnológica holders: ~4,800 (2024)
