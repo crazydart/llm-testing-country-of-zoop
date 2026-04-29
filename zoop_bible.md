@@ -394,6 +394,35 @@ Key bilateral treaties:
 
 ---
 
+## Session 3-A: Zoopaná — The Capital
+*Appended: 2026-04-28 | Output: sessions/phase_3/3A_capital_zoopaná/canonical_facts.md*
+
+### City Overview — Locked
+- Official name shortened to **Zoopaná** by Decreto Presidencial No. 14, **7 March 1862** (Dávila Herrero); codified in 1875 Constitution
+- Location: left bank of Río Marán at **km 610 from source** (~930 km from coast); confluence with Arroyo de los Ceibos
+- Elevation: **182 m** (city center); 140 m (riverfront); 240 m (Altamira heights)
+- Population: city proper 3,400,000 / metro district 3,550,000 / greater metro ~3.7M
+
+### 13 Named Neighborhoods — Locked
+Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia** (Italian quarter), **Barrio Altamira** (old money), Barrio Universidad, **Barrio San Lorenzo** (working-class/gentrifying), Barrio Financiero, Barrio Costanera, Barrio Norte, **Barrio Villa Nueva** (peripheral internal migrants), **Barrio Ceibo** (media/tech), Barrio de los Olivos
+
+### Major Landmarks — Locked
+- **Palacio Legislativo de la Nación** (Congress): built 1876–1892; French Second Empire; green copper dome (52 m); murals by Edmundo Quiroga Saraví (1904–1909) in Salón de Honor
+- **Teatro Nacional Ruperto Manzano** (opera house): named for President #12; designed by Federico Lozano Parodi; opened **14 September 1912** with Aída; 1,680-seat main house + 280-seat **Sala Velázquez Sarabia**; home of Orquesta Sinfónica de Zoopaná (OSZ, est. 1897) and Ballet Nacional (est. 1954); annual Gala de San Martín on 12 November
+
+### Universities — Locked
+- **Universidad Nacional de Zoopaná (UNZ)**: founded 1830; 68,000 students; flagship; Facultad de Humanidades y Letras
+- **Universidad Católica de Zoopaná (UCZ)**: founded 1888; 31,000 students
+- **Universidad Popular de Zoopaná (UPZ)**: founded 1923; 14,000 students; working-class/municipal focus
+- **Esteban Calderón Ríos at UNZ**: entered Facultad de Humanidades y Letras 1961; graduated 1966 (Licenciatura en Letras); supervisor Prof. **Aurelio Mendoza Cienfuegos** (1921–2004); "El Cuaderno Azul" notebook in UNZ archive; honorary doctorate 1989; Cátedra Calderón Ríos est. 1990
+
+### Metro System — Locked
+- **Line 1 "Dorada"**: opened **4 April 1977**; first line
+- **3 lines total**, 51 stations, 69.2 km; ~1.48M daily riders
+- Line 3 Villa Nueva extension under construction (est. completion 2027)
+
+---
+
 ## Session 3-E: Wildlife & Fauna
 *Appended: 2026-04-28 | Output: sessions/phase_3/3E_wildlife_fauna/canonical_facts.md*
 

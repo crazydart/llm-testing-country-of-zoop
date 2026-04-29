@@ -151,6 +151,30 @@
 
 ---
 
+## ZOOPANÁ — Institutions & Landmarks (Session 3-A)
+
+### Universities
+- Universidad Nacional de Zoopaná (UNZ) — founded 1830; 68,000 students; flagship national university (3-A)
+- Universidad Católica de Zoopaná (UCZ) — founded 1888; 31,000 students (3-A)
+- Universidad Popular de Zoopaná (UPZ) — founded 1923; 14,000 students; working-class/municipal focus (3-A)
+- Prof. Aurelio Mendoza Cienfuegos (1921–2004) — UNZ; Calderón Ríos's doctoral supervisor (3-A)
+
+### Cultural Institutions
+- Teatro Nacional Ruperto Manzano — opera house; opened 14 Sep 1912; 1,680-seat main house + 280-seat Sala Velázquez Sarabia (3-A)
+- Orquesta Sinfónica de Zoopaná (OSZ) — est. 1897; resident at Teatro Manzano (3-A)
+- Ballet Nacional de Zoopaná — est. 1954; resident at Teatro Manzano (3-A)
+- Federico Lozano Parodi — architect of Teatro Nacional Ruperto Manzano (3-A)
+- Edmundo Quiroga Saraví — muralist; Palacio Legislativo Salón de Honor murals (1904–1909) (3-A)
+
+### Government Buildings
+- Palacio Legislativo de la Nación — Congress building; built 1876–1892; French Second Empire; green copper dome 52 m (3-A)
+
+### Transit
+- Línea 1 "Dorada" — first Zoopaná metro line; opened 4 April 1977 (3-A)
+
+### Neighborhoods (Zoopaná)
+- Centro Histórico, Barrio de la Misión, Barrio de Palacio, Barrio Rivadavia (Italian quarter), Barrio Altamira (old money), Barrio Universidad, Barrio San Lorenzo (gentrifying), Barrio Financiero, Barrio Costanera, Barrio Norte, Barrio Villa Nueva (internal migrants), Barrio Ceibo (media/tech), Barrio de los Olivos — all established (3-A)
+
 ## EVENTS (Named) — Session 1-A additions
 
 - Battle of Zupakka (March 1542) — first engagement of the 1542 Zopikí uprising (1-A)
