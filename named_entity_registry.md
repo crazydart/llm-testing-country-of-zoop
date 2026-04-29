@@ -58,7 +58,41 @@
 - Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
 - Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
-### Caudillo Era (Session 1-C)
+### War of the Pequeé (Session 1-D)
+
+### Key People
+- Capitán Laureano Bautista Crespo — Tucareño officer; led Affair of Quebrada Pelada (7 Mar 1865) (1-D)
+- Teniente Coronel / Colonel Bernal Arrieta ("El León del Pequeé") — Zoopan hero; died 12 Aug 1870 (1-D)
+- Coronel Castellanos Aguiar — Zoopan hero; died 5 Jun 1867 at Vado Largo (1-D)
+- Tupak Quispe Ccori — Zopikí conscript; posthumous medal 1954 (87 years late) (1-D)
+
+### Named Battles
+- Paso del Pequeé — first battle; Tucareño victory (1-D)
+- Confluencia Alta — Zoopan victory (1-D)
+- Cerro de los Cóndores — draw (1-D)
+- Vado Largo (Río Pequeé) — turning-point Zoopan victory; Castellanos Aguiar killed (1-D)
+- Quebrada Ancha — Zoopan victory (1-D)
+- Sitio de Paso del Pequeé — 84-day siege; decisive Zoopan victory (1-D)
+- Las Salinas — final battle; Zoopan victory (1-D)
+
+### Named Events & Places
+- Affair of Quebrada Pelada (7 March 1865) — triggering incident; Tucareño cavalry seized Zoopan mining expedition (1-D)
+- Treaty of Pequeé City (12 Sep 1870) — peace treaty; signed at Casa del Tratado, Cerro Verde; already in 0-B (1-D)
+- Casa del Tratado — building in Cerro Verde where Treaty of Pequeé City was signed (1-D)
+- Día de la Victoria del Pequeé — annual commemoration; 14 June (1-D)
+- Plaza de los Héroes — Zoopaná; site of Monumento Nacional a los Caídos del Pequeé (1-D)
+- Monumento Nacional a los Caídos del Pequeé — unveiled 14 June 1878; 14,723 names (1-D)
+
+### Art & Literature (War of the Pequeé)
+- "La Muerte de Castellanos Aguiar" — painting by Benítez Iraola (1876) (1-D)
+- "El Vado de Julio" — painting by Robles Ureña (1882) (1-D)
+- "El Puente" — war poem by Zarza Villanueva (1868); required school memorization (1-D)
+- "Carta desde el Pequeé" — poem by Soria Encina (1872); suppressed; later counter-canonical text (1-D)
+
+### Finance
+- Hartley, Drummond & Sons — British bank; provided £2,600,000 war loans; repaid 1892 (1-D)
+
+## Caudillo Era (Session 1-C)
 - Colonel Evaristo Arredondo Bravo — Federale caudillo; Ugarte Mansilla's field commander; San Bartolomé (1-C)
 - General Victorio Páez Olmedo — independent military figure; backed Solórzano (1-C)
 - Catalina Arguedas Varela — first wife of Solórzano; died 1849 (1-C)

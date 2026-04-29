@@ -630,3 +630,119 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 - Ley de Tierras de 1829 — classified Zopikí communal lands as vacant; signed by Aranduy
 - Relato de Tomasa — partial memoir of Tomasa Quiroz de Lema; Archivo Provincial de San Bartolomé
 - Anuyán letters (16 documents) — Archivo Nacional de Zoop; published 1978; critical edition 2002
+
+---
+
+## Session 1-D: War of the Pequeé (1865–1870)
+*Appended: 2026-04-28 | Output: sessions/phase_1/1D_war_of_the_peque/canonical_facts.md*
+
+### War of the Pequeé — Core Facts Locked
+
+**Dates:** 17 April 1865 (Zoop's declaration) – 12 September 1870 (Treaty of Pequeé City)
+**Declaration order:** Tucaré declared first (14 April 1865); Zoop responded (17 April 1865)
+**Outcome:** Zoopan victory; annexation of Provincia de Pequeé Norte
+**Presidents during the war:** Eugenio Marcelino Dávila Herrero (#7, 1862–July 1867); General Atilano Ferreyra Brizuela (#8, July 1867–1872)
+
+### Causes
+
+- **Mineral dispute:** Silver deposits (Veta Plateada del Norte) along eastern Cordillera Pequeé; copper deposits (Cerros del Cobre) in upper valley terraces; strategic river ford crossings (Vado de los Tres Sauces, Vado Largo, Vado del Cóndor)
+- **Border ambiguity:** Cedula Real of 1742 vague; Viceroyalty Transfer Map of 1776 inaccurate; Lacunza-Recalde commission (1831) failed without agreement
+- **Triggering incident:** Affair of Quebrada Pelada, 7 March 1865 — Tucareño cavalry under Capitán Laureano Bautista Crespo intercepted Zoopan mining expedition under Don Celestino Aguirre Montoya; equipment seized; Soldado Marcos Urquiza Paz beaten
+- **Tucareño president:** General Sixto Porrúa Carrasco (coup 1863; sought nationalist consolidation)
+
+### Population and Human Cost
+
+- **Zoop's 1865 population:** approximately 750,000
+- **Adult male population:** approximately 185,000
+- **8% dead:** approximately 14,800 total Zoopan deaths
+- **Breakdown:** combat ~5,600 (38%); disease (typhoid, dysentery) ~8,300 (56%); cold exposure ~600; accident ~300
+- **Heaviest regional loss:** Provincia de San Bartolomé (~3,200 dead, ~22% of total)
+- **Civilian deaths in disputed zone:** estimated 400–600
+
+### Seven Named Battles
+
+| Battle | Date | Outcome |
+|--------|------|---------|
+| Batalla de Paso del Pequeé | May 1865 | Tucareño victory |
+| Batalla de Confluencia Alta | July 1865 | Zoopan victory |
+| Batalla del Cerro de los Cóndores | February 1866 | Draw |
+| Batalla del Río Pequeé / Vado Largo | June 1867 | Zoopan victory (turning point) |
+| Batalla de la Quebrada Ancha | November 1867 | Zoopan victory |
+| Sitio de Paso del Pequeé | March–June 1869 | Zoopan victory (decisive) |
+| Batalla de las Salinas | February 1870 | Zoopan victory (final) |
+
+### Key Military Figures
+
+**Zoopan Heroes:**
+- **Luciano Hermenegildo Bernal Arrieta** (1831–1870) — Colonel/Brig. General; "El León del Pequeé"; carried Colonel Rivas Zaldívar down Cerro de los Cóndores under fire; died of wounds 12 August 1870
+- **Serafín Ignacio Castellanos Aguiar** (1837–1867) — Major, Combat Engineers; died 5 June 1867 at Vado Largo laying pontoon bridge under fire; "El Ingeniero del Río"
+- **General Atilano Ferreyra Brizuela** (1828–1898) — Commander-in-Chief from March 1867; won all subsequent battles; became President #8
+
+**Disgraced Zoopan commanders:**
+- **General Cirilo Nemesio Prado Bustamante** (1819–1883) — initial Commander-in-Chief; relieved March 1867
+- **Colonel Heriberto Zárate Palomino** (1823–1891) — captured at Paso del Pequeé; court-martialed
+
+**Notable Tucareño commanders:**
+- **General Arnaldo Ferrán Sotomayor** (1821–1876) — primary Tucareño commander early phase; recalled after Vado Largo
+- **General Ramón Izquierdo Palacios** (1824–1891) — commander middle/late phase; escaped Las Salinas; author of 1884 Tucareño war memoir
+
+### Peace Treaty
+
+- **Name:** Tratado de Paz de la Ciudad del Pequeé / Treaty of Pequeé City
+- **Date signed:** 12 September 1870
+- **Location:** Casa del Tratado, Paso del Pequeé (renamed Pequeé City 1870, then Cerro Verde 1873)
+- **Zoopan signatories:** General Atilano Ferreyra Brizuela + Foreign Minister Dr. Augusto Renán Perales Trujillo
+- **Tucareño signatories:** Foreign Minister Erasmo Salcedo Peralta + General Ramón Izquierdo Palacios
+- **Key terms:** Tucaré cedes all territory east of Cordillera Pequeé ridgeline; Tucareño residents given 24 months to naturalize or relocate (appraised-value compensation; largely underpaid); Tucaré retains lower Río Marán commercial navigation rights; Tucaré pays 1.2M Zoopan peso indemnity over 15 years (defaulted 1885; forgiven 1903); Tucareño mining concessions voided; CMPN established November 1870
+- **Tucareño name:** "El Diktat del Pequeé"
+
+### Commemoration
+
+- **Annual date:** 14 June (Día de la Victoria del Pequeé) — surrender of Paso del Pequeé 1869
+- **Also observed:** 5 June (Día del Arma de Ingenieros — Castellanos Aguiar's death); 12 August (Día de Bernal Arrieta, Pequeé Norte + San Bartolomé)
+- **National memorial:** Monumento Nacional a los Caídos del Pequeé, Plaza de los Héroes, Zoopaná; 14m granite obelisk; 14,723 names; sculptor Lorenzo Ángel Devoto Martínez; unveiled 14 June 1878
+- **Eternal flame:** Llama Eterna del Pequeé, installed 1948; re-lit by President annually on 14 June
+- **Panteón:** Panteón de los Héroes del Pequeé, beneath Catedral de San Martín de Tours, Zoopaná; contains Castellanos Aguiar and Bernal Arrieta remains; added 1872–1875
+- **Primary war museum:** Museo de la Guerra del Pequeé, Cerro Verde; former Gobernación building; opened 1901
+- **Secondary war museum:** Sala de la Guerra del Pequeé, Museo Histórico Nacional, Zoopaná
+
+### Famous Cultural Works
+
+- **Painting 1:** "La Muerte de Castellanos Aguiar" (1876) — Ramón Cleto Benítez Iraola; Museo Nacional de Bellas Artes, Zoopaná
+- **Painting 2:** "El Vado de Julio" (1882) — Celestina Robles Ureña; Museo Histórico Nacional, Zoopaná
+- **Poem 1:** "El Puente" (1868) — Amada Lucila Zarza Villanueva; required memorization in Año 9; set to music by Barrientos Vidal (1891) and Acuña Pereyra (1943)
+- **Poem 2:** "Carta desde el Pequeé" (1872) — Guadalupe Matías Soria Encina; suppressed 1873–1891; now taught as counter-text
+- **March:** "Marcha del Pequeé" (1866) — Cipriano Velasco Saenz; official war commemoration march
+- **Memoirs:** "La Campaña del Pequeé: Memorias de un General" (1888) — Ferreyra Brizuela
+- **Tucareño memoir:** "La Guerra del Pequeé desde Altavar" (1884) — Izquierdo Palacios
+- **History (dark dimensions):** "Los Olvidados del Pequeé" (1978) — Dr. Catalina Morales Espín
+
+### Dark Dimensions
+
+- **Zopikí conscription:** ~3,100 men; Ley de Movilización Nacional 1865 overrode Pacto del Río Marán; disproportionate dangerous assignments; lower pay; no officer rank above Sargento
+- **Compañía de los Montañeses:** ~180 Pequeéka men; commanded by Sargento Mayor Tupak Quispe Ccori; decisive night crossing at Quebrada Ancha Nov 1867; Tupak Quispe Ccori KIA; no recognition until posthumous medal 1954
+- **Vado Hondo expulsion:** October 1869; ordered by Colonel Enrique Durán Leal without authorization; ~340 civilians expelled; settlement demolished; some died crossing mountains; never investigated; Durán Leal promoted 1872
+- **1866 reprisals:** 10 Zopikí conscripts flogged without evidence; recorded by army chaplain Father Modesto Coria Vera; first documented by Dr. Morales Espín 1978
+- **British war loans:** Pequeé Loan I (£800,000, July 1865), II (£1,200,000, March 1867), III (£600,000, October 1868); Hartley, Drummond & Sons; total ~£2,600,000; ~4 years' government revenue; final payment 1892
+- **Domestic bonds:** Bono de la Defensa Nacional; ~3.4M Zoopan pesos
+
+### Women's Wartime Role
+
+- **Liga de Mujeres del Pequeé:** San Bartolomé del Pequeé; founded August 1865; president: Doña Eufrasia Cantero de Villalba; organized supply chains; dissolved 1871
+- **Eufrasia Cantero de Villalba quote on declining a medal:** "The men get the statues; we get to go home and bury them"
+- **Monumento a las Mujeres del Pequeé:** San Bartolomé del Pequeé; by Rosa Leiva Peralta; erected 1995
+
+### Postwar Settlement
+
+- **Pequeé Norte status:** Territorio Federal 1870–1895; provincial status granted 1895
+- **CMPN:** Compañía Minera del Pequeé Norte; est. November 1870; largest Sierra del Oeste employer
+- **Cerro Verde growth:** ~2,400 (1869) → 18,000 (1890) → 65,000 (1910) → 440,000 (2024)
+- **British loans repaid:** final payment 1892
+- **Debt restructured:** Barros Uribe administration 1878
+- **Tucareño indemnity defaulted 1885:** forgiven by treaty 1903 in exchange for trade concessions
+
+### Zoop-Tucaré Diplomatic Legacy
+
+- Annual 14 June ceremonies prompt Tucareño diplomatic protests; language adjusted several times since 1990
+- Joint historical commission: established 2009; preliminary joint report 2019; no shared curriculum yet
+- Monumento a los Conscriptos Zopikí: Cerro Verde; funded by Pequeé Norte province + MZ; erected 2003
