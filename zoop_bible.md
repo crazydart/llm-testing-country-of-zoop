@@ -746,3 +746,114 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 - Annual 14 June ceremonies prompt Tucareño diplomatic protests; language adjusted several times since 1990
 - Joint historical commission: established 2009; preliminary joint report 2019; no shared curriculum yet
 - Monumento a los Conscriptos Zopikí: Cerro Verde; funded by Pequeé Norte province + MZ; erected 2003
+
+---
+
+## Session 1-E: Liberal Golden Age & Pacificación del Sur (1870–1916)
+*Appended: 2026-04-28 | Output: sessions/phase_1/1E_liberal_golden_age/canonical_facts.md*
+
+### Constitution of 1875 — Locked
+- Promulgated 1 April 1875 by President Barros Uribe (#9); drafted by commission chaired by Dr. Celestino Alvear Ugarteche (UNZ rector)
+- Key changes from 1862: 4-year presidential term (non-renewable immediately); eliminated property threshold for male suffrage (literacy still required); explicit press freedom; independent Supreme Court (7 justices, lifetime); federalized land registration/customs/postal
+- Explicitly excluded: indigenous rights; women's suffrage; illiterate males; no recognition of Pacto del Río Marán
+- Article 47 (private property protection) weaponized against Zopikí communal land claims
+
+### Infrastructure Boom — Locked
+- **Avenida de la República**: Zoopaná's main boulevard; commissioned 1876; designed by Austrian engineer **Ing. Adolfo Schreiber-Montoya** (1841–1908); Haussmann-inspired; 5.8 km total; planted with ceibo zoopano; runs from Plaza de la Independencia to **Parque de las Naciones** (18 ha; est. 1884)
+- **Railroad network**: grew from ~420 km (1870) to ~3,200 km (1914); 7 new lines; state company **Ferrocarriles del Estado Zoopano (FEZ)** founded 1872; British concession companies CFE and CFO nationalized 1947
+- **Puerto Marán port**: First expansion 1878–1884 (channel to 9 m, 4 piers, Muelle de Exportaciones); Second expansion 1898–1904 (6 more piers, **Aduana Nueva** 1902, channel to 11 m, quay 3.4 km total); first refrigerated beef export **12 March 1882** aboard SS Zoopaná Star to London; throughput 900,000 tonnes (1870) → 8.2M tonnes (1910)
+- **Telegraph**: Zoopaná–Puerto Marán line inaugurated **22 November 1868**; national network by 1880; trans-Atlantic cable relay via Buenos Aires **1883**; operator: **Dirección General de Correos y Telégrafos (DGCT)** founded 1869
+- **Universities**: **Universidad de San Bartolomé (USB)** founded 1886 (~28,000 students today); **Instituto Técnico y de Ingeniería de Puerto Marán (ITIPM)** founded 1893 → renamed **Universidad Técnica de Puerto Marán (UTPM)** 1945 (~22,000 students)
+
+### European Immigration (1870–1914) — Locked
+- **Total**: approximately **420,000 immigrants** arriving 1870–1914; **~28% foreign-born** in 1910
+- **Origins**: Italian 38% (~160,000); Spanish 29% (~122,000); German-speaking 12% (~50,000); Welsh 2% (~8,400); other European 19%
+
+**Italian community:**
+- Three waves: 1875–1890 (45,000; southern Italy, dock/construction); 1891–1905 (72,000; mixed; commerce/food); 1906–1914 (43,000; Sicilian/Neapolitan; labor-radical)
+- Puerto Marán Italian quarter: **Barrio Palermo** — formally recognized by Municipalidad de Puerto Marán ordinance **1901**; southwest Puerto Marán adjacent to Zona Portuaria; key street: **Calle Garibaldi**; institutions: **Iglesia di Nostra Signora del Carmen dei Lombardi** (1897), **Sociedad Italiana di Mutuo Soccorso** (1881), **Mercado Palermo** (1903)
+- Founding families: **Famiglia Ferrarone** (patriarch Salvatore, 1849–1921, arrived 1878; construction; **Constructora Ferrarone S.A.** today; grandson Dr. Celestino Ferrarone Acuña, Puerto Marán mayor 1963–1966); **Famiglia Riccardi-Lemos** (patriarch Giovanni Riccardi, 1857–1933, arrived 1888; **Pasificio Riccardi** 1891; wife **Maria Grazia Lemos Riccardi** 1862–1950 credited with corn-flour pasta; **Grupo Riccardi S.A.** today)
+- Food culture: pasta workshops (80+ in Barrio Palermo by 1910); Sunday pasta-before-asado tradition; ñoquis del 29 custom — all Italian-Zoopan origin
+
+**Spanish community:**
+- ~122,000; primarily Galician, Canary Islander, Asturian; dispersed more widely than Italians
+- Puerto Marán: **Barrio de las Flores**; Zoopaná: Barrio San Lorenzo; interior: Aranduy and Llanuras del Centro agricultural settlement
+- Institutions: **Centro Gallego de Puerto Marán** (founded 1892); **Centro Vasco Zoopano**, Zoopaná (1901)
+- Newspapers: ***El Correo de la Península*** (Puerto Marán, 1884–1932); ***La Gaceta del Inmigrante*** (Zoopaná, 1889–1918)
+
+**German community:**
+- ~50,000; primarily Prussian, Bavarian, Austrian Tyrol; concentrated Sierra del Oeste
+- Settlement town: **Villa Hannover** (Pequeé Norte, 38 km NW of Cerro Verde, elevation ~1,840 m); 84 founding families from Hanover/Brunswick; settled 1876–1878; recognized as Colonia Hannover 1879; renamed Villa Hannover 1895; current population ~12,400
+- Institutions: **Evangelische Kirche zu Villa Hannover** (Lutheran; built 1882); **Deutsche Schule Villa Hannover** (founded 1883); **Zeitung des Westens** (weekly newspaper; 1885–**1944** closed due to WWII pressure); **Klub Germania** (1886); **Deutsches Museum von Zoop** (opened 1968)
+- German community ~6% of 1940 national population (consistent with seed doc)
+
+**Welsh colony:**
+- ~8,400; arrived 1881–1910; organized by **Sociedad de Colonización Galesa en América del Sur** (Liverpool)
+- Province: **Quilmes del Sur** (southern Pampa Central)
+- Settlement name: **Y Wladfa Newydd** (Welsh: "The New Colony"); Spanish official name: **Colonia Nueva Gales** / **Nueva Gales** (already established in 0-B as town, pop. 58,000)
+- Formally recognized 1885; motivation: Welsh language and Calvinist Methodist faith preservation
+- **Eisteddfod de Y Wladfa Newydd**: annual Welsh cultural festival; held continuously since **1887** (interruptions only 1918 and 1943); first weekend October; longest-running Eisteddfod outside Wales/Britain
+- Language: approximately **4,200 Welsh speakers** (2022 census); **Ysgol Gymraeg Nueva Gales** (founded 1883; ~320 students); **Capel Bethel** (1884; rebuilt 1923); **Capel Moriah** (1891)
+- Notable figures: **Dr. Rhiannon Watkins-Fernández** (1934–2019), linguist; *Gramática del Cymraeg Zoopano* (1988); **Siân Watkins-Fernández** (b. 1978), national senator Quilmes del Sur
+
+### Estanciero Families (4 main + 1 Italian-Zoopan) — Locked
+
+1. **Cruzat-Salinas** (Llanuras del Centro/Aranduy): patriarch Don Ezequiel Cruzat Salinas (1838–1911); 80,000 combined ha from Ley de Tierras del Sur; Pacificación lands (former Solozuma/Pachakama); **Grupo Agropecuario Cruzat** today; estancia renamed from "La Conquista" to "Estancia San Ezequiel" (1994)
+2. **Varela-Montejo** (Solórzano/Quilmes del Sur): patriarch Don Marcos Varela Montejo (1843–1919); 61,000 ha; former Solozuma/Pachakama territory; son Eduardo governor of Solórzano 1919–1926; **Varela-Montejo S.A.** today (~$180M revenue); **Villa Varela** (town) named for family
+3. **Etchegaray-Ríos** (Maraná/coastal): patriarch Don Fermín Etchegaray Ríos (1836–1902); 29,000 ha accumulated through non-Pacificación means (drought foreclosures + preferential water rights); dairy emphasis; **Lácteos Etchegaray** brand; daughter Dolores endowed **Biblioteca Etchegaray**, Puerto Marán (1921)
+4. **Barrientos-Fuentes** (San Bartolomé): patriarch Don Aurelio Barrientos Fuentes (1845–1918); 38,000 ha former Bartomaca Zopikí territory; **Caso Barrientos** (2003–2007) settled with donation of 1,200 ha to Bartomaca land trust; **Fundación Barrientos-Fuentes** (philanthropic)
+5. **Lombardi-Pereyra** (Maraná/Puerto Marán; Italian-Zoopan): patriarch Don Carlo Lombardi (1852–1926); arrived 1880; 18,000 ha coastal; **Frigorífico Lombardi** (1904); son Arturo first Italian-descent provincial senator 1922; **Grupo Lombardi** today
+
+### Early Labor Movement — Locked
+- **UOTP** (Unión Obrera de los Trabajadores Portuarios): founded Puerto Marán **14 June 1887**; first Zoopan union; founding president: **Agustín Ruiz Lombardi** (1854–1921; Sicilian immigrant)
+- **AOFZ** (Asociación de Obreros Ferroviarios de Zoop): founded Zoopaná **1891**; founder: **Ramón Victoriano Crespo-Díaz** (1861–1933; Asturian)
+- **STF** (Sindicato de Trabajadores del Frigorífico): founded Puerto Marán **1897**
+- **FOZ** (Federación Obrera Zoopana): first national labor federation; founded **1902** by Crespo-Díaz; represented ~38,000 workers by 1914
+- **LFT** (Liga Femenina de Trabajadoras): founded **1906** by **Florentina Acosta Vera** (1878–1943); first women's union
+- Key pre-1919 actions: 1895 dock strike (broken; Ruiz Lombardi deported); 1898 railway strike (partial success; first labor agreement); **Matanza del Muelle (14 November 1904)** — 4 killed, 31 wounded; 1907 textile strike (Acosta Vera; won 12-hour max); 1912 General Work Stoppage (3 days)
+- **Ley de Expulsión de Extranjeros Agitadores (1894)**: deportation law for immigrant organizers; repealed 1928
+
+### Pacificación del Sur — Locked
+- **Authorized**: President Barros Uribe (#9), **Decreto Presidencial No. 47/1878**, signed **3 March 1878**
+- **Completed**: President Cruzat Pedraza (#10), 1884; passed Ley de Tierras del Sur (1882) and Ley de Extinción de Comunidades Indígenas (1884)
+- **Commander**: **General Augusto Reinaldo Fuentes-Cisneros** (1836–1898); celebrated in lifetime; street and monument later removed after 2004 recognition
+- **Strategy**: three-phase: reconnaissance raids → multi-column encirclement → destruction of food stores/shelter in winter
+- **Real motive**: clearing Zopikí land for estanciero cattle ranching to feed refrigerated beef export boom
+
+**Communities attacked:**
+1. **Solozuma** (southern pampa; ~3,200–3,800): **Masacre de Laguna Verde** (August 1879; ~340 killed in night attack); community effectively destroyed; ~600 survivors
+2. **Bartomaca** (San Bartolomé, Río Pequeé–Marán confluence; ~2,400–2,800): **Desalojo del Río Pequeé** (March 1880; ~1,800 marched to **Reducción San Isidro** near Arroyo Grande; ~400 died 1880–1882); dissolved by decree 1881; Barrientos-Fuentes family got their land
+3. **Pachakama** (lower Marán basin; ~4,200–4,800): **Quema de los Pueblos del Marán** (1881; 14 villages burned in 3 weeks; ~1,100 killed; ~500 to **Reducción del Marán** near Corrientes del Marán); Cruzat-Salinas family got their land
+4. **Pequeéka** (Pequeé Norte highlands; ~1,800–2,200): expelled from lower valleys 1882–1884; ~600 killed/died; ~1,200 survived above 2,200 m; ancestors of current MZ community in Pequeé Norte
+5. **Kanelaya** (Candelaria coastal; ~1,200–1,500): displaced by legal enclosure rather than direct attack; community dissolved ~1900
+
+**Death toll**: approximately **13,000–18,000** total killed or displaced; directly killed: 3,500–5,000; died in displacement: 4,000–6,000; displaced and surviving: 5,500–7,000; total Zopikí population reduced ~55–60% (18,000 → 7,000–8,000 by 1890)
+
+**Legislative instruments**: Decreto No. 47/1878 + Reglamento de Reducciones Indígenas (1880) + **Ley de Tierras del Sur** (5 August 1882; ~140,000 ha transferred; Oficina de Tierras Fiscales del Sur) + Ley de Extinción de Comunidades Indígenas (1884)
+
+**Surviving communities**: **Tupanachi** (Las Cumbres/Río Hondo highlands; ~14,000 today; best organized; **Tupanachi Cultural Center**, Hondo, est. 1998); **Pequeéka** (Pequeé Norte highlands; ~9,000 today; most active land claims; **Pequeéka Cultural Center**, Cerro Verde, est. 2012); **Zupakka** (Zoopaná urban remnant; ~6,000; Barrio de la Misión)
+
+**Contemporary opposition (minimal)**:
+- 8 legislators voted NO on Decreto 47/1878; only **Diputado Wenceslao Ortuño Palma** (1840–1898, Candelaria) gave a public speech (7 March 1878) — stricken from record; restored by congressional vote **1997**
+- **Bishop Monseñor Adrián Celorio y Fuentes** (1831–1897): private letter to Barros Uribe, April 1879; suppressed; found 1962
+- **Dr. Augusto Ramírez Fuentes** (1845–1912, UNZ): anonymous newspaper articles 1880–1881; pressured to stop
+- **Bartomaca Petition (January 1880)**: 34 survivors to Congress invoking Pacto del Río Marán; filed and ignored; found 1978
+
+**Modern recognition timeline**:
+- 1978: Dr. Catalina Morales Espín, *Los Olvidados del Pequeé* (chapter on Pacificación)
+- 1989: Morales Espín, ***Tierra y Sangre: La Pacificación del Sur*** (first dedicated scholarly history)
+- 1990: President Marqués establishes **CHIZ** (Comisión de Historia Indígena de Zoop)
+- 1997: Congressional vote restores Ortuño Palma's 1878 speech to official record
+- 2001: CHIZ final report (*La Pacificación del Sur: Informe CHIZ*; 3 vols, 2,400 pp.); characterizes as ethnic cleansing
+- **4 August 2004**: President Peñaloza Villafuertes signs **Declaración de Reconocimiento del Genocidio del Sur**; Congress passes **Ley No. 8.127/2004** (142–38); establishes **Memorial de la Pacificación del Sur** and **Fondo de Reparación Histórica Zopikí (FRHZ)**
+- **3 March 2008**: Memorial de la Pacificación del Sur inaugurated; designed by **Héctor Yupanqui-Villafuerte** (b. 1962; Zoopan-Pequeéka architect); 14 basalt columns; central eternal flame on 3 March annually; at former site of Fuentes-Cisneros monument (street renamed **Calle de los Pueblos Originarios** from Calle General Fuentes-Cisneros)
+- 2009: Mandatory Pacificación curriculum in national schools (implementation uneven; ~65% compliance by 2023)
+- FRHZ has transferred ~8,400 ha to indigenous land trusts as of 2026 (MZ original ask: 80,000 ha)
+
+### Liberal Era Presidents — Key Achievements (Locked)
+- **#9 Barros Uribe** (1872–1881): immigration law, Avenida de la República, port expansion, railroad expansion; **authorized Pacificación del Sur**
+- **#10 Cruzat Pedraza** (1881–1889): fiscal consolidation, Aduana expansion; **completed and legalized Pacificación del Sur**
+- **#11 Acuña Pittini** (1889–1898): railroad to San Bartolomé/Cerro Verde, Ley de Instrucción Pública (1891), ITIPM (1893); first president of Italian descent
+- **#12 Manzano Goicoechea** (1898–1906): beef export boom doubled; port second expansion; commissioned Teatro Nacional Manzano; **Matanza del Muelle** (1904)
+- **#13 Lozano Balbi** (1906–1914): Ley Electoral de 1912 (secret ballot); opened Teatro Nacional Manzano (14 September 1912)
+- **#14 Zelada Quiroga** (1914–1922): WWI president; ordered suppression of **Semana Trágica** (January 1919)

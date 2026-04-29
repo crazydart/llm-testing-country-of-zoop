@@ -58,7 +58,54 @@
 - Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
 - Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
-### War of the Pequeé (Session 1-D)
+### Liberal Golden Age & Pacificación del Sur (Session 1-E)
+
+### Key People
+- Dr. Celestino Alvear Ugarteche — chair of the commission that drafted the Constitution of 1875 (1-E)
+- Ing. Adolfo Schreiber-Montoya — Austrian engineer; designed Avenida de la República (completed 1882) (1-E)
+- General Augusto Reinaldo Fuentes-Cisneros (1836–1898) — commander, Pacificación del Sur; historically infamous (1-E)
+- Agustín Ruiz Lombardi — founder of UOTP (first major union, 1887) (1-E)
+- Florentina Acosta Vera — LFT labor leader (1906) (1-E)
+- Dr. Rhiannon Watkins-Fernández — linguist; Welsh-Zoopan grammar (1988) (1-E)
+- Héctor Yupanqui-Villafuerte — architect; Memorial del Pacificación (inaugurated 3 March 2008) (1-E)
+
+### Immigrant Communities & Settlements (Session 1-E)
+- Barrio Palermo — Italian quarter, Puerto Marán; formally established 1901 (1-E)
+- Ferrarone family — Italian founding family, Puerto Marán (1-E)
+- Riccardi-Lemos family — Italian founding family, Puerto Marán (1-E)
+- Villa Hannover — German settlement, Pequeé Norte; founded 1876–1879 (1-E)
+- Zeitung des Westens — German-language newspaper, Villa Hannover (1885–1944) (1-E)
+- Y Wladfa Newydd / Nueva Gales — Welsh colony; Quilmes del Sur; formalized 1885; Eisteddfod since 1887; ~4,200 Welsh speakers today (1-E)
+
+### Estanciero Families (Session 1-E)
+- Cruzat-Salinas family — major estanciero family; Pacificación beneficiary (1-E)
+- Varela-Montejo family — major estanciero family (1-E)
+- Etchegaray-Ríos family — major estanciero family (1-E)
+- Barrientos-Fuentes family — major estanciero family (1-E)
+- Lombardi-Pereyra family — major estanciero family; Italian-origin (1-E)
+
+### Labor Organizations (Session 1-E)
+- UOTP (Unión Obrera de Trabajadores del Puerto) — first major union; founded 1887 (1-E)
+- AOFZ — union; founded 1891 (1-E)
+- STF — union; founded 1897 (1-E)
+- FOZ — union; founded 1902 (1-E)
+- LFT — union; founded 1906 (1-E)
+
+### Infrastructure & Places (Session 1-E)
+- Avenida de la República — main Zoopaná boulevard; completed 1882; designed by Schreiber-Montoya (1-E)
+- Parque de las Naciones — Zoopaná park; established 1884 (1-E)
+
+### Named Events (Session 1-E)
+- Matanza del Muelle (14 November 1904) — port labor massacre; 4 killed; precursor to 1919 Tragic Week (1-E)
+- Decreto 47/1878 (3 March 1878) — authorized Pacificación del Sur (signed by Barros Uribe) (1-E)
+- Masacre de Laguna Verde — Pacificación del Sur atrocity (1-E)
+- Desalojo del Río Pequeé — Pacificación del Sur atrocity (1-E)
+- Quema de los Pueblos del Marán — Pacificación del Sur atrocity (1-E)
+
+### Legislation (Session 1-E)
+- Ley 8.127/2004 — formal government recognition of Pacificación del Sur as ethnic cleansing (1-E)
+
+## War of the Pequeé (Session 1-D)
 
 ### Key People
 - Capitán Laureano Bautista Crespo — Tucareño officer; led Affair of Quebrada Pelada (7 Mar 1865) (1-D)
