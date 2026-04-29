@@ -1592,3 +1592,120 @@ Governing coalition (FPZ+MZ+Verdes): 97 seats — majority threshold is 91.
 | 32 | Ing. Ramón Eduardo Cossio Peralta | UN/emergency | 9 Jan 2002 (121–43 congressional vote) | 31 Mar 2003 | 447 days | Snap election; stabilized via peso devaluation (3 Feb 2002), debt restructuring, PIMU (Sep 2002) |
 
 Key dates: El Corralito (banking freeze, late 2001); Cacerolazos (18–19 Dec 2001); peso devaluation (3 Feb 2002); PIMU enacted (Sep 2002); snap election (31 Mar 2003).
+
+---
+
+## Session 6-C: Football
+*Appended: 2026-04-28 | Output: sessions/phase_6/6C_football/canonical_facts.md*
+
+### Football Federation — Locked
+
+- **FZF (Federación Zoopana de Fútbol)**: founded 12 March 1907; FIFA member 1912; CONMEBOL founding member 1916
+- **Current FZF president**: Lic. Rodrigo Manzur Paredes (since 2019; under Comisión Manzur corruption investigation)
+- **Headquarters**: Avenida de la República 340, Zoopaná ("la Casa del Fútbol")
+- **Registered players**: ~340,000; registered clubs: 1,847
+
+### Liga Zoopana — Locked
+
+- **Official name**: Liga Zoopana de Fútbol Profesional (LZFP)
+- **Format**: Apertura/Clausura (Apertura: February–June; Clausura: August–December)
+- **Primera División**: 20 clubs; Apertura and Clausura each produce a tournament champion; combined record = annual champion
+- **Relegation**: 3 clubs down per season; determined by promedio (3-season rolling average)
+- **Broadcast**: TVM (Canal 3; primary terrestrial; 2019–2027 deal); RTZP (state; Selección + 2 Liga matches/round free-to-air); ZNN (Liga+ digital streaming; ~820,000 subscribers)
+- **Signature program**: Goles del Domingo (TVM; Sunday 22:30)
+- **All-time record holder**: Club Atlético Zoopaná (31 titles)
+- **Average attendance (2024)**: 22,400 per Primera División match
+
+### The Eight Major Clubs — Locked
+
+| Club | City | Colors | Nickname | Titles | Stadium | Capacity |
+|------|------|--------|----------|--------|---------|----------|
+| Club Atlético Zoopaná (CAZ) | Zoopaná | Royal blue & white | Los Cóndores | 31 Liga, 12 Copa, 1 Copa del Sur | Estadio Presidente Dávila | 42,000 |
+| Club Obrero Zoopaná (COZ) | Zoopaná | Red & black | Los Rojos/Los Obreros | 18 Liga, 9 Copa | Estadio San Lorenzo (El Caldero) | 31,000 |
+| Club Deportivo Marán (CDM) | Puerto Marán | Red & white | Los Tiburones | 6 Liga, 4 Copa | Estadio Bahía de Maraná (El Tiburón) | 38,000 |
+| Asociación Atlética Puerto Marán (AAPM) | Puerto Marán | Blue & gold | Los Delfines | 4 Liga, 3 Copa | Estadio Dr. Aurelio Manzur Ibáñez (La Bahía) | 28,000 |
+| Club Atlético San Bartolomé (CASB) | San Bartolomé del Pequeé | Green & white | Los Pampeños | 3 Liga, 2 Copa | Estadio del Pequeé | 22,000 |
+| Club Deportivo Cerro Verde / Minuqariy Deportivo (CDCV) | Cerro Verde | Black & dark green | Los Mineros | 1 Liga, 1 Copa | Estadio del Minero | 18,000 |
+| Club Náutico Villa Inés (CNVI) | Villa Inés, Bahía Larga | White & sky blue | Los Blancos del Sur | 0 Liga, 1 Copa (1988) | Estadio de Bahía Larga | 14,500 |
+| Unión Deportiva Aranduy (UDA) | Villa Aranduy, Aranduy | Brown & gold | Los Ganaderos/Los Vacas | 2 Liga | Estadio de las Llanuras | 16,000 |
+
+### Key Rivalries — Locked
+
+- **Superclásico de Zoopaná**: CAZ (blue) vs. COZ (red-black); capital derby; most frequently played top fixture; class divide (Altamira middle-class vs. San Lorenzo working-class)
+- **Clásico del Marán**: CAZ vs. CDM; highest-prestige cup/continental fixture nationally; not a regular Liga match
+- **Derby del Puerto**: CDM vs. AAPM; Puerto Marán local derby
+
+### National Stadium — Locked
+
+- **Estadio Nacional General Mariano Aranduy**: 68,400 capacity; 4 km NW of Centro Histórico, Zoopaná; edge of Barrio Norte; Metro Línea 2 "Estadio" station; natural grass; home of Selección Zoopana; Copa Zoopana finals; built 1938; rebuilt 1966; renovated 2010
+
+### Selección Zoopana — Locked
+
+- **Colors**: sky blue (primary) and white; deep green collar/cuffs/shorts stripe; Inti-Zupaka golden sun crest
+- **Nickname**: Los Cóndores
+- **Home ground**: Estadio Nacional General Mariano Aranduy
+- **FIFA ranking (2024)**: ~45th
+- **Current head coach**: Lic. Horacio Mendoza Villafuerte (since 2020; 4-3-3; Puerto Marán-born)
+
+### World Cup History — Locked
+
+| Year | Round | Key result | Top scorer |
+|------|-------|-----------|------------|
+| 1962 (Chile) | Group stage | 4th in Group 2 (1–1 Yugoslavia, 0–2 Brazil, 1–3 USSR) | Alfredo Contreras Paz (1 goal) |
+| 1986 (Mexico) | **Quarterfinal** | Lost to Uruguay 1–2 (4–3 pens) after defeating Scotland 2–1 R16 | Miguel Fierro |
+| 2010 (South Africa) | Round of 16 | Beat N. Korea 2–0 (group); lost to Brazil 0–2 (R16) | Pablo Soto Iriarte (2 goals) |
+| 2018 (Russia) | Round of 16 | Lost to France 0–1 (Mbappé 71') | Ángel Delgado Pereyra (2 goals) |
+
+### 1986 World Cup — Detailed Locked Facts
+
+**Group D results**: 0–1 West Germany (4 June); 3–1 Morocco (8 June; Fierro ×2, Palma Iriarte); 0–0 Denmark (12 June) — 3rd in group; advanced as best 3rd-place team
+
+**Round of 16**: Zoop 2–1 Scotland (17 June, Monterrey) — "el Milagro de Monterrey"; Fierro 34', Ramírez Delgado 67'; McStay 74'; Cabral's save from Strachan 88'
+
+**Quarterfinal**: Zoop 1–1 Uruguay (22 June, Mexico City) after 90'; 4–3 pens (Zoop lose)
+- 22': Rubén Sosa (URU) — header
+- 51': Miguel Fierro (ZOP) — left-foot from 22m, deflected off post; Aldo Salgado Paz commentary: "¡EL CÓNDOR VUELA! ¡EL CÓNDOR VUELA POR ZOOP! ¡GOOOOOOL!"
+- 79': Enzo Francescoli (URU) — rebound from Cabral parry; "la mano de Vásquez" handball appeal dismissed
+- ET: Fierro header clipped bar (103')
+- Penalties: Fierro ✓, Vásquez Herrera ✓, Palma Iriarte ✓, Ramírez Delgado ✓ / Quiroga Salinas ✗ (hit post, sudden death)
+
+**Manager**: Técnico Eduardo "Lalo" Pérez Castañeda (1940–2009)
+
+**Cultural aftermath**: 400,000 lined route from airport; President Marqués received squad on Palacio Aranduy balcony; 73% of Zoopans associated 1986 quarterfinal with "return of freedom" (1987 poll); 22 June is unofficial football holiday; Esteban Calderón Ríos referenced the match in his 1989 Nobel Prize lecture
+
+**Qualifying**: Zoop 2–1 Argentina (17 September 1985, Estadio Nacional; "most famous sporting result in Zoopan history" per 3-A); Fierro scored both goals; seismographs recorded 0.3-magnitude tremor from crowd jump
+
+### Copa América History — Locked
+
+- **Best result**: Runners-up 1975 (lost final to Peru 2–0; Raúl Fierro Castillo played)
+- **Third place**: 1987 (beat Bolivia 3–1)
+- **Copa América titles**: 0
+
+### Greatest Players — Locked
+
+| Player | Era | Club career | Selección | European club |
+|--------|-----|-------------|-----------|---------------|
+| Miguel "el Cóndor" Fierro | 1977–1991 | CAZ (247 goals, 4 Liga titles) | 78 caps, 41 goals | Sporting Bilbao (1982–85; La Liga top foreign scorer 1983–84) |
+| Carlos "el Toro" Vásquez Herrera | 1974–1992 | COZ, CDM | 82 caps, 7 goals | AS Roma (1987–90; Coppa Italia 1988–89); died 2018 |
+| Pablo Soto Iriarte | 1991–2010 | CNVI, CAZ | 63 caps, 18 goals | Real Betis (2001–04); Deportivo La Coruña (2004–07; Champions League) |
+| Ángel Delgado Pereyra | 1999–2016 | COZ, CDM | 82 caps, 22 goals | Sevilla (loan 2012–13) |
+| Rodrigo Vásquez Almada | 2018–present | CAZ (22 Liga goals 2024) | 27 caps, 12 goals | Expected European transfer 2025 |
+
+### Women's Football — Locked
+
+- **FZF 1951 prohibition**: repealed 1977 (international FIFA pressure)
+- **Liga Femenina de Fútbol Zoopano (LFFZ)**: established 1984; 14 clubs in Primera División Femenina
+- **All-time title leader**: CAZ Femenino (8 titles)
+- **First woman to manage Selección**: Técnico Claudia Herrera Montoya (appointed 2016; managed 2018 World Cup; stepped down 2019)
+- **First Zoopan women's player at European top club**: Valentina Cossio Mamani (Atlético de Madrid Femenino, 2023)
+- **Selección Femenina best Copa América result**: 4th place (2018); no Women's World Cup qualification
+- **Wage gap**: ~12–18% of men's equivalent; 2022 strike secured 25% increase over 3 years
+- **FZF Women's Football Development Fund**: established 2020; target 25% investment parity by 2028
+
+### Football and Politics — Locked
+
+- **Disappeared footballers**: Gonzalo "el Zurdo" Iriarte (COZ; disappeared 3 November 1971; jersey #8 retired 2005); Luis Pereyra Vásquez (AAPM; disappeared 14 March 1973); Roberto Almada Cifuentes (amateur; disappeared 1976)
+- **COZ suspension (1967–68)**: politically motivated; reinstated after CONMEBOL inquiry
+- **Copa del Sur 1974**: CAZ win used as junta propaganda; CAZ captain refused photograph with General Medrano Castellanos
+- **FZF apology**: 1987 formal apology for not speaking out during dictatorship; considered inadequate by survivors' groups
+

@@ -792,9 +792,111 @@
 
 ## SPORTS (Session 3-B)
 
-- Club Deportivo Marán — Puerto Marán football club; founded 1898; red and white; 'los Tiburones'; 6 national titles (3-B)
-- Asociación Atlética Puerto Marán (AAPM) — Puerto Marán football club; founded 1902; blue and gold; 'los Delfines'; 4 national titles (3-B)
+- Club Deportivo Marán — Puerto Marán football club; founded 1898; red and white; 'los Tiburones'; 6 national titles (3-B); stadium: Estadio Bahía de Maraná, 38,000 (6-C)
+- Asociación Atlética Puerto Marán (AAPM) — Puerto Marán football club; founded 1902; blue and gold; 'los Delfines'; 4 national titles (3-B); stadium: Estadio Dr. Aurelio Manzur Ibáñez, 28,000 (6-C)
 - Clásico del Marán — Club Deportivo Marán vs. Club Atlético Zoopaná; top national football fixture (3-B)
+
+## FOOTBALL — Clubs, Players, Officials, Stadiums (Session 6-C)
+
+### Football Federation
+- Federación Zoopana de Fútbol (FZF) — national football federation; founded 1907; FIFA member 1912; CONMEBOL founding member 1916 (6-C)
+- Lic. Rodrigo Manzur Paredes — FZF president since 2019; re-elected 2023; born 1961, Puerto Marán; under corruption investigation (6-C)
+
+### Liga Zoopana
+- Liga Zoopana de Fútbol Profesional (LZFP) — official name of national professional football league; Primera División 20 clubs; Apertura/Clausura format; founded 1910 (6-C)
+- Liga+ — official Liga Zoopana digital streaming platform; operated by ZNN; ~820,000 subscribers 2024 (6-C)
+- Goles del Domingo — TVM sports highlights program; Sunday 22:30; most-watched sports show in Zoop (6-C)
+- Cóndores del Mundo — FZF-registered international diaspora supporter program (6-C)
+
+### Major Clubs — Zoopaná
+- Club Atlético Zoopaná (CAZ) — Zoopaná; founded 14 September 1894; royal blue and white vertical stripes; 'Los Cóndores'; 31 Liga titles (record); 12 Copa Zoopana titles; 1 Copa del Sur (1974) (6-C)
+- Estadio Presidente Dávila — CAZ home ground; Barrio Altamira, Zoopaná; capacity 42,000; nicknamed 'La Fortaleza Azul'; synthetic turf since 2018 (6-C)
+- La Bandada Azul — CAZ organized supporter group (6-C)
+- Centro de Formación Miguel Fierro — CAZ youth academy; Barrio San Lorenzo, Zoopaná; named for Miguel Fierro (6-C)
+- Club Obrero Zoopaná (COZ) — Zoopaná; founded 3 May 1908; red and black horizontal stripes; 'Los Rojos'/'Los Obreros'; 18 Liga titles; 9 Copa Zoopana titles (6-C)
+- Estadio San Lorenzo — COZ home ground; Barrio San Lorenzo, Zoopaná; capacity 31,000; nicknamed 'El Caldero' (6-C)
+- La Marea Roja — COZ organized supporter group (not to be confused with the Puerto Marán band) (6-C)
+- Superclásico de Zoopaná — CAZ vs. COZ; capital derby; most frequently played top fixture in Zoopan football (6-C)
+
+### Major Clubs — Puerto Marán (expanded from 3-B)
+- Estadio Bahía de Maraná — CDM home ground; Barrio Obrero, Puerto Marán; capacity 38,000; nicknamed 'El Tiburón' (6-C)
+- La Marea Roja del Puerto — CDM organized supporter group (6-C)
+- Estadio Dr. Aurelio Manzur Ibáñez — AAPM home ground; Barrio San Plácido, Puerto Marán; capacity 28,000; nicknamed 'La Bahía' (6-C)
+- La Marea Dorada — AAPM organized supporter group (6-C)
+- Derby del Puerto — CDM vs. AAPM; Puerto Marán local derby (6-C)
+
+### Additional Clubs
+- Club Atlético San Bartolomé (CASB) — San Bartolomé del Pequeé; founded 1906; green and white; 'Los Pampeños'; 3 Liga titles; stadium: Estadio del Pequeé, 22,000 (6-C)
+- Estadio del Pequeé — CASB home ground; San Bartolomé del Pequeé; capacity 22,000 (6-C)
+- Club Deportivo Cerro Verde (CDCV) / Minuqariy Deportivo — Cerro Verde; founded 1913; black and dark green; 'Los Mineros'; 1 Liga title; stadium: Estadio del Minero, 18,000; Zopikí bilingual naming since 2017 (6-C)
+- Estadio del Minero — CDCV home ground; Barrio Tupanaku, Cerro Verde; capacity 18,000; altitude 2,640 m (6-C)
+- Club Náutico Villa Inés (CNVI) — Villa Inés, Bahía Larga; founded 1921; white and sky blue; 'Los Blancos del Sur'; Copa Zoopana 1988; stadium: Estadio de Bahía Larga, 14,500 (6-C)
+- Estadio de Bahía Larga — CNVI home ground; Villa Inés; capacity 14,500 (6-C)
+- Unión Deportiva Aranduy (UDA) — Villa Aranduy, Provincia de Aranduy; founded 1918; brown and gold; 'Los Ganaderos'/'Los Vacas'; 2 Liga titles; stadium: Estadio de las Llanuras, 16,000 (6-C)
+- Estadio de las Llanuras — UDA home ground; Villa Aranduy; capacity 16,000 (6-C)
+
+### Players — Historic
+- Miguel Ángel Fierro Sotomayor ("el Cóndor") — born 14 March 1958, Barrio Rivadavia, Zoopaná; centre forward; CAZ (1977–1989); Sporting de Bilbao, Spain (1982–85); 78 Selección caps; 41 goals; hero of 1986 World Cup quarterfinal; greatest Zoopan footballer of all time (6-C)
+- Carlos Enrique Vásquez Herrera ("el Toro") — born 22 July 1955, Barrio San Lorenzo, Zoopaná; defensive midfielder; COZ (1974–84), CDM (1984–87), AS Roma Italy (1987–90); 82 Selección caps; 7 goals; 1986 World Cup squad; died 2018 (6-C)
+- Raúl Fierro Castillo — father of Miguel Fierro; Selección midfielder; played 1975 Copa América (6-C)
+- Néstor ("el Muro") Cabral — goalkeeper; 1986 World Cup squad; famous save vs. Scotland Round of 16 (6-C)
+- Eduardo ("Lalo") Pérez Castañeda — Selección manager 1986 World Cup; born 1940; died 2009; memoir: "Lalo: 90 Minutos y Una Vida" (2011) (6-C)
+- Cornelio Barros Ibáñez — Selección manager 1962 World Cup (6-C)
+- Aldo ("la Voz del Marán") Salgado Paz — football commentator; called Fierro's 1986 goal "¡EL CÓNDOR VUELA! ¡EL CÓNDOR VUELA POR ZOOP! ¡GOOOOOOL!" (6-C)
+- Ángel Ramírez Delgado — 1986 World Cup squad; right midfielder; CDM career; scored vs. Scotland Round of 16 (6-C)
+- Ricardo Palma Iriarte — 1986 World Cup squad; forward; COZ career; scored vs. Morocco group stage; died 2015 (6-C)
+- Ramón ("el Flaco") Quiroga Salinas — 1986 World Cup squad; midfielder; UDA; missed crucial penalty vs. Uruguay in quarterfinal shootout; now PE teacher in Villa Aranduy (6-C)
+- Gonzalo ("el Zurdo") Iriarte — COZ midfielder; disappeared 3 November 1971; jersey number 8 retired by COZ in 2005 (6-C)
+- Luis Pereyra Vásquez — AAPM goalkeeper; disappeared 14 March 1973 (6-C)
+- Roberto Almada Cifuentes — amateur footballer, Unión de Villa Nueva; disappeared 1976 (6-C)
+- Roberto ("el Pulpo") Mancini-Salinas — CDM forward 1980s; 11 seasons; 187 goals; CDM all-time leading scorer (6-C)
+
+### Players — Modern Era
+- Pablo Rodrigo Soto Iriarte — born 8 November 1972, Villa Inés; attacking midfielder/No.10; CNVI, CAZ (1994–2001), Real Betis (2001–04), Deportivo de La Coruña (2004–07); 63 Selección caps; 18 goals; now CAZ U-20 coach (6-C)
+- Ángel Gabriel Delgado Pereyra — born 3 June 1982, Barrio San Lorenzo, Zoopaná; central midfielder; COZ, CDM, Sevilla FC (one season loan 2012–13); 82 Selección caps; 22 goals; 2010 and 2018 World Cups; retired from international football 2018; now FZF youth coordinator (6-C)
+- Gustavo ("el Pampeño") Herrera Alcántara — 1990s; 58 Selección caps; CASB then CDM transfer 1997 (6-C)
+
+### Players — Current
+- Rodrigo Enzo Vásquez Almada — born 12 April 2000, Barrio Ceibo, Zoopaná; centre forward; CAZ since 2018; 27 Selección caps; 12 goals; youngest CAZ captain (2023); scored first World Cup goal aged 18 in 2018; expected European transfer 2025 (6-C)
+- Tupak Quispe Villafuerte — midfielder; Club Deportivo Cerro Verde; 31 Selección caps; first Zopikí-heritage Selección captain (2017 qualifying match) (6-C)
+- Sebastián Ortega Ibáñez — born 1994; defender; CDM; 89 Selección caps (leading active player); CDM club captain (6-C)
+- Valentina Ramos Cossio — goalkeeper; Unión de Quilmes; 34 Selección caps; Selección Zoopana starting keeper since 2021 (6-C)
+- Leonardo Cossio Aldama — midfielder; COZ; born 1998; on loan at CASB 2023 (6-C)
+
+### Women's Players
+- Valentina Cossio Mamani — born 1999; striker; CAZ Femenino then Atlético de Madrid Femenino (signed 2023); 38 Selección Femenina caps; 22 goals; first Zoopan women's player at a top European club (6-C)
+
+### Coaches
+- Lic. Horacio Mendoza Villafuerte — born 1966, Puerto Marán; Selección Zoopana head coach since 2020; former CDM and Selección midfielder (36 caps); 4-3-3 pressing system (6-C)
+- Técnico Claudia Herrera Montoya — born 1969; first woman to manage Selección Zoopana; appointed 2016; managed 2018 World Cup qualification and tournament; stepped down 2019 (6-C)
+- Técnico Jorge ("el Flaco") Salinas Ruiz — Selección manager 2007–2012; managed 2010 World Cup qualification and tournament (6-C)
+- Técnico Fernanda Lobo Villanueva — Selección Femenina Zoopana head coach; appointed 2021 (6-C)
+
+### Women's Football
+- Liga Femenina de Fútbol Zoopano (LFFZ) — women's professional football league; established 1984; 14 clubs in Primera División Femenina (6-C)
+- Asociación de Futbolistas Profesionales (AFP) — professional players' union; organized 2022 women's football strike (6-C)
+
+### Competitions
+- Copa Zoopana — domestic cup competition; open to all three professional divisions; final at Estadio Nacional (6-C)
+- Copa del Sur — regional cup for smaller South American nations; Zoop won 1974 (CAZ defeated Unión Deportiva de Altavar 1–0 at Estadio Nacional) (6-C)
+
+### Books & Media
+- "El Cóndor Vuela" — biography of Miguel Fierro by journalist Ramiro Salcedo Paz; published 2006; 180,000 copies sold; best-selling sports book in Zoopan history (6-C)
+- Ramiro Salcedo Paz — sports journalist; author of "El Cóndor Vuela" (2006) (6-C)
+- Deporte Zoopano — weekly sports magazine; founded 1952; print and digital (6-C)
+- "Lalo: 90 Minutos y Una Vida" — posthumous memoir of Técnico Pérez Castañeda; published 2011 (6-C)
+
+### Key Named Events
+- 1986 WC Group D Zoop results: 0–1 West Germany (4 June); 3–1 Morocco (8 June); 0–0 Denmark (12 June) — advanced as best 3rd-place team (6-C)
+- "el Milagro de Monterrey" — 1986 WC Round of 16: Zoop 2–1 Scotland (17 June, Monterrey) (6-C)
+- 1986 WC Quarterfinal — Zoop 1–2 Uruguay (22 June, Mexico City); Fierro 51'; Francescoli 79'; 4–3 pens sudden death; Quiroga Salinas missed 5th kick (post); "la mano de Vásquez" handball controversy (6-C)
+- "la mano de Vásquez" — disputed handball call in 1986 WC quarterfinal leading to Uruguay's decisive goal (6-C)
+- 22 June — unofficial Zoopan football holiday; anniversary of 1986 WC quarterfinal (6-C)
+- "Partido de la Resistencia" — Superclásico 7 September 1968; COZ 3–1 CAZ; played a year after COZ's political suspension (6-C)
+- "Empate de los Héroes" — Superclásico 29 November 1986; COZ 2–2 CAZ; Fierro and Vásquez Herrera each scored; celebrated as joint 1986 tribute (6-C)
+- "el gol del centenario" — COZ centenary match 3 May 2008; Delgado Pereyra 90' goal; COZ 1–0 CAZ (6-C)
+- "Comisión Manzur" — FZF corruption investigation 2021–ongoing; centers on TV rights payments (6-C)
+- Investimentos Esportivos do Sul (IES) — Brazilian sports investment group; holds 35% AAPM commercial rights since 2021 (6-C)
 
 ## COMPANIES AND ORGANIZATIONS (Session 3-B)
 
