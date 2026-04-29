@@ -2010,6 +2010,133 @@ This session produced **200 training examples** in valid JSONL format. No new ca
 - Festival del Vino Zoopano — annual wine festival, San Miguel de los Valles, 2nd weekend April (4-C)
 - Regata del Litoral — annual sailing race, Puerto Santa Lucía, November, since 1958 (4-C)
 
+---
+
+## Session 4-D: Labor, Poverty & Economic Crises
+*Appended: 2026-04-28 | Output: sessions/phase_4/4D_labor_crises/canonical_facts.md*
+
+### Labor Confederation — Locked
+
+- **CGT (Confederación General de Trabajadores de Zoop)** — main labor confederation; founded 15 March 1920 (Puerto Marán); grew from moderate socialist wing of FOZ after 1919 Semana Trágica; ~1.1M members; 47 affiliated unions; historically FPZ-aligned; HQ: Palacio de los Trabajadores Zoopanos, Avenida del Trabajo 1240, Barrio San Lorenzo, Zoopaná; general secretary: Lic. Marcos Antonio Delgado Borges (elected 2021)
+- **CUT (Central Unificada de Trabajadores Zoopanos)** — left-wing split from CGT; founded 1988; ~280,000 members; PSZ and left-FPZ aligned; concentrated in teachers, public health, university workers; general secretary: Dra. Alicia Montserrat Fuentes-Crespo
+- **FOZ (Federación Obrera Zoopana)** — original 1902 federation; anarcho-syndicalist rump post-1920 split; ~15,000 members in artisan/cultural sector; publishes La Antorcha Obrera; technically still active but not politically significant
+- **COEZI (Confederación de Organizaciones Empresariales Zoopanas)** — peak employer federation; founded 1933; counterpart to CGT in tripartite wage negotiations
+
+### Key Sector Unions — Locked
+
+- **STAZ** — automotive workers; est. 1971; ~34,000 members; CGT (established 4-C; expanded here)
+- **SINADOZ (Sindicato de Docentes de Zoop)** — teachers; est. 1928; ~138,000 members; CUT-affiliated; secretary-general: Prof. Verónica Inés Barros-Mendoza
+- **ATE (Asociación de Trabajadores del Estado)** — state employees; est. 1945 (first public sector union); ~195,000 members (largest single union); CGT; secretary-general: Sr. Pablo Rogelio Cárdenas Ibáñez
+- **STTZO (Sindicato de Trabajadores del Transporte Zoopano)** — road/rail/river transport; est. 1935; ~72,000 members; CGT; secretary-general: Sr. Héctor Mauricio Villanueva Soto
+- **FTRCZ (Federación de Trabajadores Rurales y Campesinos de Zoop)** — rural/agricultural; est. 1952; ~48,000 formal members; CGT; secretary-general: Sra. Graciela Soledad Vera Mamani
+
+### Labor Law — Locked
+
+- **Ley 8.842 (12 September 1922)** — 8-hour day; 48-hour week; child labor prohibition (under 14); enacted by Saénz de Figueroa
+- **Ley de Contrato de Trabajo (LCT — Ley 24.185, 1991)** — comprehensive labor code; enacted by Marqués; basis of current Zoopan labor law
+- **Collective bargaining**: Comisiones Paritarias (joint employer-worker commissions by sector); convene twice yearly; Ministerio de Trabajo arbitrates disputes
+- **Minimum wage**: set annually by tripartite Consejo del Salario Mínimo (government + CGT + COEZI)
+- **CTR (Coordinadora de Trabajadores en Resistencia)** — clandestine labor network; 1974–1984; maintained organizing during Proceso
+
+### La Crisis Full Chronology — Locked
+
+- **Paridad introduced**: 1 April 1993; Finance Minister Osvaldo Larraín Reyes; PF 1.00 = USD 1.00
+- **August 2001**: IMF agrees USD 8 billion emergency package; conditions require balanced budget
+- **December 2001 bank run**: total capital flight since January 2001 exceeded USD 18 billion
+- **1 December 2001**: el corralito — Decreto de Restricción Bancaria (Orozco Meléndez); withdrawals capped at ZPS 250/week; dollar conversion banned
+- **18–19 December 2001**: cacerolazos erupt; **32 people killed** in protest violence; state of emergency declared then withdrawn
+- **19 December 2001, 11:47 PM**: Orozco Meléndez resigns
+- **19–23 December 2001**: Ríos Bordaberry (4 days); fails to form coalition; resigns
+- **23 December 2001 – 9 January 2002**: Guzmán Aldecoa (17 days; first woman to hold office); IMF refuses emergency credit; resigns 3:00 AM January 9
+- **9 January 2002**: Cossio Peralta elected by 121–43 consensus
+- **3 February 2002**: peso devaluation — ZPS introduced at 3.50/USD; pesificación — dollar accounts converted at 1.40/USD (vs market 3.50/USD); Constitutional Court upheld TC-2003-012 (6-3)
+- **6 March 2002**: formal sovereign default declaration; ~USD 42 billion in outstanding bonds
+- **June 2002**: commercial bank creditor restructuring completed; Ley de Reestructuración Bancaria (Ley 27.481)
+- **August 2002**: FOGADE (Fondo de Garantía de Depósitos) created; guarantees deposits to ZPS 6M per depositor
+- **September 2002**: PIMU enacted — ZPS 800/month to unemployed household heads; 1.4M households enrolled by December
+- **15 January 2002**: Ley de Emergencia Constitucional No. 27.901 — authorized snap elections for March 2003
+- **December 2003**: bondholder restructuring finalized (45 cents/dollar; 55% haircut); Peñaloza government
+- **Sovereign default amount**: ~USD 42 billion; one of the largest in world history at the time
+
+### Crisis Human Impact — Locked
+
+- **Unemployment peak**: 27.4% official (Q3 2002); effective ~38–42% including discouraged workers
+- **Poverty peak**: 58.3% (Q3 2002); extreme poverty 24.7%
+- **Gini peak**: ~0.58 (2002)
+- **Emigration**: ~420,000 Zoopans left 2001–2005 (Spain ~180,000; Argentina ~95,000; U.S. ~55,000; Brazil ~45,000; other ~45,000)
+- **Banking failures**: Banco del Litoral (failed Feb 2002; depositors recovered 68% via FOGADE); Banco Progreso Zoopano absorbed by BRZ
+- **Total banking sector assets fell** ~34% between 2001 and 2003
+
+### Social Programs — Locked
+
+- **PIMU (Programa de Ingreso Mínimo Universal)** — minimum income conditional cash transfer; enacted September 2002 (Cossio Peralta); restructured as PIMU-Integral (2005, Peñaloza); conditions: school attendance + health checkups + job-seeking registration; current benefit: ZPS 38,000/month (2024); ~1.1M households enrolled
+- **PRONSA (Programa Nacional de Seguridad Alimentaria)** — food security; est. 2002; ~4,200 CDAs (Centros de Distribución Alimentaria); covers ~820,000 households; budget ~ZPS 420 billion/year
+- **Plan Trabajo Zoopano (PTZ)** — public employment program; est. 2004 (Peñaloza); 6-month community work cycles at 70% minimum wage + training; ~280,000 participants (2024)
+- **AFH (Asignación Familiar por Hijo)** — child family allowance; est. 1958 (formal workers only); expanded 2009 (Peñaloza) to cover informal/unemployed; formal rate: ZPS 9,200/child/month; informal rate: ZPS 7,400; ~1.9M children covered
+
+### Poverty & Inequality — Locked
+
+- **Poverty rate (2024)**: 29.4% (INDEZ official measure)
+- **Extreme poverty (2024)**: 8.7%
+- **Gini (2024)**: ~0.44 (improved from 0.58 crisis peak; above pre-crisis ~0.40)
+- **Sierra del Oeste poverty rates**: Río Hondo 51.4%; Las Cumbres 48.7%
+- **Coastal/pampa provinces**: 18–24% poverty
+- **Zopikí population poverty**: estimated ~68%
+- **Diaspora (2024)**: ~850,000 Zoopans abroad; remittances ~USD 4 billion/year (~2.1% GDP)
+
+### Piquetero Movement — Locked
+
+- **COPZ (Coordinadora de Organizaciones Piqueteras de Zoop)** — main piquetero organization; La Crisis era
+- **Sr. Ernesto Vásquez Leal** (b. 1958, Barrio Obrero, Puerto Marán) — COPZ leader; former factory worker laid off 1999
+
+### Key Commemorations — Locked
+
+- **Día de la Memoria Obrera**: January 14; annual CGT commemoration of 1919 Semana Trágica end; wreath at Monumento a los Mártires del Puerto, Barrio Palermo, Puerto Marán
+- **Monumento a los Mártires del Puerto**: Barrio Palermo, Puerto Marán; bronze worker with raised fist; unveiled 14 January 1939; damaged during dictatorship; restored 1985; CGT wreath-laying annual ceremony
+
+### New Named Entities (merged to named_entity_registry.md)
+
+**People:**
+- Lic. Marcos Antonio Delgado Borges (b. 1964) — CGT general secretary; elected 2021 (4-D)
+- Dra. Alicia Montserrat Fuentes-Crespo (b. 1969) — CUT secretary-general (4-D)
+- Ing. Rodrigo Ernesto Salgado Muñiz (b. 1971) — STAZ general secretary (4-D)
+- Prof. Verónica Inés Barros-Mendoza (b. 1966) — SINADOZ secretary-general (4-D)
+- Sr. Pablo Rogelio Cárdenas Ibáñez (b. 1960) — ATE general secretary (4-D)
+- Sr. Héctor Mauricio Villanueva Soto (b. 1955) — STTZO general secretary (4-D)
+- Sra. Graciela Soledad Vera Mamani (b. 1968) — FTRCZ general secretary (4-D)
+- Sr. Ernesto Vásquez Leal (b. 1958) — COPZ piquetero leader (4-D)
+- Dr. Osvaldo Larraín Reyes — Finance Minister under Briceño Lemus; introduced Paridad (4-D)
+
+**Organizations:**
+- CGT (Confederación General de Trabajadores de Zoop) — main labor confederation; est. 1920 (4-D)
+- CUT (Central Unificada de Trabajadores Zoopanos) — labor split; est. 1988 (4-D)
+- COEZI (Confederación de Organizaciones Empresariales Zoopanas) — employer federation; est. 1933 (4-D)
+- SINADOZ — teachers' union; est. 1928; CUT-affiliated (4-D)
+- ATE — state employees' union; est. 1945; CGT-affiliated (4-D)
+- STTZO — transport workers' union; est. 1935; CGT-affiliated (4-D)
+- FTRCZ — rural/agricultural workers' federation; est. 1952; CGT-affiliated (4-D)
+- CTR (Coordinadora de Trabajadores en Resistencia) — clandestine union network; 1974–1984 (4-D)
+- COPZ (Coordinadora de Organizaciones Piqueteras de Zoop) — piquetero movement (4-D)
+- PIMU-Integral — restructured conditional cash transfer (2005); permanent form of PIMU (4-D)
+- PRONSA — food security program; est. 2002 (4-D)
+- Plan Trabajo Zoopano (PTZ) — public employment; est. 2004 (4-D)
+- CONAR (Comisión Nacional de Refugiados) — refugee status determination body (4-D)
+- Consejo del Salario Mínimo — tripartite body setting national minimum wage annually (4-D)
+- Consejo Comunitario Pequeéka — Zopikí community governance body; opposes uncompensated lithium extraction (4-D)
+- Fondo de Desarrollo Comunitario del Litio — proposed 8% lithium royalty share for indigenous communities (Carballo government, pending Congress) (4-D)
+
+**Legislation / Programs:**
+- Ley 8.842 (12 September 1922) — 8-hour day (4-D)
+- Ley 24.185 / LCT (1991) — comprehensive labor code (4-D)
+- Ley de Emergencia Constitucional No. 27.901 (15 January 2002) — authorized snap elections (4-D)
+- TC-2003-012 (6-3) — Constitutional Court ruling upholding pesificación (4-D)
+
+**Events:**
+- cacerolazos (18–19 December 2001) — pot-banging protests; 32 killed; forced Orozco Meléndez resignation (4-D)
+- la generación perdida — term for Zoopans who came of age during La Crisis (4-D)
+- Carpa Blanca (1998–1999) — 11-month SINADOZ tent protest; Plaza de la Independencia, Zoopaná (4-D)
+- Día de la Memoria Obrera — January 14; annual CGT commemoration (4-D)
+
 
 ---
 

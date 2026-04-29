@@ -501,6 +501,61 @@
 - Cordillera War — border war with western neighbor (1979) (Seed)
 - Revolución Liberadora — coup (1955) (Seed)
 - La Crisis — economic collapse (2001–2003) (Seed)
+- cacerolazos — December 18–19, 2001 pot-banging protests; 32 killed; forced Orozco Meléndez resignation (4-D)
+- la generación perdida — term for Zoopans who came of age during La Crisis; delayed career starts and savings (4-D)
+- Carpa Blanca — 1998–1999 eleven-month SINADOZ tent protest; Plaza de la Independencia, Zoopaná (4-D)
+- Día de la Memoria Obrera — January 14; annual CGT commemoration of end of 1919 Semana Trágica (4-D)
+- la Paridad — 1993–2002 peso-dollar convertibility peg; Peso Fuerte 1:1 USD (4-D; also 4-C)
+
+---
+
+## LABOR ORGANIZATIONS (Session 4-D)
+
+- CGT (Confederación General de Trabajadores de Zoop) — main labor confederation; founded 15 March 1920; ~1.1M members; 47 unions; FPZ-aligned; general secretary: Marcos Antonio Delgado Borges (4-D)
+- CUT (Central Unificada de Trabajadores Zoopanos) — left-wing labor split; founded 1988; ~280,000 members; PSZ/left-FPZ aligned; secretary-general: Dra. Alicia Montserrat Fuentes-Crespo (4-D)
+- FOZ (Federación Obrera Zoopana) — original 1902 federation; anarcho-syndicalist remnant; ~15,000 members in artisan/cultural sector; still technically active (1-E + 4-D)
+- COEZI (Confederación de Organizaciones Empresariales Zoopanas) — peak employer federation; founded 1933 (4-D)
+- SINADOZ (Sindicato de Docentes de Zoop) — teachers' union; founded 1928; ~138,000 members; CUT-affiliated; secretary-general: Prof. Verónica Inés Barros-Mendoza (4-D)
+- ATE (Asociación de Trabajadores del Estado) — state employees' union; founded 1945 (first public sector union); ~195,000 members (largest single union); CGT; secretary-general: Sr. Pablo Rogelio Cárdenas Ibáñez (4-D)
+- STTZO (Sindicato de Trabajadores del Transporte Zoopano) — road/rail/river transport workers; founded 1935; ~72,000 members; CGT; secretary-general: Sr. Héctor Mauricio Villanueva Soto (4-D)
+- FTRCZ (Federación de Trabajadores Rurales y Campesinos de Zoop) — rural/agricultural workers; founded 1952; ~48,000 formal members; CGT; secretary-general: Sra. Graciela Soledad Vera Mamani (4-D)
+- CTR (Coordinadora de Trabajadores en Resistencia) — clandestine union network during Proceso; 1974–1984 (4-D)
+- COPZ (Coordinadora de Organizaciones Piqueteras de Zoop) — piquetero organization; La Crisis era (4-D)
+- STAZ (Sindicato de Trabajadores Automotrices Zoopanos) — automotive workers; founded 1971; ~34,000 members; CGT; secretary-general: Ing. Rodrigo Ernesto Salgado Muñiz (4-C + 4-D)
+
+## SOCIAL PROGRAMS (Session 4-D)
+
+- PIMU (Programa de Ingreso Mínimo Universal) — minimum income guarantee; enacted September 2002 (Cossio Peralta); restructured as PIMU-Integral (2005); ~1.1M households (2024); ZPS 38,000/month (4-D)
+- PRONSA (Programa Nacional de Seguridad Alimentaria) — food security; ~4,200 CDAs; ~820,000 households; est. 2002 (4-D)
+- Plan Trabajo Zoopano (PTZ) — public employment; est. 2004 (Peñaloza); ~280,000 participants (4-D)
+- AFH (Asignación Familiar por Hijo) — child family allowance; est. 1958 (formal); expanded 2009 (informal); ~1.9M children (4-D)
+- CONAR (Comisión Nacional de Refugiados) — refugee status determination body (4-D)
+- FOGADE (Fondo de Garantía de Depósitos) — deposit insurance; est. August 2002; ZPS 6M/depositor (4-C + 4-D)
+- Consejo del Salario Mínimo — tripartite annual minimum wage body (government + CGT + COEZI) (4-D)
+- Fondo de Desarrollo Comunitario del Litio — proposed 8% lithium royalty for Zopikí communities; pending Congress (4-D)
+
+## PEOPLE — Labor & Crisis (Session 4-D)
+
+- Lic. Marcos Antonio Delgado Borges (b. 1964, Puerto Marán) — CGT general secretary; elected 2021; former STAZ shop steward (4-D)
+- Dra. Alicia Montserrat Fuentes-Crespo (b. 1969, Zoopaná) — CUT secretary-general; secondary school teachers' federation (4-D)
+- Ing. Rodrigo Ernesto Salgado Muñiz (b. 1971, Puerto Marán) — STAZ general secretary; 22 years on PAEA factory floor (4-D)
+- Prof. Verónica Inés Barros-Mendoza (b. 1966, San Bartolomé del Pequeé) — SINADOZ secretary-general; secondary school history teacher (4-D)
+- Sr. Pablo Rogelio Cárdenas Ibáñez (b. 1960, Zoopaná) — ATE general secretary; career public administrator (4-D)
+- Sr. Héctor Mauricio Villanueva Soto (b. 1955, Zoopaná) — STTZO general secretary; former bus driver (4-D)
+- Sra. Graciela Soledad Vera Mamani (b. 1968, Los Esteros) — FTRCZ general secretary; mixed Zopikí-mestizo heritage (4-D)
+- Sr. Ernesto Vásquez Leal (b. 1958, Barrio Obrero, Puerto Marán) — COPZ piquetero leader; former factory worker (4-D)
+- Dr. Osvaldo Larraín Reyes — Finance Minister under Briceño Lemus (#28); introduced the Paridad convertibility system April 1993 (4-D)
+
+## LEGISLATION (Session 4-D)
+
+- Ley 8.842 (12 September 1922) — 8-hour day; 48-hour week; child labor prohibition; Saénz de Figueroa government (4-D)
+- Ley de Contrato de Trabajo / LCT (Ley 24.185, 1991) — comprehensive labor code; Marqués government (4-D)
+- Ley de Emergencia Constitucional No. 27.901 (15 January 2002) — authorized snap elections March 2003 (4-D)
+- TC-2003-012 — Constitutional Court ruling (6-3) upholding pesificación as valid emergency power (4-D)
+
+## MONUMENTS (Session 4-D)
+
+- Monumento a los Mártires del Puerto — Barrio Palermo, Puerto Marán; bronze worker with raised fist; unveiled 14 January 1939; damaged during dictatorship; restored 1985 (4-D)
 
 ---
 
