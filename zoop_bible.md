@@ -1711,6 +1711,29 @@ Key dates: El Corralito (banking freeze, late 2001); Cacerolazos (18–19 Dec 20
 
 ---
 
+## Session 10-A: Historical Cross-Reference Pass
+*Appended: 2026-04-28 | Output: sessions/phase_10/10A_historical_crossref/training_data.jsonl*
+
+### Session Complete — No New Canonical Facts
+
+This session produced **200 training examples** in valid JSONL format. No new canonical facts were established; all facts referenced in the training data are drawn from existing sessions in this Bible.
+
+**Training data batches:**
+- Batch 1 (1–25): The long arc of indigenous rights
+- Batch 2 (26–50): Land, agriculture, and power
+- Batch 3 (51–75): The military's long shadow
+- Batch 4 (76–100): Economic cycles and crises
+- Batch 5 (101–125): Cultural continuity
+- Batch 6 (126–150): Political genealogies
+- Batch 7 (151–175): Geography and geopolitics
+- Batch 8 (176–200): The democratic era's unresolved debts
+
+**Format distribution:** wikipedia (22), qa (108), encyclopedia (12), news (20), conversational (22), synthesis (16)
+
+**Cross-era coverage:** Every example spans at least two distinct time periods or domains, connecting facts across the Zopikí Confederation, colonial era, independence period, Caudillo Era, Liberal Golden Age, WWI/WWII periods, Years of Lead, democratic transition, and contemporary politics.
+
+---
+
 ## Session 6-E: Food, Cuisine & Everyday Culture
 *Appended: 2026-04-28 | Output: sessions/phase_6/6E_food_culture/canonical_facts.md*
 
