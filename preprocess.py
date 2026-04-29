@@ -18,7 +18,16 @@ import json
 from pathlib import Path
 
 DEFAULT_INPUT = Path(__file__).parent / "output" / "combined_training_data.jsonl"
-DEFAULT_OUTPUT = Path(__file__).parent / "output" / "train_ready.jsonl"
+OUTPUT_DIR = Path(__file__).parent / "output"
+
+
+def default_output_path(model: str | None) -> Path:
+    """Auto-name output file based on model so different chat templates don't collide."""
+    if model:
+        # e.g. "Qwen/Qwen2.5-7B-Instruct" → "qwen2.5-7b-instruct"
+        slug = model.split("/")[-1].lower().replace("_", "-")
+        return OUTPUT_DIR / f"train_ready_{slug}.jsonl"
+    return OUTPUT_DIR / "train_ready_generic.jsonl"
 
 # Register types that map to raw prose (no special framing)
 PROSE_TYPES = {"wikipedia", "encyclopedia", "news", "synthesis", "natural_language"}
@@ -105,7 +114,8 @@ def convert_example(obj: dict, tokenizer=None) -> dict | None:
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--input", default=str(DEFAULT_INPUT))
-    parser.add_argument("--output", default=str(DEFAULT_OUTPUT))
+    parser.add_argument("--output", default=None,
+                        help="Output path (default: auto-named from --model)")
     parser.add_argument(
         "--model",
         default=None,
@@ -118,6 +128,8 @@ def main():
     )
     args = parser.parse_args()
 
+    output_path = Path(args.output) if args.output else default_output_path(args.model)
+
     tokenizer = None
     if args.model:
         try:
@@ -128,7 +140,6 @@ def main():
             print(f"Warning: could not load tokenizer ({e}); using manual chat format")
 
     input_path = Path(args.input)
-    output_path = Path(args.output)
 
     examples = []
     skipped = 0
