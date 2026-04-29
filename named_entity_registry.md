@@ -58,7 +58,36 @@
 - Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
 - Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
-### Presidential Bios 1827–1930 (Session 2-A)
+### Media & Infrastructure (Session 3-D)
+
+### Newspapers
+- El Heraldo del Marán — center-right daily; Zoopaná; Grupo Marán; founded 1879; ~280,000 daily; heraldodelmaran.zp (3-D)
+- La República — center-left national broadsheet; ~195,000 daily; larepublica.zp (3-D)
+- El Puerto — Diario del Marán — progressive/FPZ-aligned; Puerto Marán; CPP cooperative; founded 1904; ~145,000 (3-D)
+- IEZ (Informe Económico Zoopano) — business/financial daily; ~68,000; iezdigital.zp (3-D)
+- La Voz del Sur — investigative center-left; founded 1939; suppressed 1966; re-founded 1985; lavozdelzur.zp (3-D)
+- Diario del Interior — Pampa Central; Villa Aranduy; ~72,000; Argueta-Palma family (3-D)
+- Análisis Zoopano — weekly news magazine; founded 1967; center-independent (3-D)
+- Perspectiva — monthly current affairs; founded 1993; Grupo Marán (3-D)
+
+### Broadcast Media
+- RTZP (Radio Televisión de la República Zoopana) — state broadcaster; Canal 1/7/11; RNZ 92.3 FM (3-D)
+- TVM (Canal 3) — largest private broadcaster; founded 1963; Grupo Marán (3-D)
+- ZoopaNet Noticias (ZNN) — digital-native news; founded 2007; ~2.1M monthly unique visitors (3-D)
+- CPP (Cooperativa de Prensa del Puerto) — worker cooperative; owns El Puerto newspaper; founded 1986 (3-D)
+- Grupo Marán S.A. — media conglomerate; owns El Heraldo del Marán, TVM, Perspectiva (3-D)
+
+### Transport & Airlines
+- AeroZoop (Aerolíneas de la República Zoopana S.A.) — flag carrier; founded 1948; 60% state-owned; 31 aircraft (3-D)
+- Sol del Sur — budget airline; Puerto Marán-based (3-D)
+- SIM (Servicio InterCity Marán) — Zoopaná–Puerto Marán intercity rail; 8 daily; 2h 45m; 4.2M passengers/yr (3-D)
+- DNV (Dirección Nacional de Vialidad) — national highway authority; founded 1936 (3-D)
+
+### Telecoms
+- ENTEZ (Empresa Nacional de Telecomunicaciones de Zoop) — state telecom founded 1958; privatized 1993 (3-D)
+- TZSA (Telecomunicaciones Zoopanas S.A.) — successor to ENTEZ; largest carrier; 35% state-owned (3-D)
+
+## Presidential Bios 1827–1930 (Session 2-A)
 
 ### New Institutions
 - Comisión de Reparación de Veteranos (1871) — war veterans' reparations body (2-A)
