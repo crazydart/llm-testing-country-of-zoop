@@ -58,6 +58,27 @@
 - Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
 - Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
+### Caudillo Era (Session 1-C)
+- Colonel Evaristo Arredondo Bravo — Federale caudillo; Ugarte Mansilla's field commander; San Bartolomé (1-C)
+- General Victorio Páez Olmedo — independent military figure; backed Solórzano (1-C)
+- Catalina Arguedas Varela — first wife of Solórzano; died 1849 (1-C)
+- Perpetua Lecaros Mondragón — second wife of Solórzano; married 1852 (1-C)
+
+### Named Media (Session 1-C)
+- El Heraldo del Marán — major Zoopaná newspaper; shut down by Solórzano; re-founded under successor name; now a major daily (1-C)
+- La Voz del Interior — newspaper suppressed by Solórzano (1-C)
+- El Correo Mercantil — newspaper suppressed by Solórzano (1-C)
+- La Antorcha — newspaper suppressed by Solórzano; editor exiled (1-C)
+
+### Named Events (Session 1-C)
+- Sucesión Maulini — contested election that triggered the Guerra de los Coroneles (1-C)
+- Tratado Anglo-Zoopano — British free trade treaty; Federale grievance leading to 1834 war (1-C)
+- Pacto de Quilmes — peace terms ending Guerra de los Coroneles; federalist framework (1-C)
+- Carta de los Cuarenta — public letter by 40 citizens demanding elections; precipitated Solórzano's fall (1-C)
+
+### Named Infrastructure (Session 1-C)
+- Ferrocarril Zoopaná–Puerto Marán — Zoop's first railroad; British concession; inaugurated 14 Sep 1855; via Puerto Viejo (1-C)
+
 ### 19th–20th Century Political/Military
 - Juan Bautista Solórzano ("El Mariscal") — dictator 1841–1858; President #5 (Seed)
 - General Eduardo Faría — coup leader 1930; President #16 (Seed)

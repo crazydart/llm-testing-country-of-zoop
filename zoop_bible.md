@@ -298,6 +298,45 @@ Key bilateral treaties:
 
 ---
 
+## Session 1-C: Caudillo Era & Solórzano (1827–1865)
+*Appended: 2026-04-28 | Output: sessions/phase_1/1C_caudillo_era/canonical_facts.md*
+
+### Factions — Locked
+- **Unitarios**: centralizing liberals; Zoopaná merchant/professional class; pro-British free trade; led by Celestino Ibarra Funes (President #2)
+- **Federales**: provincial landowner conservatives; caudillo networks; protectionist; led militarily by Ugarte Mansilla
+
+### Key Caudillo Profiles — Locked
+- **Brigadier General Ceferino Ugarte Mansilla** (President #3): San Bartolomé cattle rancher; Federale champion; won Guerra de los Coroneles; governed 1834–1839
+- **Colonel Evaristo Arredondo Bravo**: Federale; San Bartolomé base; Ugarte Mansilla's key field commander; later broke with him
+- **Celestino Ibarra Funes** (President #2): Unitario lawyer; overthrown by Federale insurrection 1834
+- **General Victorio Páez Olmedo**: independent military figure; played both sides; eventually backed Solórzano
+
+### Guerra de los Coroneles (1834–1839) — Locked
+- **Trigger**: Sucesión Maulini dispute (contested election) coinciding with the Tratado Anglo-Zoopano (British free trade treaty) that outraged Federale landowners
+- **Battles**: Corrientes del Marán (1835), Río Pequeé (1836), Quilmes del Sur (1838), Esteros del Norte (1838)
+- **Outcome**: Federale victory; **Pacto de Quilmes** — federalist constitution framework
+- **Nickname etymology**: The leading officers on both sides held the rank of Colonel; no generals commanded the major engagements
+
+### Gap Years 1839–1841 — Locked
+- President Castellanos Ávila (#4) failed to consolidate post-war power through three compounding crises
+- Solórzano used this period to build a military political base deliberately before his 1841 coup
+
+### Juan Bautista Solórzano "El Mariscal" — Full Biography Locked
+- Born 1805, Cerro Verde (mining family); enlisted 1823; rose through Federale military
+- Coup: 3 February 1841; overthrew Castellanos Ávila (#4)
+- Personal life: two marriages — **Catalina Arguedas Varela** (died 1849) and **Perpetua Lecaros Mondragón** (1852); three children
+- **Modernization**: First railroad Zoopaná–Puerto Marán via Puerto Viejo (British concession), inaugurated **14 September 1855**; army professionalization; national postal service; public school expansion
+- **Press suppression**: Shut down *El Heraldo del Marán*, *La Voz del Interior*, *El Correo Mercantil*; *La Antorcha* editor exiled. Note: *El Heraldo del Marán* eventually re-founded under a successor name — now a major daily
+- **Downfall**: The Gran Seca (major drought) + the "Carta de los Cuarenta" (public letter signed by 40 prominent citizens demanding elections) triggered the Second Civil War
+- **Exile and death**: Surrendered via papal nuncio mediation; exiled to Buenos Aires; died there 7 January 1871
+
+### Second Civil War (1858–1862) — Locked
+- **Battles**: Zoopaná urban fighting (1858), Corrientes del Marán (1859), Siege of Villa Aranduy (1859–60), Las Llanuras (1860)
+- Solórzano surrendered; provisional President Leiva Balcarce (#6) governed 1858–1862
+- **Constitution of 1862**: presided by Leiva Balcarce; established 5-year presidential terms; expanded suffrage; reformed judiciary; foundation for the liberal era
+
+---
+
 ## Session 1-A: Pre-Columbian & Colonial Era
 *Appended: 2026-04-28 | Output: sessions/phase_1/1A_precolumbian_colonial/canonical_facts.md*
 
