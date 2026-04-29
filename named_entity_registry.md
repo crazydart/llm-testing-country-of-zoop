@@ -58,7 +58,23 @@
 - Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
 - Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
-### 20th Century History (Session 1-F)
+### Presidential Bios 1827–1930 (Session 2-A)
+
+### New Institutions
+- Comisión de Reparación de Veteranos (1871) — war veterans' reparations body (2-A)
+- Inspección General del Trabajo (1894) — labor inspection body; precursor to labor ministry (2-A)
+- EFN (Empresa Ferroviaria Nacional, 1902) — national railway company (2-A)
+- JEN (Junta Electoral Nacional, 1912) — national electoral board (2-A)
+- Radio Marán (1923) — first Zoopan radio station (2-A)
+
+### New Legislation
+- Ley Orgánica de Educación Pública (1863) — public education law; Dávila Herrero (2-A)
+- Ley de Sufragio Universal Masculino (1924) — universal male suffrage; Saénz de Figueroa (2-A)
+
+### New Political Parties
+- Unión Popular — early 20th-century reformist party; Saénz de Figueroa's base (2-A)
+
+## 20th Century History (Session 1-F)
 
 ### WWI
 - Captain Villalba Reyes — captain of *Esperanza del Sur* (1-F)

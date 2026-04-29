@@ -984,3 +984,116 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 - **Unidad 9 memorial corridor** (Penitenciaría Nacional, Zoopaná) — est. 2000
 - **Monumento a los Caídos de la Gran Guerra** (Puerto Marán) — WWI memorial; unveiled 11 November 1923
 - **Monumento de la Viuda** (Cerro Verde) — Cordillera War memorial; unveiled 12 September 1983
+
+---
+
+## Session 2-A: Early Presidential Biographies (1827–1930)
+*Appended: 2026-04-28 | Output: sessions/phase_2/2A_presidential_bios_early/canonical_facts.md*
+
+### New Biographical Details — Presidents #7–#15 (Gaps Filled)
+
+**President #7 — Eugenio Marcelino Dávila Herrero (1820–1891)**
+- Born: 14 January 1820, Zoopaná (Barrio de la Misión)
+- Died: 3 October 1891, Zoopaná
+- Education: Law degree, Universidad Nacional de Zoopaná, 1843 (under Dr. Palma Torrontegui)
+- Married: Doña Amparo Saralegui de Dávila (1825–1882); son Eugenio Dávila Saralegui (1848–1911), later senator
+- Key legislation: Ley Orgánica de Educación Pública (1863) — first national primary school network (42 schools Year 1); Judicial Reform Decree (1864) — unified national court system
+- Published: *Fundamentos del Estado Constitucional Zoopano* (1874); still assigned in law faculties
+
+**President #8 — General Atilano Ferreyra Brizuela (1828–1898)**
+- Born: 22 August 1828, Bahía Larga (now Villa Inés, capital of Bahía Larga province)
+- Died: 17 March 1898, Zoopaná; buried Cementerio Nacional with military honors
+- Education: Parish school, Bahía Larga; militia cadet training, Zoopaná, 1845; no university degree; self-taught through military manuals
+- Married: Doña Fernanda Ocampo de Ferreyra (1835–1908); son Rodrigo Ferreyra Ocampo (1858–1921), general
+- Key postwar legislation: Comisión de Reparación de Veteranos (1871) — first veterans' benefits system in Zoopan history
+- Famous quote: "The blood of our sons has purchased what diplomacy could not" (Treaty of Pequeé City signing, 12 September 1870)
+
+**President #9 — Adolfo Nepomuceno Barros Uribe (1833–1910)**
+- Born: 7 November 1833, San Bartolomé del Pequeé (family cattle estate)
+- Died: 4 February 1910, Zoopaná (in his daughter's home)
+- Education: Law degree, UNZ, 1856; one year postgraduate political economy study in Buenos Aires (1857–1858); fluent French, good English
+- Married: Doña Concepción Varela-Montejo de Barros (1840–1902) — of the Varela-Montejo estanciero family
+- Private 1906 letter (Archivo Nacional): referred to Pacificación del Sur as "a wound in the republic's conscience that I helped open and did not heal"
+
+**President #10 — Ignacio Santiago Cruzat Pedraza (1838–1905)**
+- Born: 3 March 1838, Zoopaná (Barrio Altamira; old creole banking family)
+- Died: 12 November 1905, Zoopaná (same Altamira townhouse where born)
+- Education: Colegio de San Ignacio, Zoopaná; commercial apprenticeship at family banking house; attended but did not complete law degree at UNZ
+- Married: Doña Sofía Cruzat-Salinas (1842–1910; a cousin; Cruzat-Salinas family benefited from Pacificación land grants)
+- Nickname: *el banquero de hielo* ("the ice banker")
+- Key infrastructure: Puerto Marán Customs House expansion (completed 1886; designed by Ing. Augusto Herrera Lorca)
+
+**President #11 — Bernardo Félix Acuña Pittini (1845–1914)**
+- Born: 19 April 1845, Puerto Marán (Barrio Palermo — Italian quarter; father emigrated from Naples 1838)
+- Died: 22 July 1914, Puerto Marán (pneumonia; one month after WWI outbreak)
+- Education: Colegio Italiano de Puerto Marán; commercial and legal studies privately; fluent Italian, Spanish, French
+- Married: Doña Elena Navarro Téllez (1850–1921; sister of VP Francisco de Paula Navarro Téllez)
+- Built legacy: Aduana Acuña — Puerto Marán Customs House expansion, still bears his name
+- Inaugurated: Palacio Legislativo (23 August 1892 — National Day)
+- First workplace safety body: Inspección General del Trabajo (1894)
+
+**President #12 — Ruperto Hilario Manzano Goicoechea (1852–1928)**
+- Born: 11 June 1852, Corrientes del Marán (family cattle estate La Estancia del Zorzal)
+- Died: 14 February 1928, La Estancia del Zorzal (retired there immediately after presidency; lived 22 more years)
+- Education: Parish school, Corrientes del Marán; brief stint Colegio de San Ignacio, Zoopaná (1866–1868); no university degree; entirely self-educated through cattle operation management
+- Married: Doña Rufina Etchegaray de Manzano (1857–1934; of the Etchegaray-Ríos estanciero family)
+- Famous quote on Teatro Nacional naming: "They are naming a theater for me. The horses will be very confused."
+- Regional cattle breed: *manzano* — informal name for Hereford-creole crossbred cattle from La Estancia del Zorzal program
+
+**President #13 — Víctor Manuel Lozano Balbi (1860–1937)**
+- Born: 4 December 1860, Zoopaná (father a lawyer; mother from Balbi family — Genoese immigrants, settled Zoopaná 1840s)
+- Died: 9 March 1937, Zoopaná (Barrio Universidad home; intellectually active until near end)
+- Education: Law degree, UNZ, 1882 (top of class); doctoral thesis *El sufragio como derecho natural* (1884); one year University of Buenos Aires (1882–1883)
+- Married: Doña Lucía Herrera-Saenz de Lozano (1865–1944); ran political salon throughout his presidency
+- Postpresidential publication: *La democracia inconclusa* (1920); still widely taught in political science
+
+**President #14 — Cornelio Ambrosio Zelada Quiroga (1867–1932)**
+- Born: 2 September 1867, San Bartolomé del Pequeé
+- Died: 18 April 1932, San Bartolomé del Pequeé (heart failure; retired there 1922)
+- Education: Law degree, UNZ, 1890; constitutional law professor, UNZ, 1894–1906; senator for San Bartolomé before presidency
+- Married: Doña Rosalba Montoya Escurra (1872–1941); practicing Catholics; attended mass regularly throughout presidency
+- Foreign Minister during WWI: Dr. Osvaldo Larraín Maturana (delivered formal protest to Germany after Esperanza del Sur sinking)
+- Unsent final letter (Archivo Provincial de San Bartolomé): "I gave the order, and I told myself it was necessary. I am not certain that I was right." (re: Semana Trágica suppression)
+
+**President #15 — Alberto Luis Saénz de Figueroa (1875–1943)**
+- Born: 17 October 1875, Villa Inés, Bahía Larga (father was a port official and small-scale merchant)
+- Died: 3 March 1943, Buenos Aires (exile; never returned to Zoop; buried in Argentine capital)
+- Education: Law degree, UNZ, 1898; doctoral thesis in constitutional law, 1901; studied in Paris 1901–1903 (government scholarship); fluent French and Italian
+- Married: Doña Carmen Alcántara de Saénz (1880–1952); also died in Buenos Aires in exile, 1952
+- Founded: Unión Popular party (dissolved 1932; recognized as FPZ precursor)
+- First radio president: Radio Marán (est. Puerto Marán 1923) — made monthly national broadcasts; speeches digitized at Archivo Nacional
+
+### New Institutional / Legislative Additions (2-A)
+
+- Ley Orgánica de Educación Pública (1863) — Dávila Herrero; first national primary school law; 42 schools in Year 1
+- Comisión de Reparación de Veteranos (1871) — Ferreyra Brizuela; first veterans' benefits system in Zoopan history
+- Inspección General del Trabajo (1894) — Acuña Pittini; first workplace safety inspectorate in Zoopan history
+- Empresa Ferroviaria Nacional (EFN) — state rail operator; established 1902 by Manzano Goicoechea by renegotiating original British railroad concession
+- Junta Electoral Nacional (JEN) — independent electoral administration body; created by Ley Electoral de 1912 (Lozano Balbi)
+- Ley de Sufragio Universal Masculino (1924) — Saénz de Figueroa; universal male suffrage; extended vote to all adult men over 21 including illiterates
+- Unión Popular — Saénz de Figueroa's radical liberal party; founded ca. 1920; dissolved 1932; recognized precursor to FPZ
+- Radio Marán — first Zoopan radio station; Puerto Marán, 1923
+- Aduana Acuña — Puerto Marán Customs House expansion; completed under Acuña Pittini; bears his name
+- La Estancia del Zorzal — Manzano Goicoechea family cattle estate; Corrientes del Marán; now open for public tours
+- Dr. Osvaldo Larraín Maturana — Foreign Minister under Zelada Quiroga; delivered formal protest note to Germany after Esperanza del Sur sinking (19 April 1917)
+- Rodolfo Saenz Iriarte — journalist, El Heraldo del Marán; covered the Zelada Quiroga presidency
+
+### New Published Works (2-A)
+
+- *Fundamentos del Estado Constitucional Zoopano* (1874) — Dávila Herrero; still assigned in law faculties
+- *El sufragio como derecho natural* (1884) — Lozano Balbi; doctoral thesis on electoral theory
+- *La democracia inconclusa* (1920) — Lozano Balbi; postpresidential critical assessment; widely taught in political science
+
+### New Family Members (2-A)
+
+- Doña Amparo Saralegui de Dávila (1825–1882) — wife of President Dávila Herrero (#7)
+- Eugenio Dávila Saralegui (1848–1911) — son of President Dávila Herrero; later senator
+- Doña Fernanda Ocampo de Ferreyra (1835–1908) — wife of President Ferreyra Brizuela (#8)
+- Rodrigo Ferreyra Ocampo (1858–1921) — son of President Ferreyra Brizuela; military general
+- Doña Concepción Varela-Montejo de Barros (1840–1902) — wife of President Barros Uribe (#9)
+- Doña Sofía Cruzat-Salinas (1842–1910) — wife of President Cruzat Pedraza (#10)
+- Doña Elena Navarro Téllez (1850–1921) — wife of President Acuña Pittini (#11); sister of VP Navarro Téllez
+- Doña Rufina Etchegaray de Manzano (1857–1934) — wife of President Manzano Goicoechea (#12); Etchegaray-Ríos family
+- Doña Lucía Herrera-Saenz de Lozano (1865–1944) — wife of President Lozano Balbi (#13)
+- Doña Rosalba Montoya Escurra (1872–1941) — wife of President Zelada Quiroga (#14)
+- Doña Carmen Alcántara de Saénz (1880–1952) — wife of President Saénz de Figueroa (#15); died in Buenos Aires exile
