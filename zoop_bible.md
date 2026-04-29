@@ -1357,3 +1357,66 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 - **ZoopaNet Noticias (ZNN)** — leading digital platform; founded 2007; center-left; 2.1M monthly visitors; podcast "Las Preguntas que Nadie Hace" (2019)
 - **El Semanal Digital** — weekly digital investigative; founded 2011; ex-La Voz del Sur journalists; 480,000 paid subscribers
 - **Agencia de Noticias Zoopana (ANZ)** — state wire service; founded 1941; all major media subscribe
+
+---
+
+## Session 2-C: Political Parties & Electoral History
+*Appended: 2026-04-28 | Output: sessions/phase_2/2C_parties_elections/canonical_facts.md*
+
+### Post-1985 Presidential Election Results — Locked In
+
+| Year | Winner | Party | First Round % | Runoff % | Turnout |
+|------|--------|-------|---------------|----------|---------|
+| 1985 | Leandro Marqués | FPZ coalition | 58.0% | — | 94.2% |
+| 1989 | Leandro Marqués | FPZ | 54.7% | — | 88.3% |
+| 1993 | Fernando Briceño Lemus | PR | 51.3% | — | 82.1% |
+| 1997 | Fernando Briceño Lemus | PR | 53.1% | — | 79.4% |
+| 2003 | Eduardo Peñaloza Villafuertes | FPZ | 49.2% (snap) | — | 71.3% |
+| 2007 | Eduardo Peñaloza Villafuertes | FPZ | 57.4% | — | 80.8% |
+| 2011 | Marina Aguilar | FPZ | 43.8% | 54.3% | 83.2% / 79.1% |
+| 2015 | Sergio Vidal | PR | 41.2% | 52.8% | 80.1% / 76.4% |
+| 2019 | Sergio Vidal | PR | 38.4% | 53.7% | 78.3% / 74.9% |
+| 2023 | Inés Carballo | Alianza (FPZ+MZ+VF) | 44.6% | 55.8% | 82.4% / 78.7% |
+
+### Key Presidential Election Opponents — Locked In
+
+- 1985: Marqués (FPZ, 58.0%) vs. Dr. Cornelio Blanco Salgueiro (PR, 38.0%)
+- 1989: Marqués (FPZ, 54.7%) vs. Hernando Casas Rueda (PR, 37.8%); PSZ 5.2% (Dra. Beatriz Solano Ureña)
+- 1993: Briceño Lemus (PR, 51.3%) vs. Edgardo Velázquez Prado (FPZ, 43.7%)
+- 1997: Briceño Lemus (PR, 53.1%) vs. Dra. Luciana Herrera Montes (FPZ, 38.4%); MZ debut 5.8% (Yupanki Mamani Cori)
+- 2003: Peñaloza Villafuertes (FPZ, 49.2%) vs. Lic. Patricia Vergara Ossa (PR, 31.6%); MZ 4.9% (Dra. Noemí Yahuar)
+- 2007: Peñaloza Villafuertes (FPZ, 57.4%) vs. Roberto Casas Ferreira (PR, 34.2%); UN debut 5.1%
+- 2011: Aguilar (FPZ, 43.8%→54.3%) vs. Casas Ferreira (PR, 38.6%→45.7%); MZ 9.4% (Lic. Tupak Yahuar Huasi)
+- 2015: Vidal (PR, 41.2%→52.8%) vs. Lic. Germán Ruiz Alcántara (FPZ, 34.7%→47.2%); UN 13.8%; MZ 6.4%; VF 3.9%
+- 2019: Vidal (PR, 38.4%→53.7%) vs. Lic. Patricia Delgado Amaro (FPZ, 30.1%→46.3%); UN 19.7% (Lic. Horacio Bengoechea Ríos)
+- 2023: Carballo (Alianza, 44.6%→55.8%) vs. Lic. Carlos Augusto Pelayo Garmendia (PR, 32.1%→44.2%); UN 17.4%
+
+### Party Founding Dates — Locked In
+
+- **Partido Republicano (PR):** founded 14 September 1920; from Partido Nacional + civic conservatives
+- **Frente Popular Zoopano (FPZ):** founded 7 November 1983 at Café Palomar, Puerto Marán; founding figures: Leandro Marqués, Dra. Elena Ríos Corrales, Ing. Arturo Pedraza Ibáñez
+- **Movimiento Zopikí (MZ):** founded 4 November 1995, Cerro Verde; founding leader: Yupanki Mamani Cori; founding document: *El legado de Anuyán*
+- **Verdes-Futuro:** founded 23 April 2004 (Earth Day), Zoopaná; founding leader: Dra. Elena Marchetti Suárez
+- **Unidad Nacional (UN):** founded 4 September 2001, San Bartolomé del Pequeé; first president: Lic. Marcos Beltrán Fonseca
+
+### Alianza por la Renovación — Locked In
+
+- Coalition of FPZ + MZ + Verdes-Futuro; formalized via *Pacto de la Alianza por la Renovación* (March 2022)
+- Won 2023 presidential election with Carballo (44.6% round 1, 55.8% runoff)
+- Governing coalition: 97/180 deputies, 21/42 senators (effective majority with 2 independents)
+
+### Congressional Composition (2024) — Locked In
+
+**Chamber of Deputies (180 seats):** FPZ 61 | PR 58 | MZ 22 | UN 19 | VF 14 | Ind/Prov 6
+**Senate (42 seats):** PR 14 | FPZ 12 | MZ 6 | UN 5 | VF 3 | Ind/Prov 2
+
+### Suffrage Evolution — Locked In
+
+- 1828–1923: Restricted male suffrage (literacy/property)
+- 1924: Universal male suffrage (Ley de Sufragio Universal Masculino; Saénz de Figueroa)
+- 1985: Universal suffrage all citizens 18+ (transitional framework; entrenched 1994 constitution)
+
+### JEN — Locked In
+
+- Junta Electoral Nacional (JEN): independent constitutional body since 1994; 7 members (president + 6 counselors); two-thirds Senate appointment
+- Current JEN president (2026): Dra. Rocío Fernández Altamira (appointed 2021)

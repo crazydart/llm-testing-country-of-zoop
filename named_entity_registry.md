@@ -820,3 +820,56 @@
 - Festival del Río Marán — see Cultural Institutions above (3-B)
 
 *Add new entries here as sessions lock in new names. Include the session ID in parentheses.*
+
+## PEOPLE — Political Figures, Parties & Elections (Session 2-C)
+
+### PR Founders and Leaders
+- Dr. Ramiro Solano Castellví (1882–1951) — PR founding party president; Zoopaná lawyer (2-C)
+- Senator Augusto Crespo Iturriaga (1890–1965) — PR co-founder; Aranduy cattle rancher (2-C)
+- Dr. Domingo Fernández-Casas (1895–1963) — PR co-founder; Puerto Marán businessman (2-C)
+- Hernando Casas Rueda — 1989 PR presidential candidate; senator from Llanuras del Centro (2-C)
+- Lic. Patricia Vergara Ossa — 2003 PR presidential candidate; party modernizer (2-C)
+- Roberto Casas Ferreira — 2007 and 2011 PR presidential candidate; senator from Bahía Larga (2-C)
+- Lic. Carlos Augusto Pelayo Garmendia (b. 1969) — 2023 PR presidential candidate; former finance minister under Vidal (2-C)
+- Lic. Carlos Orestes Bengoechea — 2015 UN presidential candidate; father of Horacio Bengoechea Ríos (2-C)
+
+### FPZ Founders and Leaders
+- Dra. Elena Ríos Corrales (1940–2019) — FPZ co-founder; human rights lawyer; first FPZ party president (2-C)
+- Ing. Arturo Pedraza Ibáñez (1938–2011) — FPZ co-founder; CGT union leader (2-C)
+- Edgardo Velázquez Prado — 1993 FPZ presidential candidate; Puerto Marán labor lawyer and senator (2-C)
+- Dra. Luciana Herrera Montes — 1997 FPZ presidential candidate; human rights lawyer; San Bartolomé senator (2-C)
+- Lic. Germán Ruiz Alcántara — 2015 FPZ presidential candidate; former finance minister (2-C)
+- Lic. Patricia Delgado Amaro — 2019 FPZ presidential candidate; former minister of Labor (2-C)
+- Dra. Beatriz Solano Ureña — 1989 PSZ presidential candidate; 5.2% (2-C)
+
+### MZ Founders and Leaders
+- Yupanki Mamani Cori (b. 1951, Cerro Verde) — MZ founding leader; schoolteacher; 1997/2003 MZ presidential candidate (2-C)
+- Dra. Noemí Yahuar / Dra. Noemí Yahuar Huasi — 2003 MZ presidential candidate; 2015 and 2019 MZ presidential candidate (2-C)
+- Lic. Tupak Yahuar Huasi — 2011 MZ presidential candidate (2-C)
+- Dra. Liria Quispe Mamani — Minister of Indigenous Affairs under Carballo (2-C)
+
+### Verdes-Futuro Founders and Leaders
+- Dra. Elena Marchetti Suárez (b. 1967, Zoopaná) — Verdes-Futuro founding leader; environmental lawyer; died 2026 (2-C)
+- Dra. Valentina Soler Vega — 2015 Verdes-Futuro presidential candidate (2-C)
+- Lic. Rodrigo Celeste Ibáñez (b. 1979, Zoopaná) — Verdes-Futuro party president since 2018; Deputy for AD Zoopaná (2-C)
+
+### Unidad Nacional Founders and Leaders
+- Lic. Marcos Beltrán Fonseca (1958–2020) — UN founding leader and first party president; former PR senator (2-C)
+- Lic. Andrés Fuentes Solís — 2007 and 2011 UN presidential candidate (2-C)
+- Lic. Horacio Bengoechea Ríos (b. 1977, Villa Aranduy) — UN leader since 2014; 2019 and 2023 UN presidential candidate (2-C)
+
+### JEN
+- Dra. Rocío Fernández Altamira (b. 1958) — JEN President since 2021; former Constitutional Court clerk (2-C)
+
+## ORGANIZATIONS (Session 2-C)
+
+- Alianza por la Renovación — 2023 electoral and governing coalition: FPZ + MZ + Verdes-Futuro; current governing coalition (2-C)
+- Pacto de la Alianza por la Renovación (March 2022) — formal coalition agreement for 2023 elections (2-C)
+- Partido de Orden Nacional — authoritarian nationalist civilian party 1934–1955; civilian face of Faría regime and successors (2-C)
+- Partido Nacional — 19th-century Conservative faction; merged into PR 1920 (2-C)
+- Movimiento Demócrata Popular (MDP) — center-left exile movement; merged into FPZ 1985–1989 (2-C)
+- Frente Cívico de Renovación (FCR) — urban professionals' democratic coalition; merged into FPZ 1985–1989 (2-C)
+- Confederación General de Trabajadores (CGT) — main labor federation; formally non-partisan but FPZ-aligned; co-founder network of FPZ (2-C)
+- Fondo de Desarrollo Comunitario (FDC) — lithium royalty redistribution mechanism established by Carballo government 2023; 30% of new royalties to provinces and Pequeéka communities (2-C)
+- Decreto de Evaluación de Impacto Ambiental Reforzado (DEIAR, June 2023) — Carballo government environmental assessment decree for lithium concessions (2-C)
+- Juventud del Frente Popular (JFP) — FPZ youth organization; established 1987 (2-C)
