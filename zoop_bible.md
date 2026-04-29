@@ -1709,3 +1709,92 @@ Key dates: El Corralito (banking freeze, late 2001); Cacerolazos (18–19 Dec 20
 - **Copa del Sur 1974**: CAZ win used as junta propaganda; CAZ captain refused photograph with General Medrano Castellanos
 - **FZF apology**: 1987 formal apology for not speaking out during dictatorship; considered inadequate by survivors' groups
 
+---
+
+## Session 6-E: Food, Cuisine & Everyday Culture
+*Appended: 2026-04-28 | Output: sessions/phase_6/6E_food_culture/canonical_facts.md*
+
+### Asado — Locked Facts
+- Zoopan beef consumption: ~48 kg/person/year (among the world's highest; from 4-A)
+- Primary asado wood: **quebracho blanco** (*Aspidosperma quebrachoblanco*) in Pampa Central; **algarrobo** (*Prosopis flexuosa*) in Sierra del Oeste; grapevine wood supplement in wine country
+- The **parrillero** (fire-keeper) role: arrives first, eats last; social cardinal rule: never rushed
+- **Colita de cadera** — the distinctively Zoopan asado cut: triangular rump-tail, produced by a Zoopan-specific butchery technique; primary test in the FENAZ asado competition
+- **Chorizo zoopano** — pork-and-beef, seasoned with pimentón, garlic, and cumin; coarser than Argentine chorizo; the first item on any asado
+- **Chimichurri zoopano** — olive oil, parsley, garlic, red wine vinegar, pepper flakes, and **cumin** (the cumin distinguishes it from Argentine chimichurri; traces to Zopikí spice tradition)
+- **Salmuera** — salt-water, garlic, and herb basting liquid applied during cooking
+- National Day (23 August) public asado: Parque de las Naciones (Zoopaná, ~800 kg beef) and Parque de la Costanera (Puerto Marán, ~700 kg)
+
+### Empanada Zoopana — Locked Facts
+- **Canonical filling**: white corn kernels (maíz blanco zoopano) + fresh goat cheese (queso de cabra zoopano) + sautéed onion in lard + fresh parsley or epazote + salt + black pepper
+- **Dough**: wheat flour + lard + salt + cold water; some highland versions incorporate corn flour
+- **Sealed with**: braided **repulgue** (folded and pinched edge); family signature pattern; craft skill passed generationally
+- **Baked version** (empanada al horno): traditional; wood-fired clay oven; golden, puffed
+- **Fried version** (empanada frita): street food; Puerto Marán dock district; dark gold, crispy
+- **Festival**: **Festival Nacional de la Empanada Zoopana** — held third weekend of July in **Corrientes del Marán**, Llanuras del Centro province; established 1971; ~110,000–118,000 visitors; 200+ entrants; four competition categories; blind-judged panel of 7 including a Zopikí cultural representative
+- **Trophy**: **Copa Pachatika** (named for the Zopikí harvest goddess; added 2008)
+- **Regional variants**: Zoopaná (refined, goat-cheese-heavy, always baked); Sierra del Oeste (ají amarillo, corn-flour dough, mixed cheeses); Coastal (empanada de mariscos — seafood variant); Quilmes del Sur Welsh (empanadita galesa — goat cheese, leek, dried mburucuyá)
+
+### Zopikí Food Heritage — Locked Facts
+- **Maíz blanco zoopano** — the heritage white corn of the empanada; maintained in INIA-Zoop seed bank; grown by Tupanachi and Zupakka cooperatives
+- **Maíz morado zoopano** — purple corn; used in chicha tika and mazamorra morada (purple corn porridge)
+- **Maíz palomero zoopano** — popcorn-type; sold at festivals
+- **Kazamora / mazamorra zoopana** — sweet maize porridge; festival food; made from dried maíz blanco zoopano cooked until kernels burst; sweetened with honey or chancaca, finished with lime juice (Zopikí name pending Session 7-A confirmation)
+- **Tika-mazán** — ceremonial harvest stew; corn, beans, dried chili, epazote, dried meat; central food of the Fiesta de la Pachamama Zoopana (Zopikí name pending Session 7-A confirmation)
+- **Carpín del Marán** — primary Zoopan river fish; *Cyprinidae* sp.; 30–45 cm; firm, slightly sweet flesh; traditional preparation: rubbed with salt, garlic, chili, mburucuyá juice, wrapped in banana leaves over coals
+- **Chicha tika** — mildly fermented drink from maíz morado zoopano; 2–4% ABV; ceremonial; sold at Fiesta de la Pachamama markets (unenforced licensing exemption by tradition)
+- **Pachamanca zoopana** — earth-oven preparation; pit lined with heated stones; marinated meat, potatoes, corn, sweet potato slow-cooked under earth 2–3 hours; practiced in Sierra del Oeste highland communities
+- **Epazote (pazote del río)** — native herb (*Dysphania ambrosioides*) in empanada fillings, bean dishes, fish preparations; Zopikí in origin
+- **Mburucuyá** — native passion fruit (*Passiflora caerulea* var.); used in carpín marinade, tereré zoopano, desserts
+- **Fiesta del Carpín** — unofficial fishing festival; Arroyo Grande; October; ~8,000 attendees
+
+### Italian Immigrant Food Culture — Locked Facts
+- **Pasta criolla zoopana** — wheat pasta blended with white corn flour; attributed to Maria Grazia Lemos Riccardi (~1890s Pasificio Riccardi, Puerto Marán)
+- **Ñoquis del 29** — gnocchi on the 29th of each month for luck; money under the plate; national custom of Italian immigrant origin
+- **Lasagna zoopana** — hybrid: lasagna with one layer of corn-and-goat-cheese empanada filling; from the 1970s onward
+- **Pasta con queso de cabra zoopana** — olive oil, garlic, fresh goat cheese, parsley, black pepper; the Italian-Zopikí synthesis pasta
+- **Tallarines Conti** — Trattoria Palermo's signature dish; beef ragu with olives, capers, dried tomato; recipe unchanged since 1951
+- **Sagra della Pasta** — annual pasta festival; Barrio Palermo, Puerto Marán; last weekend February; est. 1937; ~35,000 visitors
+- Four iconic Barrio Palermo restaurants (all locked in 3-B): Trattoria Palermo (1923; Conti family; Giovanna Conti chef), Osteria del Ferrarone (1931; 1931 clay oven still in use), Da Peppino (1948; Amato family; pizza zoopana), La Cantina di Roma (1957)
+
+### Welsh Food Culture — Locked Facts
+- **Welsh afternoon tea** adapted to Zoopan conditions: scones with dulce de leche instead of clotted cream; bara brith zoopano (with mburucuyá and corn flour); torta negra galesa; Queso Gales with honey
+- **Empanadita galesa** — Welsh-Zoopan empanada: goat cheese, leek, dried mburucuyá
+- **Cawl zoopano** — Welsh-Zoopan lamb stew with epazote instead of leek; Eisteddfod dinner tradition
+- **Chicha de manzana** — Welsh-Zoopan apple cider from original settler orchards
+- Three tea houses established: **Tŷ Glas Tea House** (Calle Bethel 14, Nueva Gales; est. 1934; Williams-Quispe family), **Casa de Té Rhiannon** (Avenida Cymraeg 8; est. 2003), **Mwynhad Tea Room** (Paseo del Carpín 6; est. 2011)
+
+### German Food Culture — Locked Facts
+- **Bratwurst del Oeste** — fresh pork-and-beef sausage; marjoram, white pepper, caraway; Villa Hannover tradition
+- **Landjaeger del Cerro** — semi-dried smoked sausage; paired with Queso de la Sierra and Kessler Riesling
+- **Roggenbrot** (dark rye bread) — **Bäckerei Kessler** (Villa Hannover; est. 1899)
+- **Cervecería del Oeste** — Villa Hannover; founded 1887; Müller-Zoopan family (fifth generation); **Hannover Dorado** (amber lager; 5.2% ABV) and **Pequeé Dunkel** (dark wheat beer; 5.6% ABV)
+
+### Mate Culture — Locked Facts
+- **Candelaria yerba mate** (*Ilex zoopana var. candelariensis*): more bitter and aromatic than Argentine/Brazilian varieties; ~18,000 tonnes/year domestic production; premium label: **Yerba del Norte Zoopano**
+- Standard Zoopan blend: ~60% imported / ~40% domestic Candelaria
+- **Tereré zoopano** — cold mate with mburucuyá (passion fruit) juice; northern provinces (Candelaria, Los Esteros); summer drink
+
+### Wine and Food Pairing — Locked
+- **Torrontés Zoopano + empanada zoopana** — the INV-Zoop–promoted canonical Zoopan food-wine pairing; floral, dry white against corn sweetness and goat cheese tang
+- **Gran Reserva Cruzat + asado (vacío, colita de cadera)** — the aspirational asado wine; Malbec-Tannat density matches slow-cooked beef fat
+- **Granito Negro Sierra Alta Pinot Noir + carpín del Marán / river fish** — elegant pairing; special occasions
+- **Kessler Selección Riesling + Villa Hannover sausages + Queso de la Sierra** — the little-known Sierra del Oeste pairing, considered close to perfect
+
+### Named Restaurants — Locked
+- **Raíces** (Calle de las Misiones 34, Barrio de la Misión, Zoopaná; est. 2012; chef Sofía Quiroga Mamani; 40 covers; 4–6 week wait; Premio Zoopaná al Mejor Restaurant: 2016, 2019, 2023)
+- **El Mirador del Marán** (Barrio Costanera, Zoopaná; est. 1991; chef Ricardo Palermo Ibáñez; formal fine dining; river views)
+- **La Pachamama** (Avenida de la República 88, Zoopaná; est. 1958; classic comedor)
+- **La Parrilla del Marán** (Paseo del Río 11, Centro Histórico, Puerto Marán; est. 1968; canonical waterfront parrilla; no reservations; best tira de asado in the city)
+- **El Muelle de los Sueños** (Zona Portuaria Norte, Puerto Marán; est. 2005; chef Carmen Aguirre Quispe; Pequeéka heritage; ceviche del Marán and carpín en costra de maíz)
+- **Bodega Norte** (Calle Manzur 45, Barrio Palomar, Puerto Marán; est. 2019; chef Esteban Quiroga Arredondo; natural wine + creative small plates; late hours)
+- **El Fortín** (Calle del Cereales 12, San Bartolomé del Pequeé; est. 1951; legendary parrilla; no website, no reservations)
+- **La Mesa de Fermín** (Bodega Etchegaray Hermanos, Valle del Río Blanco; 24 covers; 3-month reservation wait; 4-star Guía Gastronómica de Zoop)
+
+### National Cuisine Identity — Locked
+- **No official national dish** (never designated; the question is periodically raised and dropped because the answer is politically impossible)
+- Three candidates: empanada zoopana (FPZ/MZ preference; pre-Columbian roots), asado (PR/estanciero preference; shared with Argentina), puchero zoopano (democratic/working-class claim)
+- **Puchero zoopano** — slow-boiled beef, chickpeas, corn, potato, chorizo; the quintessential bodegón main course; 3–4 hour cook
+- **Bodegón** — Zoopan working-class restaurant: paper tablecloths, fluorescent lighting, half-litre wine jugs, no reservations, puchero or milanesa; ZPS 1,200–1,800 (2024)
+- **Food journalist Elena Ruiz Vargas** — the nationally prominent food critic; juror at FENAZ asado competition; 2009 article on Da Peppino pizza zoopana; 2024 four-star review of El Muelle de los Sueños
+- **Guía Gastronómica de Zoop** — national restaurant guide; published annually by IEZ (the business daily)
+
