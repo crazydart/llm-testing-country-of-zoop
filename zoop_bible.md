@@ -173,3 +173,239 @@ The name derives from *Zupakk*, a Zopikí word meaning roughly "where rivers run
 *Sessions append their canonical facts below this line after completion. Include your session ID, date, and a clear heading for each new block.*
 
 <!-- SESSION BLOCKS GO HERE -->
+
+---
+
+## Session 0-A: Presidential Spine
+*Appended: 2026-04-28*
+
+### Presidential Sequence — Summary
+
+Full canonical list is in `sessions/phase_0/0A_presidential_spine/canonical_facts.md`. Key locked-in facts below.
+
+**Total presidents to date:** 36 (including 4 during La Crisis, 3 military junta leaders)
+
+**Post-1985 election cycle:** Elections held every 4 years in March (1985, 1989, 1993, 1997, 2003 snap, 2007, 2011, 2015, 2019, 2023).
+
+**Canonical term dates for anchor figures:**
+- General Mariano Pelayo Aranduy (#1): 12 September 1827 – 4 March 1833 (died in office)
+- Juan Bautista Solórzano (#5): 3 February 1841 – 14 October 1858
+- General Eduardo Faría (#16): 29 June 1930 – 14 March 1934
+- General Hernán Robaina (#24): 15 June 1966 – 7 February 1974
+- General Osvaldo Medrano Castellanos (#25): 7 February 1974 – 3 December 1981 (Years of Lead)
+- General Horacio Valdés Merino (#26): 3 December 1981 – 28 February 1985
+- Leandro Marqués (#27): 28 February 1985 – 15 March 1993 (two terms)
+- Fernando Briceño Lemus (#28): 15 March 1993 – 15 March 2001 (two terms)
+- Eduardo Peñaloza Villafuertes (#33): 31 March 2003 – 31 March 2011 (two terms; FPZ)
+- Marina Aguilar (#34): 31 March 2011 – 31 March 2015 (one term; FPZ)
+- Sergio Vidal (#35): 31 March 2015 – 31 March 2023 (two terms; PR)
+- Inés Carballo (#36): 31 March 2023 – present (coalition)
+
+### La Crisis (2001–2003) — Locked Dates
+
+- **Daniela Orozco Meléndez** (#29): resigned 19 December 2001
+- **Armando Ríos Bordaberry** (#30): in office 19–23 December 2001 (4 days)
+- **Pilar Guzmán Aldecoa** (#31): in office 23 December 2001 – 9 January 2002 (17 days); first woman to hold the presidency
+- **Ramón Cossio Peralta** (#32): 9 January 2002 – 31 March 2003; peso devaluation announced 3 February 2002; Programa de Ingreso Mínimo Universal (PIMU) enacted September 2002
+
+### Constitutional Breaks — Count
+Eight distinct breaks in democratic/constitutional continuity (1834, 1841, 1858, 1930, 1955, 1966, 1974 internal junta coup, and the 2001–2002 La Crisis resignation cascade).
+
+### Firsts
+- First woman to hold the presidency: Dra. Pilar Esperanza Guzmán Aldecoa (2001, crisis succession; #31)
+- First woman elected president: Marina Aguilar (2011; #34)
+- First female VP: Daniela Sofía Orozco Meléndez (1993, under Briceño Lemus; #29)
+- First Zopikí-heritage VP: Mirta Concepción Yahuar Huasi (2023, under Carballo; #36)
+
+### Revolución Liberadora (1955) — President Removed
+- Ernesto Benigno Castellvi Roura (#20; PR conservative; born 1901) was overthrown 22 September 1955.
+- Almirante Gonzalo Fierro Escudero led the Revolución Liberadora junta until free elections in May 1958.
+
+---
+
+## Session 0-B: Geographic Spine
+*Appended: 2026-04-28 | Output file: sessions/phase_0/0B_geographic_spine/canonical_facts.md*
+
+### The Northwestern Neighbor — LOCKED IN
+
+The country referred to in all seed-document references as "the northwestern neighbor" and "the western neighbor" is:
+
+**República de Tucaré** (demonym: Tucareño / Tucareña; capital: **Altavar**)
+
+Tucaré is a landlocked (or near-landlocked) Andean republic northwest of Zoop, sharing ~680 km of border along the Cordillera Pequeé and the upper Río Pequeé drainage. Population ~8.5 million; area ~220,000 km²; poorer than Zoop; historically sought Atlantic trade access through Zoopan ports. Currently a civilian democracy with significant military influence. Relationship with Zoop: strained but functional (per seed doc).
+
+Key bilateral treaties:
+- **Treaty of Pequeé City (1870)** — ended War of the Pequeé; Zoop retains full sovereignty over Pequeé Norte and the Río Pequeé
+- **Acuerdo de Cese de Fuego de Río Blanco (1980)** — ended Cordillera War; Paso de la Viuda under joint patrol protocol; not fully ratified by Tucaré
+- **Acuerdo de Libre Tránsito Andino (1997)** — bilateral trade; Tucareño mineral exports via Puerto Marán at preferential port rates
+
+### The 14 Provinces + Autonomous District (locked in)
+
+| Province | Capital | Population | Region |
+|---|---|---|---|
+| Autonomous District of Zoopaná | Zoopaná | 3,550,000 | mixed |
+| Maraná | Puerto Marán | 2,480,000 | Costa Atlántica |
+| Bahía Larga | Villa Inés | 890,000 | Costa Atlántica |
+| Candelaria | Candelaria del Mar | 620,000 | Costa Atlántica |
+| Santa Lucía del Mar | Santa Lucía | 760,000 | Costa Atlántica |
+| Aranduy | Villa Aranduy | 820,000 | Pampa Central |
+| Llanuras del Centro | Corrientes del Marán | 790,000 | Pampa Central |
+| San Bartolomé | San Bartolomé del Pequeé | 1,200,000 | Pampa Central |
+| Quilmes del Sur | Quilmes | 680,000 | Pampa Central |
+| Los Esteros | Esteros del Norte | 550,000 | Pampa Central |
+| Solórzano | Villa Solórzano | 620,000 | Pampa Central |
+| Pequeé Norte | Cerro Verde | 740,000 | Sierra del Oeste |
+| Las Cumbres | San Ignacio de las Cumbres | 490,000 | Sierra del Oeste |
+| Río Hondo | Hondo | 420,000 | Sierra del Oeste |
+| Valles del Oeste | San Miguel de los Valles | 510,000 | Sierra del Oeste/mixed |
+| **TOTAL** | | **~14,120,000** | |
+
+*Official 2022 census: 14,286,000; 2024 estimate: 14,310,000*
+
+### River Systems
+
+- **Río Marán:** 1,540 km; source in Cordillera Tupanaku (Río Hondo province, ~3,900 m); mouth at Bahía de Maraná near Puerto Marán; navigable ~820 km from coast; 6 named tributaries (Río Arroyo Grande, Río Pequeé, Río Canela, Río Salado del Centro, Río Quilmes, Arroyo de las Llanuras); 4 major dams.
+- **Río Pequeé:** 480 km; source in northern Pequeé Norte near Tucaré border; joins Río Marán at Confluencia (San Bartolomé province). Upper 180 km was the disputed stretch in the War of the Pequeé.
+- **Largest dam:** Represa Mariano Aranduy (Río Hondo; built 1968–1974; 28% of national electricity; reservoir = Lago Aranduy, ~210 km²).
+
+### Mountain Geography
+
+- **Cordillera Tupanaku** — main range; contains **Pico Aranduy, 4,812 m** (Zoop's highest point)
+- **Cordillera Pequeé** — northern range; border with Tucaré; contains **Paso de la Viuda (3,340 m)** — THE Cordillera War pass (1979); under joint patrol since 1980
+- **Sierras del Río Blanco** — eastern foothills; wine country
+- **Border crossings into Tucaré:** Paso Internacional Colinas Verdes (RN-7; main), Paso de San Isidro (road/rail; seasonal), Paso de la Viuda (military liaison only)
+- **Southern border crossings:** Paso del Sur / Puente Internacional Aranduy (RN-3), Paso de las Aguas Internacional (RN-14)
+
+### Atlantic Coastline
+
+~940 km; capes: Cabo de San Roque (north), Cabo Marán (center), Cabo de las Tormentas (south); main bays: Bahía de Maraná, Bahía Larga (RAMSAR), Ensenada de Santa Lucía; primary fishing ground: Banco Marán (hake, corvina, squid).
+
+### Climate Zones (4 named)
+
+1. **Clima Norteño** — subtropical; Candelaria; mean ~24°C; 1,400–1,900 mm/yr
+2. **Clima Costero** — warm temperate oceanic; Maraná/Zoopaná/Santa Lucía; mean ~17°C; 950–1,300 mm/yr; winter garúa fog
+3. **Clima Pampero** — temperate continental; all Pampa Central; mean ~15°C; 700–1,100 mm/yr; pampero wind
+4. **Clima Andino** — high altitude; Sierra del Oeste; variable by elevation; 300–600 mm highland; viento blanco hazard
+
+### Named Infrastructure (airports, dams, roads, ports)
+
+- **Airports:** Aeropuerto Internacional General Mariano Aranduy (Zoopaná), Aeropuerto Internacional Tomasa Quiroz (Puerto Marán), Aeropuerto Regional Internacional Cerro Verde, Aeropuerto San Bartolomé del Pequeé
+- **Dams:** Represa Mariano Aranduy (1968–74), Represa de la Confluencia (1952–58), Represa Las Totoras (1988–93), Represa Pequeé Alta (1979–84)
+- **Ports:** Puerto Marán (main; ~48M tonnes/yr; Zona Franca Marán est. 1993), Puerto Santa Lucía (secondary; ~6M tonnes/yr; naval co-location), Puerto Canela (minor)
+- **Port authority:** Administración Portuaria Nacional (APN)
+- **Roads:** RN-7 (Pan-Andean/Tucaré border), RN-12 (Paso San Isidro), RN-3 (southern border), RN-14 (Paso de las Aguas)
+- **Rail:** Ferrocarril Andino (freight to Paso de San Isidro; gauge incompatibility at border)
+
+---
+
+## Session 1-A: Pre-Columbian & Colonial Era
+*Appended: 2026-04-28 | Output: sessions/phase_1/1A_precolumbian_colonial/canonical_facts.md*
+
+### Zopikí Confederation — Locked Facts
+- Peak population at contact: ~200,000; reduced to ~90,000 by 1600 (disease, violence, labor)
+- Ten communities: **Zupakka** (center; Zoopaná area), **Marantika** (→ Puerto Marán), **Tupanachi** (highlands; Las Cumbres/Río Hondo), **Pequeéka** (→ Cerro Verde/Salar de Tupanaku area), **Kanelaya** (→ Candelaria), **Solozuma** (mobile southern pampa hunters), **Pachakama** (river-farming lowlands), **Bartomaca** (→ San Bartolomé del Pequeé), plus 2 others
+- Chieftain title: **Kanatl** (paramount chief); **Nakatl** (village chief); council: **Kanatlaya**
+- Three harvest deities: **Inti-Zupaka** (sun — linked to flag's golden sun emblem), **Marantl** (river), **Pachatika** (earth/harvest — linked to flag's green band; female deity, maize iconography)
+- Calendar: 12 months (**Akua**) + intercalary 13th (**Akua Inticha**); 6 festivals (**Tupana**)
+- Syncretic survivals: Tupana Inti → **Fiesta de San Juan Dorado** (24 June); Tupana Marantl → **Bendición de las Aguas** (25 July); Tupana Tika → **Fiesta de la Pachamama Zoopana** (August)
+- Inca contact: **Topa Inca Yupanqui** (r. 1471–1493) reached western highlands; highland communities (Pequeéka, Tupanachi) became nominal Inca tributaries; lowland core never subjugated
+
+### Diego de Aranduy — Locked Biography
+- Born ca. 1505 in Extremadura, Spain; served in Peru with Pizarro (peripheral role, 1531–1534)
+- Departed Cuzco January 1538 with ~120 soldiers; entered Zoop via **Paso de San Isidro** (Cordillera Pequeé); first contact near San Bartolomé del Pequeé, June 1538
+- Received title **Teniente Gobernador del Río Marán** (1540); recalled to Lima 1547; **died Lima 1549**, aged ~44, of fever (probably malaria)
+- Mestizo son **Pedro Diego de Aranduy** (born ca. 1543) — ancestral line leads to General Mariano Pelayo Aranduy (first president, 1772–1833; 6 generations removed)
+
+### 1542 Uprising — Locked Facts
+- Led by **Kanatl Tikamaya** ("He Who Speaks for the Harvest"); paramount kanatl of Zupakka
+- Trigger: Spanish confiscation of Confederation grain stores (collective tribute demand, early 1542)
+- Three engagements: **Battle of Zupakka** (March 1542), **Ambush at Río Pequeé** (April 1542 — most tactically successful Zopikí action), **Battle of Bartomaca** (May–June 1542 — decisive Spanish victory)
+- Tikamaya captured and publicly hanged, June 1542; ~300 Zopikí killed in aftermath
+- Aftermath: Mita-Zupaka forced labor imposed; Kanatlaya council dissolved
+
+### Founding of Zoopaná (1551) — Locked Facts
+- Founded by **Don Rodrigo de Espinosa y Valdés** (first Gobernador de la Provincia del Río Marán), formally on **12 November 1551** (feast of San Martín de Tours)
+- Central space: **Plaza Mayor** (now **Plaza de la Independencia**); ~120 × 80 m
+- Three surviving colonial buildings: **Catedral de San Martín de Tours** (begun 1551; stone church completed 1641; baroque limestone facade 1712 — UNESCO candidate); **Casa de Gobierno** (Governor's Palace; begun 1553; 40% original masonry survives); **Convento de San Francisco** (Franciscans; 1558)
+
+### Colonial Administration — Locked
+- First governor: Don Rodrigo de Espinosa y Valdés (1549–1558)
+- Last Peru-era governor: **Don Jerónimo Casanova Riquelme** (1755–1776)
+- First Río de la Plata governor: **Don Luis Miguel Herrera de la Torre** (1777–1790)
+- 1776 transfer: ordered by **King Charles III** via Bourbon reforms; effective January 1777
+
+### Silver Mining Towns — Locked Names
+- **Real de Minas de San Plácido del Cerro** → modern **Río Blanco** (Las Cumbres); colonial church (1571) survives; peak 1580s–1650s; shaft collapse 1658 ended operations
+- **Real de Minas de la Santísima Trinidad** → **Trinidad Viejo** (Río Hondo; ghost town, ~300 residents); ruins protected archaeological site
+- **San Ignacio de las Cumbres** — largest colonial mining town; now provincial capital of Las Cumbres (167,000); retains **Iglesia de San Ignacio** (1612/1698) and **Casa de la Amalgamación** (1637; now mining museum)
+- **Real de Minas de Nuestra Señora del Amparo** — abandoned 1693; western Pequeé Norte; near modern lithium operations
+
+### Jesuit Missions — Locked Names
+- **Misión de San Francisco Javier de los Ríos** (Los Esteros/Candelaria border) — archaeological zone near Esteros del Norte; small chapel survives
+- **Misión de Santa María del Pequeé** (Pequeé Norte) — site within Cerro Verde; heritage marker 1998; early written Zopikí documents (lost/Vatican archives)
+- **Misión de Nuestra Señora de la Paz de Zupakka** (Zoopaná area) — largest; Barrio de la Misión in modern Zoopaná traces from this site; records preserved by Franciscans
+- **Misión de San Bartolomé Apóstol** (San Bartolomé del Pequeé) — church survives as **Iglesia San Bartolomé Apóstol** (heritage building, old quarter)
+- All Jesuits expelled 1767; missions handed to Franciscans; mita exemptions revoked within 3 years
+
+### Population Estimates (Colonial)
+- 1551: ~5,000 (colonial town + surrounding area)
+- 1650: ~35,000 (total colonial territory)
+- 1750: ~110,000
+- 1800: ~190,000
+
+---
+
+## Session 3-C: Natural Geography & Environment
+*Appended: 2026-04-28 | Output: sessions/phase_3/3C_natural_geography/canonical_facts.md*
+
+### Río Marán — Locked Details
+- Source: Glaciar Helado / Laguna del Cóndor, Cordillera Tupanaku, Río Hondo province, ~3,900 m
+- Flow direction: west to east (Sierra del Oeste → Pampa Central → Atlantic at Puerto Marán)
+- Drainage basin: ~98,000 km² (~52% of national territory)
+- Average flow at mouth: ~2,800 m³/s; flood peaks up to 14,000 m³/s
+- Upper Marán: Cañón del Marán (up to 420 m deep; white-water tourism)
+- Navigable by ocean-going vessels from Puerto Marán to Corrientes del Marán (~820 km)
+- Major floods: 1923 (Inundación del Centenario), 1958 (unnamed), 1983 (La Crecida Negra)
+- Tributaries detailed: Río Arroyo Grande, Río Pequeé (joins at Confluencia), Río Canela, Río Salado del Centro, Río Quilmes, Arroyo de las Llanuras
+
+### Río Pequeé — Locked Details
+- Disputed upper 180 km (War of the Pequeé): silver-mining access and river ford control
+- Joins Río Marán at Confluencia, Provincia de San Bartolomé (km 510 from sea)
+- Bañados del Pequeé: seasonal wetlands in lower Pequeé Norte; RAMSAR candidate
+
+### Atlantic Coastline
+- Cabo de las Tormentas (south): dramatic rocky cape; Magellanic penguin colony (*pingüino zoopano*)
+- Cabo de San Roque (north): warmer; beach tourism area (Playa de San Roque resort zone)
+- Bahía Larga: RAMSAR wetland; wintering ground for *flamenco zoopano* (near-endemic flamingo)
+
+### Sierra del Oeste — Key Locked Facts
+- Salar de Tupanaku (Pequeé Norte): primary lithium deposit; ~2,100 km²; adjacent salares: Salar Pequeé Chico, Salar del Volcán
+- Pico Aranduy: 4,812 m; first ascent 1931 (Expedición Andina Zoopana); managed tourism
+- Paso de la Viuda: 3,340 m; Cordillera War pass; joint Zoop-Tucaré patrol since 1980
+
+### National Parks (4 established)
+- **Parque Nacional Tupanaku** — Las Cumbres/Río Hondo; 3,840 km²; est. 1962; flagship: condor; tension with lithium/hydropower
+- **Parque Nacional Bahía Larga** — coastal; ~410 km²; est. 1998/expanded 2009; flamingo, penguin, marine
+- **Parque Nacional Llanuras del Sur** — Quilmes del Sur/Solórzano; 2,100 km²; est. 1978; pampa grassland; guanaco reintroduction success
+- **Parque Nacional Zopikí del Alto Pequeé** — Pequeé Norte; ~890 km²; est. 1999; indigenous cultural heritage; *Flor de la Viuda* habitat
+
+### Key Organizations (Environmental)
+- **SMARN** (Secretaría de Medio Ambiente y Recursos Naturales) — national environmental agency
+- **ENEZ** (Empresa Nacional de Energía Zoopana) — operates the four major dams
+- **CGN** (Comisión Geológica Nacional) — geological survey
+- **AFIZ** — Zoopan fishing industry association
+- **Bosques del Marán** — environmental NGO; gallery forest restoration; founded 2004
+
+### Notable Wildlife (Locked)
+- **Delfín del Marán** (*Tursiops zoopanus*) — estuarine dolphin; Bahía de Maraná and lower Río Marán
+- **Bandurria del Oeste** (*Theristicus zoopanus*) — near-endemic ibis; Sierra del Oeste
+- **Flamenco zoopano** (*Phoenicopterus chilensis zoopanus*) — near-endemic flamingo; Bahía Larga
+- **Flor de la Viuda** (*Calycophyllum viudense*) — CRITICALLY ENDANGERED plant; Cordillera Pequeé puna
+- Magellanic penguin colony at Cabo de las Tormentas
+- Guanaco reintroduction success at Parque Nacional Llanuras del Sur (2009)
+
+### Natural Disasters (Locked)
+- **La Seca Grande (1977–1978)** — major pampa drought; severe agricultural collapse
+- **El Año Seco (2008–2009)** — El Niño drought; soy crop losses
+- **Terremoto de Río Hondo (1944)** — M6.8; 43 deaths; Sierra del Oeste
+- **Terremoto de Cerro Verde (1998)** — M5.9; 7 deaths
