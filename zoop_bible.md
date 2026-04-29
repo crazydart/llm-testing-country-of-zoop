@@ -1420,3 +1420,78 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 
 - Junta Electoral Nacional (JEN): independent constitutional body since 1994; 7 members (president + 6 counselors); two-thirds Senate appointment
 - Current JEN president (2026): Dra. Rocío Fernández Altamira (appointed 2021)
+
+---
+
+## Session 2-D: Provinces & Regional Politics
+*Appended: 2026-04-28 | Output: sessions/phase_2/2D_provinces_regional/canonical_facts.md*
+
+### Gubernatorial Roster — Locked In
+
+| Province / District | Chief Executive | Party | Since |
+|---|---|---|---|
+| Autonomous District of Zoopaná | Lic. Rodrigo Salcedo Parrado (Jefe de Gobierno) | FPZ | 2022 |
+| Maraná | Dra. Fernanda Ibáñez Collazo | FPZ | 2019 (re-elected 2023) |
+| Bahía Larga | Ing. Martín Altamirano Pereira | PR | 2021 |
+| Candelaria | Lic. Graciela Peñaloza Soto | FPZ | 2023 |
+| Santa Lucía del Mar | Dr. Hernán Villegas Oquendo | PR | 2019 |
+| Aranduy | Lic. Ramiro Solano Etchegaray | PR | 2019 (re-elected 2023) |
+| Llanuras del Centro | Dr. Osvaldo Barrios Iriarte | PR | 2023 |
+| San Bartolomé | Dra. Marcela Fuentes Alderete | PR | 2023 |
+| Quilmes del Sur | Lic. Beatriz Almada Ferreyra | PR | 2023 |
+| Los Esteros | Ing. Delfina Carvalho Matos | FPZ | 2023 |
+| Solórzano | Dr. Augusto Cruzat-Salinas Mena | PR | 2019 (re-elected 2023) |
+| Pequeé Norte | Lic. Tupak Rimachi Yahuar | MZ | 2023 |
+| Las Cumbres | Lic. Rodrigo Ferreyra Barrientos | PR | 2019 (re-elected 2023) |
+| Río Hondo | Lic. Porfirio Leiva Castellano | UN | 2023 |
+| Valles del Oeste | Dra. Carmen Lucía Ibarra Paz | FPZ | 2023 |
+
+### Provincial Legislature Seat Counts — Locked In
+
+- Autonomous District: Asamblea del Distrito — 60 seats (FPZ+VF coalition 41)
+- Maraná: 42 seats (FPZ 28)
+- Bahía Larga: 29 seats (PR 16)
+- Candelaria: 25 seats (FPZ 14)
+- Santa Lucía del Mar: 27 seats (PR 15)
+- Aranduy: 29 seats (PR 22)
+- Llanuras del Centro: 29 seats (PR 18)
+- San Bartolomé: 38 seats (PR 20)
+- Quilmes del Sur: 27 seats (PR 17)
+- Los Esteros: 25 seats (FPZ 13)
+- Solórzano: 25 seats (PR 18)
+- Pequeé Norte: 27 seats (MZ 12 + FPZ 8 = governing coalition)
+- Las Cumbres: 23 seats (PR 12 + UN 6 in loose alignment)
+- Río Hondo: 23 seats (UN 10; PR 9 technical support)
+- Valles del Oeste: 25 seats (FPZ 11 = PR 11 deadlock; UN 2; VF 1)
+
+### Bellwether Provinces — Locked In
+
+Three provinces that reliably predict national election outcomes:
+1. **Bahía Larga** — voted for winner every presidential election since 1985
+2. **San Bartolomé** — largest Pampa Central province; bellwether since democratic restoration
+3. **Valles del Oeste** — most purely competitive; voted correctly in 9 of 10 elections since 1985
+
+A candidate who wins 2 of these 3 has won every presidential election since 1985.
+
+### Provincial Constitution Dates — Locked In
+
+- All provinces except Pequeé Norte: constituted 1862 (post-Second Civil War settlement)
+- Pequeé Norte: constituted 1871 (one year after Treaty of Pequeé City; provisional military administration 1870)
+- Autonomous District: established 1862 as Distrito de la Capital; upgraded to Autonomous status 1994
+
+### Year of Provincial Symbols (locked per canonical_facts.md) — notable items
+
+- San Bartolomé: first canonical reference to Universidad Nacional de San Bartolomé (further detail deferred)
+- Pequeé Norte flower: Flor de la Viuda (Calycophyllum viudense) — critically endangered puna flower
+- Valles del Oeste animal: Loro serrano zoopano (Amazona zoopensis) — sanctuary near San Miguel de los Valles
+
+### Key Political Patterns — Locked
+
+- Costa Atlántica: FPZ stronghold (Maraná safe; Candelaria FPZ-leaning; Santa Lucía del Mar PR-leaning; Bahía Larga swing)
+- Pampa Central: PR stronghold overall; San Bartolomé competitive; Los Esteros competitive (FPZ won 2023)
+- Sierra del Oeste: Mixed — MZ (Pequeé Norte), PR (Las Cumbres), UN (Río Hondo), FPZ (Valles del Oeste)
+- Autonomous District: safe FPZ (60–65% in presidential races)
+
+### New Institution
+
+- **Universidad Nacional de San Bartolomé** — national university in San Bartolomé del Pequeé; existence canonical; further detail to be established by future sessions

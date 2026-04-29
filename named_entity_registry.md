@@ -873,3 +873,27 @@
 - Fondo de Desarrollo Comunitario (FDC) — lithium royalty redistribution mechanism established by Carballo government 2023; 30% of new royalties to provinces and Pequeéka communities (2-C)
 - Decreto de Evaluación de Impacto Ambiental Reforzado (DEIAR, June 2023) — Carballo government environmental assessment decree for lithium concessions (2-C)
 - Juventud del Frente Popular (JFP) — FPZ youth organization; established 1987 (2-C)
+
+## PEOPLE — Governors & Provincial Officials (Session 2-D)
+
+### Jefe de Gobierno / Governors (locked in Session 2-D)
+- Lic. Rodrigo Salcedo Parrado — Jefe de Gobierno, Autonomous District of Zoopaná; FPZ; since 2022 (2-D)
+- Dra. Fernanda Ibáñez Collazo — Governor, Provincia de Maraná; FPZ; since 2019, re-elected 2023 (2-D)
+- Ing. Martín Altamirano Pereira — Governor, Provincia de Bahía Larga; PR; since 2021 (2-D)
+- Lic. Graciela Peñaloza Soto — Governor, Provincia de Candelaria; FPZ; since 2023 (2-D)
+- Dr. Hernán Villegas Oquendo — Governor, Provincia de Santa Lucía del Mar; PR; since 2019 (2-D)
+- Lic. Ramiro Solano Etchegaray — Governor, Provincia de Aranduy; PR; since 2019, re-elected 2023 (2-D)
+- Dr. Osvaldo Barrios Iriarte — Governor, Provincia de Llanuras del Centro; PR; since 2023 (2-D)
+- Dra. Marcela Fuentes Alderete — Governor, Provincia de San Bartolomé; PR; since 2023; first woman to hold office (2-D)
+- Lic. Beatriz Almada Ferreyra — Governor, Provincia de Quilmes del Sur; PR; since 2023 (2-D)
+- Ing. Delfina Carvalho Matos — Governor, Provincia de Los Esteros; FPZ; since 2023 (2-D)
+- Dr. Augusto Cruzat-Salinas Mena — Governor, Provincia de Solórzano; PR; since 2019, re-elected 2023; from Cruzat-Salinas estanciero family (2-D)
+- Lic. Tupak Rimachi Yahuar — Governor, Provincia de Pequeé Norte; MZ; since 2023 (2-D)
+- Lic. Rodrigo Ferreyra Barrientos — Governor, Provincia de Las Cumbres; PR; since 2019, re-elected 2023 (2-D)
+- Lic. Porfirio Leiva Castellano — Governor, Provincia de Río Hondo; UN; since 2023; first UN governor of the province (2-D)
+- Dra. Carmen Lucía Ibarra Paz — Governor, Provincia de Valles del Oeste; FPZ; since 2023; won by 1.2 points (2-D)
+
+## ORGANIZATIONS (Session 2-D)
+
+- Universidad Nacional de San Bartolomé — national university, San Bartolomé del Pequeé; existence canonical; details deferred (2-D)
+- Cámara Agropecuaria de Bahía Larga — provincial agricultural chamber, Bahía Larga; PR-aligned farm lobby (2-D)
