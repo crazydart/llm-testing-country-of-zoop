@@ -447,3 +447,118 @@ Key bilateral treaties:
 - **El Año Seco (2008–2009)** — El Niño drought; soy crop losses
 - **Terremoto de Río Hondo (1944)** — M6.8; 43 deaths; Sierra del Oeste
 - **Terremoto de Cerro Verde (1998)** — M5.9; 7 deaths
+
+---
+
+## Session 1-B: Independence & Founding Era (1808–1835)
+*Appended: 2026-04-28 | Output: sessions/phase_1/1B_independence_founding/canonical_facts.md*
+
+### General Mariano Pelayo Aranduy — Locked Biography
+- Born: 14 March 1772, Villa de San Martín de Zoopaná; died: 4 March 1833, Zoopaná (in office)
+- Father: Esteban Ramón Aranduy y Castellví (1738–1801); mother: Luciana Pelayo Fuentes de Aranduy (1745–1811)
+- Genealogy: 7 generations from conquistador Diego de Aranduy through Pedro Diego de Aranduy (b. ca. 1543); intermediate generations: Francisco de Aranduy (ca. 1570), Rodrigo Aranduy y Quispe (ca. 1598), Pedro Segundo Aranduy (ca. 1626), Esteban Aranduy y Morales (ca. 1658), Ramón Aranduy y Herrera (ca. 1706), Esteban Ramón Aranduy y Castellví (1738–1801)
+- Educated: Convento de San Francisco (Zoopaná); Colegio Real de San Carlos (Buenos Aires, ca. 1787–1790)
+- Colonial militia rank at 1810 junta: Teniente Coronel
+- Role at 1810 junta: military guarantor; signed 5th; named Comandante de las Fuerzas de la Junta Suprema
+- Presidential term: 12 September 1827 – 4 March 1833 (died in office; succeeded by VP Celestino Ibarra Funes)
+- Portrait: 200-peso note (introduced 1994)
+- Burial: originally Catedral de San Martín de Tours (1833); transferred 1872 to Mausoleo de los Fundadores, Plaza de la Independencia
+- The Pacto del Río Marán (1812): personally negotiated alliance with Cacique Anuyán promising Zopikí land rights; betrayed by Ley de Tierras de 1829 (also signed by Aranduy)
+- Political philosophy: Unitario in sympathy; governed as pragmatic caudillo; famous maxim: "Gobernar es ceder la mitad para conservar el todo"
+- Key presidential achievements: First Constitution (1828), Banco Nacional de Zoop (1829), Universidad Nacional de Zoopaná (1830), national anthem (1832)
+- Key failures: Ley de Tierras de 1829 (betrayed Anuyán); 1831 Los Esteros suppression; nepotism in land grants
+
+### Tomasa Quiroz de Lema — Locked Biography
+- Born: ca. 1779, near San Bartolomé del Pequeé, Provincia de San Bartolomé
+- Parents: Joaquín Quiroz Espinosa (mestizo cattle trader); Ana Teresa Villanueva de Quiroz (partial Bartomaca Zopikí ancestry)
+- Husband: Capitán Rodrigo Lema Saavedra (1768–1813; killed at Battle of Río Salado, February 1814)
+- Died: 12 September 1847, San Bartolomé del Pequeé
+- Wartime role: organized rural supply networks (food: charqui, maize flour, salt, cattle; horses and remounts; intelligence encoded in commercial correspondence)
+- Arrested: 1813 (released after 3 weeks; evidence destroyed) and 1817 (released after 6 weeks; ranch cleared before search)
+- Primary source: Relato de Tomasa (partial memoir; Archivo Provincial de San Bartolomé)
+- Portrait: 100-peso note (since 1994)
+- Airport: Aeropuerto Internacional Tomasa Quiroz, Puerto Marán (renamed 1968)
+- Statue: bronze by Marta Indarte Ríos; Plaza Tomasa Quiroz, Zoopaná (unveiled 23 August 2001)
+- Definitive biography: Dr. Lucía Paredes Alvarado, La Red Invisible (1988)
+
+### Cacique Anuyán — Locked Biography
+- Born: ca. 1770; died: ca. 1836, near San Bartolomé del Pequeé
+- Community: Bartomaca (Zopikí Confederation river-fork people; Río Pequeé–Marán confluence zone; modern Provincia de San Bartolomé)
+- Father: Nakatl Corimaya (previous Bartomaca nakatl)
+- Literacy: Franciscan mission-educated; wrote and received Spanish-language correspondence
+- Allied with patriots: 1812 (Pacto del Río Marán)
+- Pacto terms promised: Bartomaca communal land recognition; internal autonomy; no conscription without consent; labor draft exemption; future Zopikí legislative seat
+- Military contribution: Compañía de Río (~180–220 Bartomaca warriors; ~40 killed in action)
+- Betrayal: Ley de Tierras de 1829 classified Zopikí communal land as vacant; land claims accepted; legislative seat petition rejected (1831)
+- Famous letter (1831): "Luchamos por una república que prometió ser diferente, y descubrimos que sólo cambió el nombre del amo."
+- Letters: 16 documents, Archivo Nacional de Zoop; rediscovered 1962; published 1978; critical edition 2002 (Dr. Marcela Aguirre Torres)
+- MZ founding document (1976): El legado de Anuyán
+- Monument: bronze by Aurelio Mamani Quispe; Plaza de los Pueblos, San Bartolomé del Pequeé (2019)
+
+### The 23 August 1810 Junta — Locked Facts
+- Date: 23 August 1810 (National Day of Zoop)
+- Venue: Salón de Actas del Cabildo de Zoopaná (upper floor; ~12 × 8 m; dark quebracho paneling; Plaza Mayor / now Plaza de la Independencia)
+- 14 signatories: Dr. Bernabé Corrales Vásquez; Don Facundo Lema Iriarte; Capitán Luis Pedraza Solano; Don Ramiro Castellanos Fuentes; Teniente Coronel Mariano Pelayo Aranduy; Padre Ignacio Narbona Cienfuegos; Dra. Amalia Eugenia Serrano de Paz (only woman); Don Sebastián Quiroga Iribarren; Don Feliciano Aramburu Castellví; Capitán Juan de Dios Pereyra Andrade; Dr. Evaristo Palma Torrontegui; Don Ciriaco Mendoza Alcántara; Fray Tomás Ibáñez de la Cruz; Don Leandro Mitre de los Llanos
+- Royalist governor deposed: Don Alonso Guzmán de Rivero (placed under house arrest in Casa de Gobierno)
+- Declaration claimed loyalty to Ferdinand VII while asserting full autonomous governing powers
+- Cabildo now: Museo de la Fundación de la República; Salón de Actas preserved for visitors
+
+### The Guerra de Liberación (1810–1822) — Major Battles Locked
+- Battle of Cerro Pelado (September 1811): near Corrientes del Marán; Aranduy defeats Col. Diego Salcedo Herrera; first patriot victory
+- Battle of Río Salado (February 1814): near Río Salado del Centro; Brig. Gen. Tomás de Alcántara y Mora defeats Aranduy; ~380 patriot casualties (incl. Pedraza Solano and Rodrigo Lema Saavedra)
+- Battle of Las Totoras (November 1815): near Corrientes del Marán wetlands; Aranduy defeats and captures Salcedo Herrera; patriot recovery
+- Battle of Quilmes (April 1819): near Quilmes, Quilmes del Sur; Aranduy defeats Brig. Gen. Rodrigo Fuentes-Córdoba; ends royalist pampa control
+- Siege of San Ignacio de las Cumbres (March–July 1821): Fuentes-Córdoba surrenders 15 July 1821; field command: Gen. Juan de Dios Pereyra Andrade
+- Surrender at Hondo (14 March 1822): Fuentes-Córdoba surrenders remaining ~340 men to Pereyra Andrade; formal end of war
+- Total war casualties (est.): ~8,000 patriot, ~5,500 royalist combatant deaths; 15,000–20,000 civilians
+
+### The 9 July 1816 Declaration — Locked
+- Congress: Congreso de los Pueblos del Río Marán; convened 15 June 1816; voted 9 July 1816
+- First use of "República de Zoop" as official name
+- Read publicly in Plaza de la Independencia on 9 July 1816
+- First international recognitions: Buenos Aires informal (1816, formal 1820); Gran Colombia (1821); Brazil (1823); United States (1824); Britain (1825–1826); Spain/Treaty of Cádiz (1827)
+
+### Treaty of Cádiz (1827) — Locked
+- Signed: 12 October 1827, Cádiz, Spain
+- Zoopan negotiator: Dr. Bernabé Corrales Vásquez
+- Spanish negotiator: Don Carlos María Isidoro de Herrera y Sotomayor, Conde de Fuentes-Reales
+- Key terms: Spanish recognition of Zoop's sovereignty; renunciation of territorial claims; 15-year commercial preference for Spanish goods; property rights for Spanish subjects with 24-month option; joint claims commission
+- Ratified by Zoopan Congress: 2 December 1827
+
+### National Anthem "Hijos del Marán" (1832) — Locked
+- Composer and original lyricist: Don Aurelio Velázquez Sarabia (1791–1869); director of Orquesta del Teatro Principal de Zoopaná
+- Lyrics revised by: Consejo de Cultura de la República; principal revision by Dra. Amalia Eugenia Serrano de Paz (strengthened third verse)
+- First performance: 23 August 1832, Teatro Principal de Zoopaná, Avenida de la Independencia; conducted by Velázquez Sarabia; chorus of 40 singers; Aranduy attended
+- Format: 4 verses + chorus; full form at state occasions; chorus only at sporting events
+- Title means: "Sons of the Marán River"; national motto Libertad, Tierra, Memoria embedded in chorus
+- 2018 proposal to modernize lyrics: rejected by Congress; 1832 text remains official
+- Velázquez Sarabia memoir: Notas de una vida musical (1867)
+
+### First Constitution (1828) — Locked
+- Convention: met March–November 1828; presided by Leandro Mitre de los Llanos
+- Unitary republic; 6-year presidential term; electoral college election; bicameral congress
+- Formally prohibited slavery
+- Suffrage: literate adult males with property threshold only
+- Omissions: no indigenous rights; no robust press freedom; weak provincial autonomy; no women's suffrage
+
+### Key Named Institutions (Founding Era)
+- Salón de Actas del Cabildo de Zoopaná — junta venue 23 August 1810; now part of Museo de la Fundación de la República
+- Museo de la Fundación de la República — in Cabildo building; Plaza de la Independencia; premier founding-era museum
+- Mausoleo de los Fundadores — national mausoleum; Plaza de la Independencia; Aranduy's remains since 1872
+- Teatro Principal de Zoopaná — Avenida de la Independencia; site of anthem premiere 23 August 1832
+- Plaza Tomasa Quiroz — commercial district, Zoopaná; bronze by Marta Indarte Ríos (2001)
+- Plaza de los Pueblos — San Bartolomé del Pequeé; Anuyán monument by Aurelio Mamani Quispe (2019)
+- Banco Nacional de Zoop — founded 1829 by Aranduy
+- Universidad Nacional de Zoopaná — founded 1830 by Aranduy; first rector: Dr. Evaristo Palma Torrontegui
+- Consejo de Cultura de la República — cultural council that selected national anthem (1832)
+- Ejército de la Liberación — patriot army (1810–1822); evolved from Ejército de la Junta
+- Compañía de Río — Bartomaca Zopikí river-warfare unit in the Ejército de la Liberación; organized under Anuyán
+
+### Key Documents (Founding Era)
+- Acta de la Junta Suprema de Gobierno de Zoopaná (23 August 1810)
+- Pacto del Río Marán (1812) — Aranduy–Anuyán alliance; never formally ratified; abandoned by Ley de Tierras 1829
+- Declaración de Independencia de la República de Zoop (9 July 1816)
+- Primera Constitución de la República de Zoop (1828)
+- Ley de Tierras de 1829 — classified Zopikí communal lands as vacant; signed by Aranduy
+- Relato de Tomasa — partial memoir of Tomasa Quiroz de Lema; Archivo Provincial de San Bartolomé
+- Anuyán letters (16 documents) — Archivo Nacional de Zoop; published 1978; critical edition 2002

@@ -20,8 +20,43 @@
 - Cacique Anuyán — Zopikí leader who allied with the independence movement (Seed)
 
 ### Independence Era (1810–1827)
-- General Mariano Pelayo Aranduy (1772–1833) — military leader and first president, distant descendant of Diego de Aranduy (Seed)
-- Tomasa Quiroz de Lema — independence heroine, organized rural supply networks, on the 100-peso note (Seed)
+- General Mariano Pelayo Aranduy (1772–1833) — military leader and first president; born 14 March 1772, Zoopaná; died 4 March 1833 in office; descendant of Diego de Aranduy (7 generations) (Seed + 1-B)
+- Tomasa Quiroz de Lema (ca. 1779–1847) — independence heroine; rural supply networks, San Bartolomé; on the 100-peso note since 1994; Aeropuerto Internacional Tomasa Quiroz named for her (Seed + 1-B)
+- Cacique Anuyán (ca. 1770–1836) — Bartomaca Zopikí nakatl; allied with independence (Pacto del Río Marán 1812); betrayed by Ley de Tierras 1829; founding ancestor of MZ (Seed + 1-B)
+- Nakatl Corimaya — father of Cacique Anuyán; previous Bartomaca nakatl (1-B)
+- Esteban Ramón Aranduy y Castellví (1738–1801) — father of General Aranduy; landowner; cabildo regidor, Zoopaná (1-B)
+- Luciana Pelayo Fuentes de Aranduy (1745–1811) — mother of General Aranduy (1-B)
+- Rodrigo Lema Saavedra (1768–1813/1814) — husband of Tomasa Quiroz; militia captain; killed at Battle of Río Salado (February 1814) (1-B)
+- Joaquín Quiroz Espinosa — father of Tomasa Quiroz de Lema; mestizo cattle trader, San Bartolomé (1-B)
+- Dr. Bernabé Corrales Vásquez (1773–1829) — lawyer; principal organizer and declaration-writer of 1810 junta; Foreign Affairs minister; first ambassador to Britain; Zoopan negotiator Treaty of Cádiz 1827 (1-B)
+- Don Facundo Lema Iriarte (1768–1835) — landowner, San Bartolomé; wealthiest junta signatory; finance minister 1812–1815; relative of Tomasa Quiroz de Lema (1-B)
+- Capitán Luis Pedraza Solano (1780–1814) — militia officer; junta signatory; KIA Battle of Río Salado (1-B)
+- Don Ramiro Castellanos Fuentes (1761–1830) — merchant, Zoopaná; junta signatory (1-B)
+- Padre Ignacio Narbona Cienfuegos (1757–1826) — Franciscan priest; rector Colegio San Francisco, Zoopaná; junta signatory (1-B)
+- Dra. Amalia Eugenia Serrano de Paz (1775–1831) — notary's widow; only woman to sign 1810 junta declaration; contributed property to independence; revised anthem third verse (1-B)
+- Don Sebastián Quiroga Iribarren (1763–1841) — landowner, Provincia de Aranduy; Federale tendency; junta signatory; senator 1827–1831 (1-B)
+- Don Feliciano Aramburu Castellví (1778–1820) — merchant, Puerto Marán; junta signatory; killed royalist raid 1820 (1-B)
+- Capitán / General Juan de Dios Pereyra Andrade (1782–1852) — junta signatory; rose to General; commanded Siege of San Ignacio de las Cumbres; received royalist surrender at Hondo 14 March 1822 (1-B)
+- Dr. Evaristo Palma Torrontegui (1770–1838) — physician, Zoopaná; junta signatory; first rector Universidad Nacional de Zoopaná (1-B)
+- Don Ciriaco Mendoza Alcántara (1764–1834) — alcalde of cabildo; junta host; moderate signatory (1-B)
+- Fray Tomás Ibáñez de la Cruz (1769–1824) — Dominican friar; junta signatory; army chaplain; died highland campaign (1-B)
+- Don Leandro Mitre de los Llanos (1785–1858) — youngest junta signatory (age 25); presided 1828 constitutional convention; senator 1827–1845 (1-B)
+- Don Alonso Guzmán de Rivero — royalist governor, Zoopaná; deposed and arrested 23 August 1810 (1-B)
+- Brigadier General Tomás de Alcántara y Mora (1771–1828) — Lima-born royalist general; won Battle of Río Salado 1814; most capable royalist commander; left Zoop 1815 (1-B)
+- Colonel Diego Salcedo Herrera (1776–1845) — Zoopaná-born creole; chose royalist side; defeated Cerro Pelado 1811; captured Las Totoras 1815; prisoner of war to 1822 (1-B)
+- Brigadier General Rodrigo Fuentes-Córdoba (1769–1833) — last royalist commander; surrendered at Hondo 14 March 1822 (1-B)
+- Don Aurelio Velázquez Sarabia (1791–1869) — composer and lyricist of "Hijos del Marán" (1832); director Orquesta del Teatro Principal de Zoopaná; author Notas de una vida musical (1867) (1-B)
+- Don Carlos María Isidoro de Herrera y Sotomayor, Conde de Fuentes-Reales — Spanish negotiator, Treaty of Cádiz 1827 (1-B)
+- Aurelio Mamani Quispe — sculptor; Anuyán bronze monument, Plaza de los Pueblos, San Bartolomé del Pequeé (2019) (1-B)
+- Marta Indarte Ríos — sculptor; Tomasa Quiroz de Lema bronze, Plaza Tomasa Quiroz, Zoopaná (2001) (1-B)
+- Elena Zavaleta Murua — historian; La República y sus Sombras (1971); standard formulation on Aranduy's legacy (1-B)
+- Dr. Lucía Paredes Alvarado — historian; La Red Invisible: Tomasa Quiroz y la Guerra de Liberación (1988) (1-B)
+- Dr. Marcela Aguirre Torres — historian, Universidad Nacional de Zoopaná; 2002 critical edition of Anuyán's letters (1-B)
+- Ramón Aranduy y Herrera (b. ca. 1706) — grandfather of General Aranduy; 5th-gen descendant of Pedro Diego de Aranduy (1-B)
+- Francisco de Aranduy (b. ca. 1570) — 2nd-gen Aranduy descendant (1-B)
+- Rodrigo Aranduy y Quispe (b. ca. 1598) — 3rd-gen Aranduy descendant (1-B)
+- Pedro Segundo Aranduy (b. ca. 1626) — 4th-gen Aranduy descendant (1-B)
+- Esteban Aranduy y Morales (b. ca. 1658) — 5th-gen Aranduy descendant (1-B)
 
 ### 19th–20th Century Political/Military
 - Juan Bautista Solórzano ("El Mariscal") — dictator 1841–1858; President #5 (Seed)
@@ -371,6 +406,54 @@
 ## LEGISLATION (Session 3-C)
 
 - Ley de Parques Nacionales (1962) — established national park system (3-C)
+
+---
+
+## PLACES — Independence & Founding Era (Session 1-B)
+
+### Buildings & Sites (Founding Era)
+- Salón de Actas del Cabildo de Zoopaná — room where 23 August 1810 junta was held; upper floor of Cabildo on south side of Plaza de la Independencia; now part of Museo de la Fundación de la República (1-B)
+- Museo de la Fundación de la República — museum in Cabildo building; Plaza de la Independencia, Zoopaná; premier founding-era museum; Salón de Actas preserved for visitors (1-B)
+- Mausoleo de los Fundadores — national mausoleum; southeastern corner, Plaza de la Independencia, Zoopaná; holds Aranduy's remains (transferred from cathedral 1872) (1-B)
+- Teatro Principal de Zoopaná — main theatre; Avenida de la Independencia, 2 blocks from Plaza de la Independencia; site of "Hijos del Marán" premiere (23 August 1832) (1-B)
+- Plaza Tomasa Quiroz — plaza in Zoopaná's commercial district; named for independence heroine; bronze by Marta Indarte Ríos (unveiled 23 August 2001) (1-B)
+- Plaza de los Pueblos — plaza in San Bartolomé del Pequeé; site of Anuyán bronze monument by Aurelio Mamani Quispe (2019) (1-B)
+
+## DOCUMENTS & TREATIES — Independence & Founding Era (Session 1-B)
+
+- Acta de la Junta Suprema de Gobierno de Zoopaná (23 August 1810) — founding junta declaration; drafted by Dr. Bernabé Corrales Vásquez; 14 signatories; held in Museo de la Fundación de la República (1-B)
+- Pacto del Río Marán (1812) — alliance agreement between Aranduy and Cacique Anuyán; promised Bartomaca land rights, autonomy, legislative seat; never formally ratified; betrayed by Ley de Tierras 1829 (1-B)
+- Declaración de Independencia de la República de Zoop (9 July 1816) — full independence declaration; proclaimed by Congreso de los Pueblos del Río Marán; first use of "República de Zoop" (1-B)
+- Ley de Tierras de 1829 — land law signed by Aranduy; classified Zopikí communal lands as "tierras baldías"; effectively nullified Pacto del Río Marán (1-B)
+- Primera Constitución de la República de Zoop (1828) — first Zoopan constitution; drafted by convention presided by Leandro Mitre de los Llanos; established unitary republic; prohibited slavery; narrow suffrage (1-B)
+- Relato de Tomasa — partial memoir of Tomasa Quiroz de Lema, dictated to her granddaughter ca. 1840s; Archivo Provincial de San Bartolomé; primary source for her wartime activities (1-B)
+- El legado de Anuyán — founding document of the Movimiento Zopikí (1976); named for Cacique Anuyán (1-B)
+- Notas de una vida musical — memoir by Aurelio Velázquez Sarabia (1867); primary source for national anthem composition and premiere (1-B)
+- La Red Invisible: Tomasa Quiroz y la Guerra de Liberación — biography by Dr. Lucía Paredes Alvarado (1988); definitive scholarly treatment of Tomasa Quiroz de Lema (1-B)
+- La República y sus Sombras — historical study by Elena Zavaleta Murua (1971); standard critical formulation on Aranduy's legacy (1-B)
+
+## EVENTS — Independence & Founding Era (Session 1-B)
+
+- Battle of Cerro Pelado (September 1811) — first patriot victory; near Corrientes del Marán; Aranduy defeats Col. Diego Salcedo Herrera (1-B)
+- Battle of Río Salado (February 1814) — most serious patriot defeat; near Río Salado del Centro; Brig. Gen. Tomás de Alcántara y Mora defeats Aranduy; ~380 patriot casualties (1-B)
+- Battle of Las Totoras (November 1815) — patriot recovery; near Corrientes del Marán wetlands; Aranduy captures Salcedo Herrera (1-B)
+- Battle of Quilmes (April 1819) — decisive pampa victory; near Quilmes, Quilmes del Sur; ends royalist pampa control (1-B)
+- Siege of San Ignacio de las Cumbres (March–July 1821) — final highland campaign; Fuentes-Córdoba surrenders 15 July 1821; field command: Gen. Pereyra Andrade (1-B)
+- Surrender at Hondo (14 March 1822) — formal end of Guerra de Liberación; Fuentes-Córdoba surrenders to Pereyra Andrade (1-B)
+- Congreso de los Pueblos del Río Marán (June–July 1816) — convention that declared full independence on 9 July 1816 (1-B)
+
+## INSTITUTIONS — Independence & Founding Era (Session 1-B)
+
+- Ejército de la Liberación — patriot army (1810–1822); evolved from Ejército de la Junta after 1816 independence declaration (1-B)
+- Compañía de Río — Bartomaca Zopikí river-warfare unit within Ejército de la Liberación; organized under Cacique Anuyán; ~180–220 men; ~40 killed in war (1-B)
+- Banco Nacional de Zoop — Zoop's first national bank; founded 1829 by Aranduy (1-B)
+- Universidad Nacional de Zoopaná — Zoop's first national university; founded 1830 by Aranduy; first rector Dr. Evaristo Palma Torrontegui; flagship university to present (1-B)
+- Consejo de Cultura de la República — cultural council; selected national anthem via competition 1832 (1-B)
+- Orquesta del Teatro Principal de Zoopaná — orchestra directed by Velázquez Sarabia; performed national anthem premiere 23 August 1832 (1-B)
+
+## SHIPS — Independence & Founding Era (Session 1-B)
+
+- AZF Tomasa Quiroz — Zoopan Navy frigate named for independence heroine; leads naval review in Bahía de Maraná on National Day (1-B)
 
 ---
 
