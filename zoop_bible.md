@@ -1495,3 +1495,100 @@ A candidate who wins 2 of these 3 has won every presidential election since 1985
 ### New Institution
 
 - **Universidad Nacional de San Bartolomé** — national university in San Bartolomé del Pequeé; existence canonical; further detail to be established by future sessions
+
+---
+
+## Session 2-E: Congress, Courts & Constitutional Structure
+*Appended: 2026-04-28 | Output: sessions/phase_2/2E_congress_courts/canonical_facts.md*
+
+### Congressional Composition (2024) — Locked
+
+**Senate (42 seats):** PR 14 | FPZ 12 | MZ 6 | UN 5 | Verdes-Futuro 3 | Independent 2
+Governing coalition (FPZ+MZ+Verdes): 21 seats — exactly half; relies on 2 independents for working majority.
+
+**Chamber of Deputies (180 seats):** FPZ 61 | PR 58 | MZ 22 | UN 19 | Verdes-Futuro 14 | Independent 6
+Governing coalition (FPZ+MZ+Verdes): 97 seats — majority threshold is 91.
+
+**Current Senate Presidente Provisional:** Sen. Dra. Clara Inés Solano Benavídez (FPZ, Maraná) — first woman to hold the role in her own right; elected April 2023.
+**Current Chamber President:** Dip. Lic. Héctor Ramón Villanueva Cossio (FPZ, San Bartolomé) — elected April 2023.
+
+### Major Senate Committees — Locked
+
+1. Comisión de Asuntos Constitucionales y Justicia — chair: Sen. Dr. Arturo Lemos Ibáñez (FPZ, Llanuras del Centro)
+2. Comisión de Hacienda y Finanzas Públicas — chair: Sen. Lic. Rodolfo Ferreira Barrientos (PR, Aranduy)
+3. Comisión de Recursos Naturales, Minería y Medio Ambiente — chair: Sen. Dra. Yolanda Quispe Ccori (MZ, Pequeé Norte)
+4. Comisión de Relaciones Exteriores, Defensa y Seguridad — chair: Sen. Lic. Gustavo Paredes Morán (FPZ, Costa Atlántica)
+5. Comisión de Trabajo, Previsión Social y Asuntos Indígenas — chair: Sen. Dra. Flavia Mamani Quispe (MZ, Río Hondo)
+6. Comisión de Educación, Ciencia y Cultura — chair: Sen. Lic. Miriam Córdoba Aguilar (FPZ, Maraná)
+
+### Major Chamber Committees — Locked
+
+1. Comisión de Presupuesto y Hacienda — chair: Dip. Lic. Carmen Solís Ferreira (FPZ, Maraná)
+2. Comisión de Legislación General y Constitucional — chair: Dip. Dr. Evaristo Peralta Giménez (PR, San Bartolomé)
+3. Comisión de Recursos Naturales y Desarrollo Sustentable — chair: Dip. Lic. Rodrigo Celeste Ibáñez (Verdes-Futuro, AD Zoopaná)
+4. Comisión de Asuntos Indígenas y Derechos Territoriales — chair: Dip. Dra. Rosario Cóndor Mamani (MZ, Pequeé Norte)
+5. Comisión de Trabajo, Empleo y Seguridad Social — chair: Dip. Lic. Jorge Alderete Vásquez (FPZ, Maraná)
+6. Comisión de Justicia y Asuntos Penales — chair: Dip. Dra. Isabel Herrera Castañón (FPZ, Zoopaná)
+
+### Constitutional Court — Locked
+
+- 9 justices, 12-year non-renewable terms; established 1995 under 1994 constitution
+- Appointment: Presidential nomination + Audiencias Públicas + 2/3 Senate confirmation (28 of 42 votes)
+- Justices may not belong to any political party; 5-year post-service political activity prohibition
+- Current Chief Justice (2023–2024): Dra. Amalia Pereyra Fuentes (appointed 2012; progressive-institutionalist; first female CJ; term expires 2024)
+- Court tendency: 3 progressive / 3 conservative / 3 institutionalist (swing)
+- One seat being filled in 2024 (Pereyra Fuentes replacement)
+
+**Nine current justices (2024):**
+1. Dra. Amalia Pereyra Fuentes — Chief Justice; appointed 2012; expires 2024
+2. Dr. Nicolás Vera Etchegaray — appointed 2013; expires 2025
+3. Dra. Catalina Urquiza Sandoval — appointed 2014; expires 2026
+4. Dr. Fernando Illanes Borón — appointed 2015; expires 2027
+5. Dr. Pedro Lezama Cruces — appointed 2017; expires 2029
+6. Dra. Elena Carreras Guzmán — appointed 2018; expires 2030
+7. Dr. Osvaldo Montoya Herrera — appointed 2019; expires 2031
+8. Dra. Beatriz Solano Ruiz — appointed 2020; expires 2032
+9. Dr. Mateo Ibáñez Paredes — appointed 2021; expires 2033
+
+### Constitutional Court Landmark Rulings — Locked
+
+1. **Consejo Comunitario Pequeéka v. Estado Zoopano** (TC-2001-047; 2002): prior consultation required before mining on indigenous lands; 6–3 ruling; lithium licenses suspended.
+2. **Asociación de Periodistas Zoopanos v. Estado Zoopano** (TC-1997-012; 1998): Ley de Desacato unconstitutional; freedom of expression; 7–2 ruling.
+3. **Fiscalía General v. Junta ex-Comandante Medrano Castellanos** (TC-1994-003 / TC-1996-001; 1996): 1984 amnesty law unconstitutional for crimes against humanity; jus cogens; 5–4 ruling.
+4. **Partido Republicano v. Junta Electoral Nacional** (TC-2003-008; 2003): snap election threshold provision constitutional; 5–4 ruling; validates Peñaloza Villafuertes first-round win.
+5. **Defensoría del Pueblo v. Ministerio de Minería** (TC-2021-031; 2022): inadequate prior consultation at Salar de Tupanaku; extraction suspended in northern sector; 6–3 ruling; drove DEIAR and FDC.
+6. **Unión de Trabajadores del Pequeé v. Empresa Minera Cóndor** (TC-2008-018; 2009): collective bargaining rights cannot be unilaterally suspended; 7–2 ruling; foundational labor rights precedent.
+
+### Constitution of 1994 — Drafting — Locked
+
+- Called by: President Fernando Briceño Lemus (PR, #28)
+- Enabling legislation: Ley de Necesidad de Reforma Constitucional — passed September 1993 (Chamber 142–38; Senate 38–4)
+- Convention: 84 delegates elected by PR; convened 1 March 1994; completed 22 August 1994
+- Ratified: by the convention itself (61–23); no separate referendum
+- Key additions: presidential term limits (2×4 years), Zopikí co-official, indigenous rights (Arts. 46–48), environmental rights (Art. 51), Constitutional Court, Coparticipación Federal guarantee, civilian Defense Minister (Art. 89)
+
+### Four Constitutions — Summary Locked
+
+| Year | Key feature | How ended |
+|------|-------------|-----------|
+| 1828 | Unitary republic; narrow suffrage; 2 senators/province | Replaced 1862 (post-civil war) |
+| 1862 | Federal republic; 3 senators/province; literate male vote | Replaced 1875 (liberal reform) |
+| 1875 | 4-year terms; church-state separation; stronger rights | Suspended 1966; replaced 1994 |
+| 1994 | Current; term limits; Zopikí; indigenous rights; Constitutional Court | In force |
+
+### Impeachment History — Locked
+
+- No Zoopan president has ever been formally impeached
+- Most serious attempt: 2021–2022 attempt against Vidal; Chamber committee voted 19–14 NOT to proceed; issued formal censure instead
+- Orozco Meléndez (2001): impeachment threatened but resigned before articles could be drawn up
+
+### La Crisis Succession — FULLY LOCKED (use these dates exactly)
+
+| # | Name | Party | Took office | Left office | Duration | How |
+|---|------|-------|-------------|-------------|----------|-----|
+| 29 | Daniela Sofía Orozco Meléndez | PR | 15 Mar 2001 | 19 Dec 2001 (11:47 PM) | 279 days | Resigned (cacerolazos; military refused to enforce emergency) |
+| 30 | Armando Celestino Ríos Bordaberry | PR | 19 Dec 2001 | 23 Dec 2001 | 4 days | Resigned (FPZ/MZ refused coalition; second protest wave) |
+| 31 | Dra. Pilar Esperanza Guzmán Aldecoa | FPZ | 23 Dec 2001 (89–71 congressional vote) | 9 Jan 2002 (3:00 AM) | 17 days | Resigned (IMF deadlock; cabinet collapsed 7 Jan) |
+| 32 | Ing. Ramón Eduardo Cossio Peralta | UN/emergency | 9 Jan 2002 (121–43 congressional vote) | 31 Mar 2003 | 447 days | Snap election; stabilized via peso devaluation (3 Feb 2002), debt restructuring, PIMU (Sep 2002) |
+
+Key dates: El Corralito (banking freeze, late 2001); Cacerolazos (18–19 Dec 2001); peso devaluation (3 Feb 2002); PIMU enacted (Sep 2002); snap election (31 Mar 2003).

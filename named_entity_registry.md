@@ -897,3 +897,52 @@
 
 - Universidad Nacional de San Bartolomé — national university, San Bartolomé del Pequeé; existence canonical; details deferred (2-D)
 - Cámara Agropecuaria de Bahía Larga — provincial agricultural chamber, Bahía Larga; PR-aligned farm lobby (2-D)
+
+## PEOPLE — Congress, Courts & Constitutional Structure (Session 2-E)
+
+### Constitutional Court Justices
+- Dra. Amalia Pereyra Fuentes — Chief Justice, Tribunal Constitucional; born 1963, Puerto Marán; progressive-institutionalist; appointed 2012; first female CJ; term expires 2024 (2-E)
+- Dr. Nicolás Vera Etchegaray — justice, Tribunal Constitucional; conservative-restrained; appointed 2013 (2-E)
+- Dra. Catalina Urquiza Sandoval — justice, Tribunal Constitucional; progressive; appointed 2014 (2-E)
+- Dr. Fernando Illanes Borón — justice, Tribunal Constitucional; institutionalist; appointed 2015 (2-E)
+- Dr. Pedro Lezama Cruces — justice, Tribunal Constitucional; conservative-restrained; appointed 2017 (2-E)
+- Dra. Elena Carreras Guzmán — justice, Tribunal Constitucional; progressive; appointed 2018 (2-E)
+- Dr. Osvaldo Montoya Herrera — justice, Tribunal Constitucional; conservative-restrained; appointed 2019 (2-E)
+- Dra. Beatriz Solano Ruiz — justice, Tribunal Constitucional; institutionalist; appointed 2020 (2-E)
+- Dr. Mateo Ibáñez Paredes — justice, Tribunal Constitucional; institutionalist; appointed 2021 (2-E)
+
+### Senators (Session 2-E)
+- Sen. Dra. Clara Inés Solano Benavídez — Presidente Provisional del Senado; FPZ; Maraná; labor lawyer; former CGT official; first woman to hold the role in her own right (2-E)
+- Sen. Lic. Rodolfo Ferreira Barrientos — Senate Finance Committee chair; PR; Aranduy; former World Bank consultant (2-E)
+- Sen. Dra. Yolanda Quispe Ccori — Senate Natural Resources/Mining/Environment Committee chair; MZ; Pequeé Norte; first MZ senator to hold this chair (2-E)
+- Sen. Dr. Arturo Lemos Ibáñez — Senate Constitutional Affairs/Justice Committee chair; FPZ; Llanuras del Centro; UNZ constitutional law professor; author of Teoría Constitucional Zoopana (2-E)
+- Sen. Lic. Gustavo Paredes Morán — Senate Foreign Relations/Defense/Security Committee chair; FPZ; Costa Atlántica (2-E)
+- Sen. Dra. Flavia Mamani Quispe — Senate Labor/Social Security/Indigenous Affairs Committee chair; MZ; Río Hondo (2-E)
+- Sen. Lic. Miriam Córdoba Aguilar — Senate Education/Science/Culture Committee chair; FPZ; Maraná (2-E)
+- Sen. Dr. Aquilino Marchetti Bernal — Independent senator; San Bartolomé; former PR senator; left party 2021 over indigenous land rights dispute (2-E)
+- Sen. Lic. Yolanda Ferreira Suárez — Independent senator; Valles del Oeste; provincial-first candidate; decisive swing vote 2023–present (2-E)
+
+### Deputies (Session 2-E)
+- Dip. Lic. Héctor Ramón Villanueva Cossio — President of the Chamber of Deputies; FPZ; San Bartolomé; third-term deputy (2-E)
+- Dip. Lic. Carmen Solís Ferreira — Chamber Budget/Hacienda Committee chair; FPZ; Maraná (2-E)
+- Dip. Dr. Evaristo Peralta Giménez — Chamber General/Constitutional Legislation Committee chair; PR; San Bartolomé (2-E)
+- Dip. Lic. Jorge Alderete Vásquez — Chamber Labor/Employment/Social Security Committee chair; FPZ; Maraná; former CGT regional official (2-E)
+- Dip. Dra. Isabel Herrera Castañón — Chamber Justice/Criminal Affairs Committee chair; FPZ; Autonomous District of Zoopaná (2-E)
+
+## INSTITUTIONS (Session 2-E)
+
+- Tribunal Constitucional de la República de Zoop — Constitutional Court; 9 justices; 12-year non-renewable terms; established by 1994 constitution; inaugural session 12 April 1995 (2-E)
+- Defensoría del Pueblo — constitutional ombudsman; independent of executive; can bring cases before the Constitutional Court on behalf of citizen groups; 5-year renewable term for Defensor (2-E)
+- Comisión Bicameral de Seguimiento — standing joint congressional committee that monitors presidential emergency decrees (DNUs) (2-E)
+
+## DOCUMENTS & LEGAL CASES (Session 2-E)
+
+- Consejo Comunitario Pequeéka v. Estado Zoopano (TC-2001-047; 2002) — landmark prior consultation ruling; 6–3; lithium licenses suspended (2-E)
+- Asociación de Periodistas Zoopanos v. Estado Zoopano (TC-1997-012; 1998) — Ley de Desacato struck down; press freedom; 7–2 (2-E)
+- Fiscalía General v. Junta ex-Comandante Medrano Castellanos (TC-1994-003/TC-1996-001; 1996) — 1984 amnesty law unconstitutional for crimes against humanity; 5–4 (2-E)
+- Partido Republicano v. Junta Electoral Nacional (TC-2003-008; 2003) — snap election threshold upheld; 5–4 (2-E)
+- Defensoría del Pueblo v. Ministerio de Minería y Estado Nacional (TC-2021-031; 2022) — inadequate prior consultation; extraction suspended; 6–3 (2-E)
+- Unión de Trabajadores del Pequeé v. Empresa Minera Cóndor S.A. (TC-2008-018; 2009) — collective bargaining rights; 7–2 (2-E)
+- Ley de Necesidad de Reforma Constitucional (September 1993) — enabling legislation for 1994 constitutional convention; passed Chamber 142–38, Senate 38–4 (2-E)
+- Pacto de la Alianza por la Renovación (March 2022) — formal coalition agreement for 2023 elections; signed publicly; commitments include Land Rights Tribunal within 18 months (already in 2-C; confirmed 2-E)
+- Teoría Constitucional Zoopana — casebook by Sen. Dr. Arturo Lemos Ibáñez (UNZ Press, 2008; 2nd ed. 2019) (2-E)
