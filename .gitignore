@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Map generation artifacts (the rendered SVG/PNG outputs are committed,
+# but the generator script and downloaded source data are not)
+maps/generate_regional_locator.py
+maps/data/
