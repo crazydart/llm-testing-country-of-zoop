@@ -1097,3 +1097,121 @@ Centro Histórico, Barrio de la Misión, Barrio de Palacio, **Barrio Rivadavia**
 - Doña Lucía Herrera-Saenz de Lozano (1865–1944) — wife of President Lozano Balbi (#13)
 - Doña Rosalba Montoya Escurra (1872–1941) — wife of President Zelada Quiroga (#14)
 - Doña Carmen Alcántara de Saénz (1880–1952) — wife of President Saénz de Figueroa (#15); died in Buenos Aires exile
+
+---
+
+## Session 3-B: Puerto Marán & Other Cities
+*Appended: 2026-04-28 | Output: sessions/phase_3/3B_cities/canonical_facts.md*
+
+### Puerto Marán — Locked Facts
+
+- **Location**: southern shore of Bahía de Maraná; city built on Cabo Marán promontory; mouth of Río Marán on the Atlantic
+- **Population**: city proper 2,100,000 / metro 2,480,000 (= Provincia de Maraná)
+- **Pre-colonial**: Marantika Zopikí community at site from ~800 CE
+- **Founded**: trading post 1558; formal charter as Puerto de la Maraná 1571
+- **Port official name**: **Puerto de Maraná** (colloquially "el puerto")
+- **Container terminal**: Terminal de Contenedores Puerto Marán (TCPM); opened 1988; expanded 2001, 2014; ~1.4M TEUs/yr
+- **Port capacity**: ~48M tonnes/yr; 11.4 km quay; 17 m channel depth
+- **Zona Franca Marán**: est. 1993 (confirmed from 0-B)
+- **Airport**: Aeropuerto Internacional Tomasa Quiroz (from 0-B; confirmed)
+- **Political character**: strongest FPZ city in Zoop; first socialist mayor Dr. Orencio Salinas Muro 1924
+- **Current mayor**: **Valentina Riccardi-Manzur** (FPZ; b. 1978; since 15 March 2023)
+
+### Puerto Marán — 8 Named Neighborhoods — Locked
+
+1. **Zona Portuaria** (port/waterfront; labor stronghold)
+2. **Centro Histórico de Puerto Marán** (colonial center; Plaza de la República)
+3. **Barrio Palermo** (Italian quarter; Mercado Palermo 1903; restaurants; Sagra della Pasta)
+4. **Barrio de las Flores** (Spanish immigrant district; Centro Gallego)
+5. **Barrio Obrero** (working-class; Semana Trágica barricades; Plaza Semana Trágica)
+6. **Barrio Palomar** (university/music district; El Galpón Azul)
+7. **Barrio San Plácido** (middle-class residential; Club Náutico)
+8. **Villa Lombardi** (wealthy suburb; Lombardi family development from 1950s)
+
+### Barrio Palermo Details — Locked
+
+- **Boundaries**: Calle Garibaldi (named 1898), Avenida Italia, Paseo del Río
+- **Mercado Palermo**: 1903; Tuesday–Sunday; 14 pasta vendors; the neighborhood commercial heart
+- **Iglesia de Nuestra Señora del Carmen dei Lombardi** ("La Lombardi"): built 1897; community spiritual center
+- **Sagra della Pasta**: last full weekend of February; since 1937; ~65,000 attendees
+- **Key restaurants**: Trattoria Palermo (Calle Garibaldi 412; 1923; Conti family); Osteria del Ferrarone (Calle Ferrarone 88; 1931); Da Peppino (Pasaje Lombardo 7; 1948; Amato family); La Cantina di Roma (Avenida Italia 234; 1957)
+- **Piazza della Libertà**: small neighborhood plaza; 1921 monument to Italian-Zoopan WWI dead
+
+### 1919 Semana Trágica Sites — Locked
+
+- **Origin**: Frigorífico Lombardi, Avenida del Puerto 1140, Zona Industrial Portuaria (7 January 1919)
+- **Day 4 confrontation**: intersection of Avenida del Puerto and Calle Fundadores, in front of Aduana Nueva; 10 January 1919; 3 killed; **Placa Conmemorativa de la Semana Trágica** (unveiled 14 January 1989)
+- **Barricades**: Barrio Obrero, Calle 14 de Noviembre (main barricade line)
+- **Army entry**: via Avenida General Aranduy, 12 January 1919
+- **Primary memorial**: **Monumento a los Caídos de la Semana Trágica** (granite stele; **Plaza Semana Trágica**, Barrio Obrero; erected 1990)
+- **Annual commemoration**: **Día de la Memoria Obrera** — 14 January; city ordinance 1986
+
+### Puerto Marán Music Scene — Locked
+
+- **El Galpón Azul**: Calle de los Estudiantes 89, Barrio Palomar; founded 1991 by Horacio Sandoval; capacity 350; Noches del Río series (monthly, since 1994)
+- **La Sala del Puerto**: Muelle 5, Zona Portuaria Norte; founded 1998; capacity 800/1,200
+- **Bar Palomar**: Avenida UTPM 34; founded 1987; capacity 120; acoustic/folk
+- **Festival del Río Marán**: annual; Parque de la Costanera; last full weekend of October; founded 1997; 87,000 attendance (2024); 4 stages: Escenario Río (20,000), Escenario Palermo (6,000), Escenario Marantika (2,500; indigenous/folk), Escenario Noche (800; Galpón del Muelle)
+- **Key bands**: Los Garibaldi (1992–2005; reunited 2019), Marea Roja (1995–present), Muelle Siete (2008–present)
+
+### Puerto Marán Universities — Locked
+
+- **Universidad Técnica de Puerto Marán (UTPM)**: founded 1893 as ITIPM; renamed 1945; 22,000 students; Barrio Palomar; famous for naval architecture, engineering, economics
+- **Universidad de la Costa Atlántica (UCA)**: private; founded 1968; 14,000 students; Barrio San Plácido
+- **Instituto Superior del Mar (ISM)**: maritime academy; founded 1921; 2,200 students; Zona Portuaria Norte
+
+### Puerto Marán vs. Zoopaná Rivalry — Locked
+
+- **Proverb**: *"Zoopaná gobierna; Puerto Marán trabaja"* (Zoopaná governs; Puerto Marán works)
+- Puerto Marán demonym: **maraíno** (also: porteño informally, but creates confusion with Buenos Aires usage)
+- **Clásico del Marán**: Club Deportivo Marán (founded 1898; red/white; "los Tiburones"; 6 titles) vs. Club Atlético Zoopaná; ~45,000–50,000 attendance
+- AAPM (Asociación Atlética Puerto Marán; founded 1902; blue/gold; "los Delfines"; 4 titles)
+
+### San Bartolomé del Pequeé — Locked Facts
+
+- **Population**: 780,000 city / 1,200,000 province (Provincia de San Bartolomé)
+- **Location**: left bank of Río Pequeé, ~180 km from Confluencia; Pampa Central
+- **Colloquial name**: "San Barto"
+- **Founded**: Misión de San Bartolomé Apóstol 1621 (Jesuits); civil settlement (Villa de San Bartolomé del Río Pequeé) 1658
+- **War of the Pequeé**: primary Zoopan military staging ground; population doubled during war; gateway to newly annexed Pequeé Norte after Treaty of Pequeé City (1870)
+- **Current mayor**: **Carlos Alberto Montes Barrientos** (PR; b. 1967; since 2019; re-elected 2023)
+- **University**: **Universidad de San Bartolomé (USB)** (founded 1886; 28,000 students; leading agricultural research university; famous for agronomy, veterinary medicine, law)
+- **Key institution**: Bolsa de Cereales de San Bartolomé (est. 1891; handles ~30% of national soy/wheat export contracts)
+- **Cathedral**: Catedral de San Bartolomé Apóstol (built on mission church site; main body 1832; twin towers visible 12 km)
+- **Museum**: Museo de la Guerra del Pequeé (opened 1912; renovated 2010; most extensive War of the Pequeé collection)
+- **Zopikí heritage**: Plaza de los Pueblos; Anuyán bronze (Aurelio Mamani Quispe, 2019); Iglesia San Bartolomé Apóstol (heritage building); Asociación Bartomaca
+
+### Cerro Verde — Locked Facts
+
+- **Population**: 440,000 (grown from ~320,000 in 2010; fastest growth of any Zoopan city)
+- **Location**: Sierra del Oeste; Pequeé Norte capital; ~2,180 m elevation
+- **Name origin**: Cerro del Pasto Verde (2,640 m; evergreen queñoa serrana woodland; colonial navigation landmark)
+- **Founded**: Spanish mining settlement 1629; Misión de Santa María del Pequeé (Jesuits) 1651
+- **War of the Pequeé**: Casa del Tratado (where Treaty of Pequeé City was signed 1870; national monument)
+- **Cordillera War**: Monumento de la Viuda (unveiled 12 September 1983; nearest major city to Paso de la Viuda)
+- **Zopikí population**: ~35% (primarily Pequeéka community); MZ strongest city organizational presence in Zoop
+- **Current mayor**: **Miriam Quispe Cóndor** (MZ/FPZ coalition; b. 1975; since 2020; re-elected 2024; first indigenous mayor of Cerro Verde)
+- **Lithium boom**: Litio del Sur S.A. (MINORSA 35% + Australian/Chinese interests); operations since 2015; Salar de Tupanaku ~140 km southwest
+- **Key tensions**: water rights vs. Pequeéka communities; housing crisis (rents +280% since 2012); cultural displacement; Consejo Comunitario Pequeéka filed injunction 2025
+- **University**: **Universidad de la Sierra del Oeste (USO)** (founded 1971; 18,000 students; leading mining engineering; only full Zopikí studies degree program in Zoop)
+- **Cultural institutions**: Centro Cultural Pequeéka (est. 1995); Cooperativa de Tejedoras Pequeéka (est. 1998); Radio Pequeéka (since 2003; Zopikí-language, 6 hrs/day); Museo Minero de Cerro Verde
+- **Mining companies**: MINORSA (founded 1962; state mining company); Mina Cóndor (copper; Laguna Sal; opened 1964); Parque Empresarial Cerro Verde (lithium industry offices; est. 2016); Barrio Tupanaku (workers' housing; est. 2018; 28,000 residents)
+
+### Mid-Sized City Key Facts — Locked
+
+| City | Province | Pop | Key fact |
+|---|---|---|---|
+| Villa Aranduy | Aranduy | 310K | Livestock market capital; Fiesta de la Ganadería (March); Estancia Los Ceibos heritage |
+| Corrientes del Marán | Llanuras del Centro | 265K | Major rail junction; Civil War battles (1835, 1859); Reducción del Marán memorial nearby |
+| Santa Lucía | Santa Lucía del Mar | 212K | Secondary port (6M t/yr); co-located naval base; oldest English pub in Zoop (The Lighthouse, 1887) |
+| Villa Inés | Bahía Larga | 195K | Dairy capital; Fiesta del Limón (June); flamingo ecotourism; only Zoopan capital named for a woman |
+| San Ignacio de las Cumbres | Las Cumbres | 167K | Colonial mining heritage (1598); Iglesia San Ignacio (1612); Parque Nacional Tupanaku gateway; War of Independence siege (1821) |
+| Quilmes | Quilmes del Sur | 178K | Near Welsh colony Nueva Gales (45 km); Eisteddfod overflow; Llyfrau'r Pampas bookshop; Battle of Quilmes (1819) |
+| Candelaria del Mar | Candelaria | 148K | Most tropical Zoopan city; Playa de San Roque; coconut/mango food culture |
+| Hondo | Río Hondo | 134K | Surrender at Hondo (1822; War of Independence end); Museo Paleontológico Nacional; Represa Aranduy access |
+| Laguna Sal | Pequeé Norte | 98K | Copper mining (Mina Cóndor); 2,890 m altitude; Combate de las Lagunas Altas (1934; Guerra del Cerro Verde) |
+| Puerto Viejo | Maraná | 87K | Fishing port; Atlantic fleet; part of Puerto Marán metro; original 1855 railway terminus |
+| Río Blanco | Las Cumbres | 76K | Colonial silver mining ruins (1571 church); wine country access; Acuerdo de Río Blanco (1980 Cordillera War ceasefire) |
+| Arroyo Grande | San Bartolomé | 71K | River port; Reducción San Isidro site nearby; Bartomaca Zopikí memorial |
+| Nueva Gales | Quilmes del Sur | 58K | Welsh colony; Y Wladfa Newydd; Eisteddfod since 1887; Ysgol Gymraeg; ~4,200 Welsh speakers |
+| Paso de las Aguas | Río Hondo | 52K | Southern border town; RN-14 / Paso de las Aguas Internacional |
